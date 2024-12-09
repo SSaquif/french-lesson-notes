@@ -108,9 +108,9 @@
 12. 29 Novembre 2024
 
     - [Vocabulaire - Les noms des endroits d'un quartier](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631041)
-    - [Homework | Une consonne à la prononciation particulière (R) ]https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7572862
-    - [Homework | Des consonnes aux multiples prononciations (Le double L)]https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7572863
-    - [Homework | Des consonnes aux multiples prononciations (Le X)]https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7572864
+    - [Homework | Une consonne à la prononciation particulière (R) ](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7572862)
+    - [Homework | Des consonnes aux multiples prononciations (Le double L)](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7572863)
+    - [Homework | Des consonnes aux multiples prononciations (Le X)](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7572864)
     - [Evaluation | Évaluation - Compréhension de l'oral - Comprendre des personnes qui parlent d'elles et de leurs intérêts](https://avenue.ca/classroom/mod/quiz/view.php?id=7517555)
     - [Evaluation | NCLC 2 - Expression orale - Parler de soi et de ses intérêts (Tâche de mise en pratique)](https://avenue.ca/classroom/mod/assign/view.php?id=7517553)
 
