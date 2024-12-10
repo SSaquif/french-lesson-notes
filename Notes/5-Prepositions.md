@@ -1,3 +1,0 @@
-# Prepositions
-
-## Prepositions of Place

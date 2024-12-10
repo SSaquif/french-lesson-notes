@@ -25,33 +25,33 @@
 
 > Meaning: to be
 
-| English          | French      | pronunciation | Passé Composé (Past Tense) |
-| ---------------- | ----------- | ------------- | -------------------------- |
-| I am             | Je suis     |               | J'ai été                   |
-| You are          | Tu es       |               | Tu as été                  |
-| You are (formal) | Vous êtes   |               | Vous avez été              |
-| He is            | Il est      |               | Il a été                   |
-| She is           | Elle est    |               | Elle a été                 |
-| You/We/They are  | On est      |               | On a été                   |
-| We are           | Nous sommes |               | Nous avons été             |
-| They are         | Ils sont    |               | Ils ont été                |
-| They are         | Elles sont  |               | Elles ont été              |
+| English          | French      | pronunciation | Passé Composé (Past Tense) | pronunciation        |
+| ---------------- | ----------- | ------------- | -------------------------- | -------------------- |
+| I am             | Je suis     | Juh swee      | J'ai été                   | Jay eh-tay           |
+| You are          | Tu es       | Too eh        | Tu as été                  | Too ah-zay           |
+| You are (formal) | Vous êtes   | Voo zet       | Vous avez été              | Voo zah-vay          |
+| He is            | Il est      | Eel eh        | Il a été                   | Eel ah-tay           |
+| She is           | Elle est    | Ell eh        | Elle a été                 | Ell ah-tay           |
+| You/We/They are  | On est      | Ohn eh        | On a été                   | Ohn ah-tay           |
+| We are           | Nous sommes | Noo som       | Nous avons été             | Noo zah-vohn zay-tay |
+| They are         | Ils sont    | Eel sohn      | Ils ont été                | Eel zohn-tay         |
+| They are         | Elles sont  | Ell sohn      | Elles ont été              | Ell zohn-tay         |
 
 ## Avoir
 
 > Meaning: to have
 
-| English           | French     | pronunciation | Passé Composé (Past Tense) |
-| ----------------- | ---------- | ------------- | -------------------------- |
-| I have            | J'ai       |               | J'ai eu                    |
-| You have          | Tu as      |               | Tu as eu                   |
-| You have (formal) | Vous avez  |               | Vous avez eu               |
-| He has            | Il a       |               | Il a eu                    |
-| She has           | Elle a     |               | Elle a eu                  |
-| You/We/They       | On a       |               | On a eu                    |
-| We have           | Nous avons |               | Nous avons eu              |
-| They have         | Ils ont    |               | Ils ont eu                 |
-| They have         | Elles ont  |               | Elles ont eu               |
+| English           | French     | pronunciation | Passé Composé (Past Tense) | pronunciation   |
+| ----------------- | ---------- | ------------- | -------------------------- | --------------- |
+| I have            | J'ai       | Jhay          | J'ai eu                    | Jay eu          |
+| You have          | Tu as      | Too ah        | Tu as eu                   | Too ah-eu       |
+| You have (formal) | Vous avez  | Voo zah-vay   | Vous avez eu               | Voo zah-vay eu  |
+| He has            | Il a       | Eel ah        | Il a eu                    | Eel ah eu       |
+| She has           | Elle a     | Ell ah        | Elle a eu                  | Ell ah eu       |
+| You/We/They       | On a       | Ohn ah        | On a eu                    | Ohn ah eu       |
+| We have           | Nous avons | Noo zah-vohn  | Nous avons eu              | Noo zah-vohn eu |
+| They have         | Ils ont    | Eel zohn      | Ils ont eu                 | Eel zohn-tu     |
+| They have         | Elles ont  | Ell zohn      | Elles ont eu               | Ell zohn-tu     |
 
 ### Être & Avoir
 
@@ -67,15 +67,15 @@
 
 | English           | French        | pronunciation |
 | ----------------- | ------------- | ------------- |
-| I want            | Je veux       |               |
-| You want          | Tu veux       |               |
-| You want (formal) | Vous voulez   |               |
-| He wants          | Il veut       |               |
-| She wants         | Elle veut     |               |
-| You/We/They want  | On veut       |               |
-| We want           | Nous voulons  |               |
-| They want         | Ils veulent   |               |
-| They want         | Elles veulent |               |
+| I want            | Je veux       | Juh vuh       |
+| You want          | Tu veux       | Too vuh       |
+| You want (formal) | Vous voulez   | Voo voo-lay   |
+| He wants          | Il veut       | Eel vuh       |
+| She wants         | Elle veut     | Ell vuh       |
+| You/We/They want  | On veut       | Ohn vuh       |
+| We want           | Nous voulons  | Noo voo-lawn  |
+| They want         | Ils veulent   | Eel vuhl      |
+| They want         | Elles veulent | Ell vuhl      |
 
 ## Pouvoir
 
@@ -83,15 +83,15 @@
 
 | English          | French        | pronunciation |
 | ---------------- | ------------- | ------------- |
-| I can            | Je peux       |               |
-| You can          | Tu peux       |               |
-| You can (formal) | Vous pouvez   |               |
-| He can           | Il peut       |               |
-| She can          | Elle peut     |               |
-| You/We/They can  | On peut       |               |
-| We can           | Nous pouvons  |               |
-| They can         | Ils peuvent   |               |
-| They can         | Elles peuvent |               |
+| I can            | Je peux       | Juh pooh      |
+| You can          | Tu peux       | Too pooh      |
+| You can (formal) | Vous pouvez   | Voo poo-vay   |
+| He can           | Il peut       | Eel pooh      |
+| She can          | Elle peut     | Ell pooh      |
+| You/We/They can  | On peut       | Ohn pooh      |
+| We can           | Nous pouvons  | Noo poo-vohn  |
+| They can         | Ils peuvent   | Eel puhv      |
+| They can         | Elles peuvent | Ell puhv      |
 
 ## Faire
 
@@ -195,12 +195,12 @@
 
 | English            | French        | pronunciation |
 | ------------------ | ------------- | ------------- |
-| I sleep            | Je dors       |               |
-| You sleep          | Tu dors       |               |
-| You sleep (formal) | Vous dormez   |               |
-| He sleeps          | Il dort       |               |
-| She sleeps         | Elle dort     |               |
-| You/We/They sleep  | On dort       |               |
-| We sleep           | Nous dormons  |               |
-| They sleep         | Ils dorment   |               |
-| They sleep         | Elles dorment |               |
+| I sleep            | Je dors       | Juh dohr      |
+| You sleep          | Tu dors       | Too dohr      |
+| You sleep (formal) | Vous dormez   | Voo dohr-may  |
+| He sleeps          | Il dort       | Eel dohr      |
+| She sleeps         | Elle dort     | Ell dohr      |
+| You/We/They sleep  | On dort       | Ohn dohr      |
+| We sleep           | Nous dormons  | Noo dohr-moh  |
+| They sleep         | Ils dorment   | Eel dohr-mohn |
+| They sleep         | Elles dorment | Ell dohr-mohn |

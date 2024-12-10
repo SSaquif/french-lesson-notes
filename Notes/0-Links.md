@@ -3,6 +3,7 @@
 - [News in French](https://www.newsinslowfrench.com/french-podcast)
 - [Google Classroom | Level 2](https://classroom.google.com/u/0/c/NzMwMjc0NDE2NDYz)
 - [Avenue Platform](https://avenue.ca/)
+- [Useful Link on Prepositions](https://francais.lingolia.com/en/grammar/prepositions)
 
 ## Classroom Links
 
@@ -188,3 +189,17 @@
     | [Homework \| Adjectifs possessifs](https://www.lepointdufle.net/ressources_fle/adjectifs-possessifs4.htm)                                                               | Possessive adjectives                                                     |
     | [Evaluation \| Compréhension de l'écrit - Messages entre ami(e)s](https://avenue.ca/classroom/mod/quiz/view.php?id=7517554)                                             | Reading comprehension - Messages between friends                          |
     | [Evaluation \| Expression écrite - Décrire quelqu'un à son instructeur(-trice) (Tâche de mise en pratique)](https://avenue.ca/classroom/mod/assign/view.php?id=7517552) | Written expression - Describe someone to your instructor (Practical task) |
+
+18. 9 Décembre 2024
+
+    | French                                                                                                                                          | English                                                     |
+    | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+    | [Compréhension de l'oral - Rencontrer ses nouveaux voisins](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631071)                    | Listening comprehension - Meet your new neighbors           |
+    | [Expression orale - Se présenter](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631072)                                              | Oral expression - Introduce yourself                        |
+    | [Expression orale - Présenter quelqu'un](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631073)                                       | Oral expression - Introduce someone                         |
+    | [Une lettre muette particulière (H)](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7517627)                                           | A particular silent letter (H)                              |
+    | [Les consonnes muettes à l'intérieur des mots](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7517628)                                 | Silent consonants inside words                              |
+    | [Les consonnes finales muettes](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7517629)                                                | Silent final consonants                                     |
+    | [Se renseigner sur son nouveau quartier](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7517611)                                       | Inquire about his new neighborhood                          |
+    | [ Homework \| Grammaire: Le verbe être au présent de l’indicatif (Je suis...)](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631077) | Grammar: The verb to be in the present indicative (I am...) |
+    | [ Homework \| Grammaire: Le féminin et le masculin - Les adjectifs](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631079)            | Grammar: The feminine and masculine - Adjectives            |

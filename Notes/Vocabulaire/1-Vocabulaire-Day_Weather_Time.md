@@ -37,3 +37,6 @@
 | Summer  | Été       | Ay-tay         |
 | Autumn  | Automne   | O-tohn         |
 | Winter  | Hiver     | Ee-vair        |
+
+Le quartier
+C'est quoi l'endroit = What is the place
