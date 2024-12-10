@@ -204,3 +204,35 @@
 | We sleep           | Nous dormons  | Noo dohr-moh  |
 | They sleep         | Ils dorment   | Eel dohr-mohn |
 | They sleep         | Elles dorment | Ell dohr-mohn |
+
+## Venir
+
+> Meaning: to come
+
+| English           | French         | pronunciation |
+| ----------------- | -------------- | ------------- |
+| I come            | Je viens       | Juh vee-ahn   |
+| You come          | Tu viens       | Too vee-ahn   |
+| You come (formal) | Vous venez     | Voo vuh-nay   |
+| He comes          | Il vient       | Eel vee-ahn   |
+| She comes         | Elle vient     | Ell vee-ahn   |
+| You/We/They come  | On vient       | Ohn vee-ahn   |
+| We come           | Nous venons    | Noo vuh-nohn  |
+| They come         | Ils viennent   | Eel vee-ahn   |
+| They come         | Elles viennent | Ell vee-ahn   |
+
+## Aller
+
+> Meaning: to go
+
+| English         | French      | pronunciation |
+| --------------- | ----------- | ------------- |
+| I go            | Je vais     | Juh veh       |
+| You go          | Tu vas      | Too vah       |
+| You go (formal) | Vous allez  | Voo zah-lay   |
+| He goes         | Il va       | Eel vah       |
+| She goes        | Elle va     | Ell vah       |
+| You/We/They go  | On va       | Ohn vah       |
+| We go           | Nous allons | Noo zah-lohn  |
+| They go         | Ils vont    | Eel vohn      |
+| They go         | Elles vont  | Ell vohn      |

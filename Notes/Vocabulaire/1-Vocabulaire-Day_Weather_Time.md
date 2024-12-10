@@ -40,3 +40,8 @@
 
 Le quartier
 C'est quoi l'endroit = What is the place
+
+it is not sunny today = il n'est pas soleil aujourd'hui
+it is very cloudy today = il est très nuageux aujourd'hui
+sunshine = éclaircis de soleil
+il n'y a pas d'arc-en-ciel = there is no rainbow

@@ -32,44 +32,47 @@ https://www.lepointdufle.net/ressources_fle/articles_negation.htm
 
 ## Articles 'définis' :
 
-le
-la
-l'
-les → ne ... pas LE
-→ ne ... pas LA
-→ ne ... pas L'
-→ ne ... pas LES
+| Form Affirmative | Form Negative  |
+| ---------------- | -------------- |
+| le               | ne ... pas LE  |
+| la               | ne ... pas LA  |
+| l'               | ne ... pas L'  |
+| les              | ne ... pas LES |
 
-Il ouvre la porte.
-Il n'ouvre pas la porte.
+| Examples           |                          |
+| ------------------ | ------------------------ |
+| Il ouvre la porte. | Il n'ouvre pas la porte. |
 
 ## Articles 'indéfinis' :
 
-un
-une
-des → ne ... pas DE
-→ ne ... pas D'
+| Form Affirmative | Form Negative              |
+| ---------------- | -------------------------- |
+| un               |                            |
+|                  | ne ... pas DE              |
+| une              |                            |
+|                  | ne ... pas D' (when vowel) |
+| des              |                            |
 
-Il a un chien.
-Il n'a pas de chien.
+Exceptions is with the verb `être`:
 
-SAUF avec être :
-
-C'est un jeu amusant.
-Ce n'est pas un jeu amusant.
+| Examples              | Negative Form                | Notes                          |
+| --------------------- | ---------------------------- | ------------------------------ |
+| Il a un chien.        | Il n'a pas de chien.         |                                |
+| C'est un jeu amusant. | Ce n'est pas un jeu amusant. | Exception since its verb être. |
 
 ## Articles partitifs :
 
-du
-de la
-de l' → ne ... pas DE
-→ ne ... pas D'
+| Form Affirmative | Form Negative |
+| ---------------- | ------------- |
+| du               |               |
+|                  | ne ... pas DE |
+| de la            |               |
+|                  | ne ... pas D' |
+| de l'            |               |
 
-Il a de l'argent.
-Il n'a pas d'argent.
+> Exceptions is with the verb `être`: Same as above with Articles 'indéfinis'.
 
-SAUF avec être :
-l'opposition
-
-C'est de la musique.
-Ce n'est pas de la musique.
+| Examples             | Negative Form               | Notes                          |
+| -------------------- | --------------------------- | ------------------------------ |
+| Il a de l'argent.    | Il n'a pas d'argent.        |                                |
+| C'est de la musique. | Ce n'est pas de la musique. | Exception since its verb être. |

@@ -94,7 +94,7 @@ In French, there are simple prepositions (à, chez, etc.) as well as longer prep
 
 | French                | English                 | Usage                                                      | Example                                        | Meaning                                              |
 | --------------------- | ----------------------- | ---------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------- |
-| à (au, aux, à + l')   | in,to                   | buildings                                                  | à la maison, au cinéma                         | at home, at the cinema                               |
+| à (au, aux, à + l')   | at,in,to                | buildings                                                  | à la maison, au cinéma                         | at/in/to home, at/in/to the cinema                   |
 |                       |                         | cities                                                     | à Paris, à New York                            | in Paris, in New York                                |
 |                       |                         | countries (masc.)                                          | au Canada, aux États-Unis                      | in Canada, in the United States                      |
 | à côté (de)           | next to                 | next to                                                    | Jeanne à côté de la maison                     | Jeanne is next to the house                          |

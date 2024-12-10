@@ -157,3 +157,50 @@ Voilà: There is / There are (used when pointing out something farther away)+ no
 Ici: Here (indicating a specific location close to you) , ici+ sentence
 Là: There (indicating a specific location farther away) là + sentence
 Là-bas: Over there (indicating a more distant location) là-bas+ sentence
+
+Bonjour Christophe
+Comment allez-vous?
+
+Bonjour Eric
+Très bien, merci. Et vous, ca va?
+
+I hope you feel better
+
+je te souhaite un prompt rétablissement = I wish you a speedy recovery
+
+# Convo
+
+Eric:Bonjour Christophe. Comment allez-vous?
+Christophe: Bonjour Eric. Très bien, merci. Et vous, ça va?
+Eric: Pas mal, Salut Maxime, ca va?
+Maxime: Ça va, et toi?
+Christophe: Bonjour Maxime
+Eric: Tiens, bonjour Sophie
+Sophie: Bonjour Eric.
+Eric: Christophe, je vous présente Sophie. Notre nouvelle voisine.
+Christophe: Ah bon! Enchante, Sophie. Vous habitez dans le quartier?
+Sophie: Oui, j’habite à côté.
+Christophe: Ah? Eh bien, bienvenue, Sophie
+Sophie: Merci Christophe. Ravie de faire votre connaissance
+Christophe: A bientôt Sophie. Bientôt Eric. Au revoir Maxime. Bonne journee!
+Sophie: Au revoir Christophe. Bonne journee!
+Eric: Sophie, on se tutoie?
+Sophie: Avec plasir
+
+Meaning
+Bonjour Christophe. Comment allez-vous? = Hello Christophe. How are you?
+Bonjour Eric. Très bien, merci. Et vous, ça va? = Hello Eric. Very well, thank you. And you, how are you?
+Pas mal, Salut Maxime, ça va? = Not bad, Hi Maxime, how are you?
+Ça va, et toi? = I'm fine, and you?
+Bonjour Maxime = Hello Maxime
+Tiens, bonjour Sophie = Hey, hello Sophie
+Bonjour Eric = Hello Eric
+Christophe, je vous présente Sophie. Notre nouvelle voisine. = Christophe, I present to you Sophie. Our new neighbor.
+Ah bon! Enchanté, Sophie. Vous habitez dans le quartier? = Oh really! Nice to meet you, Sophie. Do you live in the neighborhood?
+Oui, j’habite à côté. = Yes, I live next door.
+Ah? Eh bien, bienvenue, Sophie = Oh? Well, welcome, Sophie
+Merci Christophe. Ravie de faire votre connaissance = Thank you Christophe. Nice to meet you
+A bientôt Sophie. Bientôt Eric. Au revoir Maxime. Bonne journée! = See you soon Sophie. See you soon Eric. Goodbye Maxime. Have a good day!
+Au revoir Christophe. Bonne journée! = Goodbye Christophe. Have a good day!
+Sophie, on se tutoie? = Sophie, do we use the informal "tu" form?
+Avec plaisir = With pleasure

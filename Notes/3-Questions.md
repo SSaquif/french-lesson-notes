@@ -97,5 +97,8 @@
 1. > When we invert the subject and verb, if the verb ends with a `-d`, we pronounce it as a `-t`.
    - Quand part-il? (When is he leaving?)
    - Prend-on un café ensemble? (Shall we have a coffee together?)
-2. Common Questions
-   - Qu'est ce qui se passe? (What's happening?)
+
+## Common Questions
+
+1. Qu'est ce qui se passe? (What's happening?)
+2.
