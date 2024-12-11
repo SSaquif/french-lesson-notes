@@ -1,11 +1,21 @@
 # Negatives
 
-> Notes need organising
+<!-- toc -->
+
+- [Intro and Basics with `être`, `avoir` and `se sentir`](#intro-and-basics-with-etre-avoir-and-se-sentir)
+  * [Example with the verb `être`, `avoir` and `se sentir`:](#example-with-the-verb-etre-avoir-and-se-sentir)
+- [Articles 'définis' :](#articles-definis-)
+- [Articles 'indéfinis' :](#articles-indefinis-)
+- [Articles partitifs :](#articles-partitifs-)
+
+<!-- tocstop -->
+
+## Intro and Basics with `être`, `avoir` and `se sentir`
 
 > To form a negative sentence, place the words `ne` and `pas` on either side of the verb.
 > (Pour former une phrase négative, on place les mots « ne » et « pas » de chaque côté du verbe.)
 
-Example with the verb `être`, `avoir` and `se sentir`:
+### Example with the verb `être`, `avoir` and `se sentir`:
 
 | Form Affirmative             | Form Negative                      | Meaning                         |
 | ---------------------------- | ---------------------------------- | ------------------------------- |

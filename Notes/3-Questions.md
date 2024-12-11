@@ -1,5 +1,17 @@
 # Askig Questions in French
 
+<!-- toc -->
+
+- [Question Words](#question-words)
+  * [Examples](#examples)
+- [L'Interrogation Totale (Yes/No Questions)](#linterrogation-totale-yesno-questions)
+  * [Rules and Exceptions and Notes](#rules-and-exceptions-and-notes)
+- [L'Interrogation Partielle (Partial Questions | réponse autre que oui-non-si (answer other than yes-no-if))](#linterrogation-partielle-partial-questions--reponse-autre-que-oui-non-si-answer-other-than-yes-no-if)
+  * [Rules and Exceptions and Notes](#rules-and-exceptions-and-notes-1)
+- [Common Questions](#common-questions)
+
+<!-- tocstop -->
+
 ## Question Words
 
 | French           | English    | Pronounciation       |

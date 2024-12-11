@@ -9,6 +9,18 @@ In French, there are simple prepositions (à, chez, etc.) as well as longer prep
 
 > Unfortunately, prepositions often can’t be translated literally. The only solution is to look them up in a dictionary, read a lot in French, and learn important prepositional phrases by heart
 
+## Contents
+
+<!-- toc -->
+
+- [Common Prepositions Rules](#common-prepositions-rules)
+- [Easily Mixed-Up Words](#easily-mixed-up-words)
+- [Prepositions of Time](#prepositions-of-time)
+- [Prepositions of Place and Direction](#prepositions-of-place-and-direction)
+- [Other Important Prepositions](#other-important-prepositions)
+
+<!-- tocstop -->
+
 ## Common Prepositions Rules
 
 1. The use of the preposition `à` & `de` followed by a noun with articles `le`, `la` and `les`:

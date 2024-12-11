@@ -2,19 +2,26 @@
 
 ## Table of Contents
 
+<!-- toc -->
+
 - [Things to keep in mind](#things-to-keep-in-mind)
-- [Être](#être)
+- [Être](#etre)
 - [Avoir](#avoir)
-  - [Être & Avoir](#être--avoir)
+  - [Être & Avoir](#etre--avoir)
 - [Vouloir](#vouloir)
 - [Pouvoir](#pouvoir)
 - [Faire](#faire)
 - [Prendre](#prendre)
 - [Voir](#voir)
 - [Parler](#parler)
+- [Écouter](#ecouter)
 - [Manger](#manger)
 - [Boire](#boire)
 - [Dormir](#dormir)
+- [Venir](#venir)
+- [Aller](#aller)
+
+<!-- tocstop -->
 
 ## Things to keep in mind
 
@@ -24,6 +31,7 @@
 ## Être
 
 > Meaning: to be
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-%C3%AAtre.html)
 
 | English          | French      | pronunciation | Passé Composé (Past Tense) | pronunciation        |
 | ---------------- | ----------- | ------------- | -------------------------- | -------------------- |
@@ -40,6 +48,7 @@
 ## Avoir
 
 > Meaning: to have
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-avoir.html)
 
 | English           | French     | pronunciation | Passé Composé (Past Tense) | pronunciation   |
 | ----------------- | ---------- | ------------- | -------------------------- | --------------- |
@@ -64,6 +73,7 @@
 ## Vouloir
 
 > Meaning: to want
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-vouloir.html)
 
 | English           | French        | pronunciation |
 | ----------------- | ------------- | ------------- |
@@ -80,6 +90,7 @@
 ## Pouvoir
 
 > Meaning: to be able to or can
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-pouvoir.html)
 
 | English          | French        | pronunciation |
 | ---------------- | ------------- | ------------- |
@@ -96,102 +107,160 @@
 ## Faire
 
 > Meaning: to do or to make
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-faire.html)
 
 | English         | French       | pronunciation |
 | --------------- | ------------ | ------------- |
-| I do            | Je fais      |               |
-| You do          | Tu fais      |               |
-| You do (formal) | Vous faites  |               |
-| He does         | Il fait      |               |
-| She does        | Elle fait    |               |
-| You/We/They do  | On fait      |               |
-| We do           | Nous faisons |               |
-| They do         | Ils font     |               |
-| They do         | Elles font   |               |
+| I do            | Je fais      | Juh feh       |
+| You do          | Tu fais      | Too feh       |
+| You do (formal) | Vous faites  | Voo feht      |
+| He does         | Il fait      | Eel feh       |
+| She does        | Elle fait    | Ell feh       |
+| You/We/They do  | On fait      | Ohn feh       |
+| We do           | Nous faisons | Noo feh-zohn  |
+| They do         | Ils font     | Eel fohn      |
+| They do         | Elles font   | Ill fohn      |
 
 ## Prendre
 
 > Meaning: to take
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-prendre.html)
 
 | English           | French         | pronunciation |
 | ----------------- | -------------- | ------------- |
-| I take            | Je prends      |               |
-| You take          | Tu prends      |               |
-| You take (formal) | Vous prenez    |               |
-| He takes          | Il prend       |               |
-| She takes         | Elle prend     |               |
-| You/We/They take  | On prend       |               |
-| We take           | Nous prenons   |               |
-| They take         | Ils prennent   |               |
-| They take         | Elles prennent |               |
+| I take            | Je prends      | Juh prahn     |
+| You take          | Tu prends      | Too prahn     |
+| You take (formal) | Vous prenez    | Voo pruh-nay  |
+| He takes          | Il prend       | Eel prahn     |
+| She takes         | Elle prend     | Ell prahn     |
+| You/We/They take  | On prend       | Ohn prahn     |
+| We take           | Nous prenons   | Noo pruh-nohn |
+| They take         | Ils prennent   | Eel prehn     |
+| They take         | Elles prennent | Ell prehn     |
 
 ## Voir
 
 > Meaning: to see
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-voir.html)
 
 | English          | French       | pronunciation |
 | ---------------- | ------------ | ------------- |
-| I see            | Je vois      |               |
-| You see          | Tu vois      |               |
-| You see (formal) | Vous voyez   |               |
-| He sees          | Il voit      |               |
-| She sees         | Elle voit    |               |
-| You/We/They see  | On voit      |               |
-| We see           | Nous voyons  |               |
-| They see         | Ils voient   |               |
-| They see         | Elles voient |               |
+| I see            | Je vois      | Juh vwa       |
+| You see          | Tu vois      | Too vwa       |
+| You see (formal) | Vous voyez   | Voo vwa-yay   |
+| He sees          | Il voit      | Eel vwa       |
+| She sees         | Elle voit    | Ell vwa       |
+| You/We/They see  | On voit      | Ohn vwa       |
+| We see           | Nous voyons  | Noo vwa-yohn  |
+| They see         | Ils voient   | Eel vwa       |
+| They see         | Elles voient | Ell vwa       |
 
 ## Parler
 
 > Meaning: to speak
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-parler.html)
 
 | English            | French        | pronunciation |
 | ------------------ | ------------- | ------------- |
-| I speak            | Je parle      |               |
-| You speak          | Tu parles     |               |
-| You speak (formal) | Vous parlez   |               |
-| He speaks          | Il parle      |               |
-| She speaks         | Elle parle    |               |
-| You/We/They speak  | On parle      |               |
-| We speak           | Nous parlons  |               |
-| They speak         | Ils parlent   |               |
-| They speak         | Elles parlent |               |
+| I speak            | Je parle      | Juh parl      |
+| You speak          | Tu parles     | Too parl      |
+| You speak (formal) | Vous parlez   | Voo parl-ay   |
+| He speaks          | Il parle      | Eel parl      |
+| She speaks         | Elle parle    | Ell parl      |
+| You/We/They speak  | On parle      | Ohn parl      |
+| We speak           | Nous parlons  | Noo parl-ohn  |
+| They speak         | Ils parlent   | Eel parl      |
+| They speak         | Elles parlent | Ell parl      |
+
+## Écouter
+
+> Meaning: to listen
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-%C3%A9couter.html)
+
+| English             | French         | pronunciation   |
+| ------------------- | -------------- | --------------- |
+| I listen            | J'écoute       | Jhay-coot       |
+| You listen          | Tu écoutes     | Too-ay-coot     |
+| You listen (formal) | Vous écoutez   | Voo-zay-cootay  |
+| He listens          | Il écoute      | Eel-ay-coot     |
+| She listens         | Elle écoute    | Ell-ay-coot     |
+| You/We/They listen  | On écoute      | Ohn-coot        |
+| We listen           | Nous écoutons  | Noo-zay-cootohn |
+| They listen         | Ils écoutent   | Eel-zay-coot    |
+| They listen         | Elles écoutent | Ell-zay-coot    |
+
+## lire
+
+> Meaning: to read
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-lire.html)
+
+| English           | French       | pronunciation |
+| ----------------- | ------------ | ------------- |
+| I read            | Je lis       | Juh lee       |
+| You read          | Tu lis       | Too lee       |
+| You read (formal) | Vous lisez   | Voo lee-zay   |
+| He reads          | Il lit       | Eel lee       |
+| She reads         | Elle lit     | Ell lee       |
+| You/We/They read  | On lit       | Ohn lee       |
+| We read           | Nous lisons  | Noo lee-zohn  |
+| They read         | Ils lisent   | Eel lee       |
+| They read         | Elles lisent | Ell lee       |
+
+## Écrire
+
+> Meaning: to write
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-%C3%A9crire.html)
+
+| English            | French         | pronunciation |
+| ------------------ | -------------- | ------------- |
+| I write            | J'écris        | Jay-kree      |
+| You write          | Tu écris       | Too-kree      |
+| You write (formal) | Vous écrivez   | Voo-kree-vay  |
+| He writes          | Il écrit       | Eel-kree      |
+| She writes         | Elle écrit     | Ell-kree      |
+| You/We/They write  | On écrit       | Ohn-kree      |
+| We write           | Nous écrivons  | Noo-kree-vohn |
+| They write         | Ils écrivent   | Eel-kree      |
+| They write         | Elles écrivent | Ell-kree      |
 
 ## Manger
 
 > Meaning: to eat
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-manger.html)
 
 | English          | French        | pronunciation |
 | ---------------- | ------------- | ------------- |
-| I eat            | Je mange      |               |
-| You eat          | Tu manges     |               |
-| You eat (formal) | Vous mangez   |               |
-| He eats          | Il mange      |               |
-| She eats         | Elle mange    |               |
-| You/We/They eat  | On mange      |               |
-| We eat           | Nous mangeons |               |
-| They eat         | Ils mangent   |               |
-| They eat         | Elles mangent |               |
+| I eat            | Je mange      | Juh mahnj     |
+| You eat          | Tu manges     | Too mahnj     |
+| You eat (formal) | Vous mangez   | Voo mahn-jay  |
+| He eats          | Il mange      | Eel mahnj     |
+| She eats         | Elle mange    | Ell mahnj     |
+| You/We/They eat  | On mange      | Ohn mahnj     |
+| We eat           | Nous mangeons | Noo mahn-john |
+| They eat         | Ils mangent   | Eel mahnj     |
+| They eat         | Elles mangent | Ell mahnj     |
 
 ## Boire
 
 > Meaning: to drink
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-boire.html)
 
 | English            | French        | pronunciation |
 | ------------------ | ------------- | ------------- |
-| I drink            | Je bois       |               |
-| You drink          | Tu bois       |               |
-| You drink (formal) | Vous buvez    |               |
-| He drinks          | Il boit       |               |
-| She drinks         | Elle boit     |               |
-| You/We/They drink  | On boit       |               |
-| We drink           | Nous buvons   |               |
-| They drink         | Ils boivent   |               |
-| They drink         | Elles boivent |               |
+| I drink            | Je bois       | Juh bwah      |
+| You drink          | Tu bois       | Too bwah      |
+| You drink (formal) | Vous buvez    | Voo bweh-vay  |
+| He drinks          | Il boit       | Eel bwah      |
+| She drinks         | Elle boit     | Ell bwah      |
+| You/We/They drink  | On boit       | Ohn bwah      |
+| We drink           | Nous buvons   | Noo bweh-vohn |
+| They drink         | Ils boivent   | Eel bwah      |
+| They drink         | Elles boivent | Ell bwah      |
 
 ## Dormir
 
 > Meaning: to sleep
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-dormir.html)
 
 | English            | French        | pronunciation |
 | ------------------ | ------------- | ------------- |
@@ -208,6 +277,7 @@
 ## Venir
 
 > Meaning: to come
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-venir.html)
 
 | English           | French         | pronunciation |
 | ----------------- | -------------- | ------------- |
@@ -224,6 +294,7 @@
 ## Aller
 
 > Meaning: to go
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-aller.html)
 
 | English         | French      | pronunciation |
 | --------------- | ----------- | ------------- |
