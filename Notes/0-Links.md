@@ -203,3 +203,43 @@
     | [Se renseigner sur son nouveau quartier](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7517611)                                       | Inquire about his new neighborhood                          |
     | [ Homework \| Grammaire: Le verbe être au présent de l’indicatif (Je suis...)](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631077) | Grammar: The verb to be in the present indicative (I am...) |
     | [ Homework \| Grammaire: Le féminin et le masculin - Les adjectifs](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631079)            | Grammar: The feminine and masculine - Adjectives            |
+
+19. 10 Décembre 2024
+    | French | English |
+    | --- | --- |
+    | [Sociolinguistique - Choisir entre le tutoiement et le vouvoiement (Se présenter à de nouveaux voisins)](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631074) | Sociolinguistics - Choose between tutoiement and vouvoiement (Introduce yourself to new neighbors) |
+    | [Sociolinguistique - Poser des questions de courtoisie et y répondre (Se présenter à de nouveaux voisins)](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631075) | Sociolinguistics - Ask polite questions and answer them (Introduce yourself to new neighbors) |
+    | [Interactions 1 Video 1 Se presenter](https://www.youtube.com/watch?v=uH5GWHvrlas) | Interactions 1 Video 1 Introduce yourself |
+    | [Les liaisons - Introduction](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7517596) | The links - Introduction |
+    | [Les liaisons obligatoires](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7517597) | Mandatory links |
+    | [Les liaisons interdites et les liaisons facultatives](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7517598) | Prohibited links and optional links |
+    | [](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7517599) | |
+    | [Homework \| Grammaire: Le féminin et le masculin - Les noms communs ((Se présenter à de nouveaux voisins))](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631078) | Grammar: The feminine and masculine - Common nouns (Introduce yourself to new neighbors) |
+    | [Homework \| Grammaire: Singulier et pluriel: Les noms(Grammaire: Singulier et pluriel: Les noms)](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631080) | Grammar: Singular and plural: Nouns (Grammar: Singular and plural: Nouns) |
+    | [Homework \| Quiz - Les liaisons ](https://avenue.ca/classroom/mod/quiz/view.php?id=7517601) | Quiz - Links |
+
+20. 11 Décembre 2024
+
+    | French                                                                                                                                                                      | English                                                                                              |
+    | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+    | [Sociolinguistique: Expressions à utiliser lorsqu'on ne comprend pas (Se présenter à de nouveaux voisins)](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631082) | Sociolinguistics: Expressions to use when you don't understand (Introduce yourself to new neighbors) |
+    | [Rencontre avec une personne perdue de vue](https://www.youtube.com/watch?v=46D9DDRGxsw)                                                                                    | meeting a long-lost person                                                                           |
+    | [Présentez votre camarade de classe](https://www.podcastfrancaisfacile.com/cours/cours-3c-2.html)                                                                           | Introduce your classmate                                                                             |
+    | [La famille Dubois](https://www.podcastfrancaisfacile.com/texte/la-famille-dubois.html)                                                                                     | The Dubois family                                                                                    |
+    | [Homework \| Fournir des informations personnelles](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7517608)                                                        | Provide personal information                                                                         |
+    | [Homework \| Situer un endroit de son quartier](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7517610)                                                            | Locate a place in your neighborhood                                                                  |
+    | [Homework \| Se présenter à quelqu'un](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7517612)                                                                     | Introduce yourself to someone                                                                        |
+
+21. 12 Décembre 2024
+
+| French                                                                                                                           | English                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [Les lieux pour inviter](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631124)                                        | Places to invite                                            |
+| [Les prépositions de lieu](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631125)                                      | Prepositions of place                                       |
+| [Prépositions de temps](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631130)                                         | Time prepositions                                           |
+| [Le verbe inviter et les pronoms personnels sujets (2e partie)](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631129) | The verb to invite and personal subject pronouns (2nd part) |
+| [Prononciation - ille](https://www.podcastfrancaisfacile.com/phonetique-prononciation/prononcer-ille.html)                       | Pronunciation - ille                                        |
+| [lire une invitation](https://avenue.ca/classroom/mod/scorm/view.php?id=7631132)                                                 | read an invitation                                          |
+| [Homework \| Conversations entre nouveaux voisins, 1re partie](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631083)  | Conversation between new neighbors, 1st part                |
+| [Homework\| Conversations entre nouveaux voisins, 2e partie](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631084)    | Conversation between new neighbors, 2nd part                |
+| [Homework\| Conversations entre nouveaux voisins, 3e partie](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631085)    | Conversation between new neighbors, 3rd part                |

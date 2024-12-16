@@ -18,6 +18,8 @@ In French, there are simple prepositions (à, chez, etc.) as well as longer prep
 - [Prepositions of Time](#prepositions-of-time)
 - [Prepositions of Place and Direction](#prepositions-of-place-and-direction)
 - [Other Important Prepositions](#other-important-prepositions)
+- [3 easily mixed up prepositions of place: When to use `chez`, `à` and `dans`?](#3-easily-mixed-up-prepositions-of-place-when-to-use-chez-a-and-dans)
+- [Easily Mixed-Up Prepositions of Place](#easily-mixed-up-prepositions-of-place)
 
 <!-- tocstop -->
 
@@ -100,6 +102,7 @@ In French, there are simple prepositions (à, chez, etc.) as well as longer prep
 |                       | in              | for all seasons except spring                                                   | en été, en automne                                          | in summer, in autumn                                |
 | jusque                | until           | until a certain point                                                           | jusqu'en Janvier, jusqu'à 8 heures, jusqu'à la fin          | until January, until 8 o'clock, until the end       |
 | pendant               | during, for ... | to indicate how long something lasts                                            | pendant une heure, pendant deux jours, pendant les vacances | for an hour, for two days, during the holidays      |
+| vers                  | around          | around a certain time                                                           | vers 8 heures, vers midi                                    | around 8 o'clock, around noon                       |
 | \*(special) il y a    | ago             | although not strictly a preposition, is useful for locating past events in time | il y a longtemps, il es parti il y a une heure              | a long time ago, he left an hour ago                |
 
 ## Prepositions of Place and Direction
@@ -173,3 +176,22 @@ In French, there are simple prepositions (à, chez, etc.) as well as longer prep
 | selon                  | according to                           | according to someone/something                             | selon le professeur, selon le journal                                                                                                                     | according to the teacher, according to the newspaper |
 |                        | depending on                           | selon le temps                                             | depending on the weather                                                                                                                                  |
 | sur                    | about                                  | about sth.                                                 | parler sur le sujet                                                                                                                                       | to talk about the subject                            |
+
+## 3 easily mixed up prepositions of place: When to use `chez`, `à` and `dans`?
+
+| Rule (Règle)                    | Example (Exemple)                                          | Translation (Traduction)                                      |
+| ------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------- |
+| chez + nom/ chez + pronom       | chez le boulanger, chez moi, chez Melanie                  | at the baker's, at my place, at Melanie's                     |
+| à + lieu (nom de lieu féminin)  | à la salle de fêtes, à l'église, à la gare                 | at the community center, at the church, at the station        |
+| à + lieu (nom de lieu masculin) | au cinéma, au Parc La Fontaine, au restaurant Bon Appétit  | at the cinema, at Parc La Fontaine, at Bon Appétit restaurant |
+| dans + lieu fermé/privé         | dans la maison, dans la cour de l’immeuble, dans le garage | in the house, in the building's courtyard, in the garage      |
+
+## Easily Mixed-Up Prepositions of Place
+
+| Rule (Règle)         | Example (Exemple)           | Translation (Traduction)     |
+| -------------------- | --------------------------- | ---------------------------- |
+| à + heure précise    | à 8 heures                  | at 8 o'clock                 |
+| de + heure à + heure | de 8 heures à 10 heures     | from 8 o'clock to 10 o'clock |
+| vers + heure         | vers 8 heures               | around 8 o'clock             |
+| (nothing)0 jour      | samedi, aujourd'hui, demain | Saturday, today, tomorrow    |
+| le + date            | le 23 juin 2020             | on June 23, 2020             |

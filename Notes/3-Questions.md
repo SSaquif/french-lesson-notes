@@ -3,31 +3,33 @@
 <!-- toc -->
 
 - [Question Words](#question-words)
-  * [Examples](#examples)
+  - [Examples](#examples)
 - [L'Interrogation Totale (Yes/No Questions)](#linterrogation-totale-yesno-questions)
-  * [Rules and Exceptions and Notes](#rules-and-exceptions-and-notes)
+  - [Rules and Exceptions and Notes](#rules-and-exceptions-and-notes)
 - [L'Interrogation Partielle (Partial Questions | réponse autre que oui-non-si (answer other than yes-no-if))](#linterrogation-partielle-partial-questions--reponse-autre-que-oui-non-si-answer-other-than-yes-no-if)
-  * [Rules and Exceptions and Notes](#rules-and-exceptions-and-notes-1)
+  - [Rules and Exceptions and Notes](#rules-and-exceptions-and-notes-1)
 - [Common Questions](#common-questions)
 
 <!-- tocstop -->
 
 ## Question Words
 
-| French           | English    | Pronounciation       |
-| ---------------- | ---------- | -------------------- |
-| Est-ce que       | Is it that | Es-ku(h)             |
-| Que              | That/What  | Ku(h)                |
-| Qui              | Who        | Key                  |
-| Quel             | What/Which | Kel                  |
-| Quand            | When       | Kan(d)               |
-| Où               | Where      | Oo                   |
-| Comment          | How        | Komo                 |
-| Pourquoi         | Why        | Por-koa              |
-| Combien          | How many   | Kombiye              |
-| Combien de       | How much   | Kombiye deux         |
-| Combien de temps | How long   | Kombiye deux te(h)mp |
-| Si               | If         | See                  |
+| French           | English    | Pronounciation           |
+| ---------------- | ---------- | ------------------------ |
+| Est-ce que       | Is it that | Es-ku(h)                 |
+| Qu'est-ce que    | What       | Kess-ku(h)               |
+| Que              | That/What  | Ku (like in cout d'etat) |
+| Quoi             | What       | Kwah                     |
+| Quel             | What/Which | Kel                      |
+| Qui              | Who        | Key                      |
+| Quand            | When       | Kan(d)                   |
+| Où               | Where      | Oo                       |
+| Comment          | How        | Komo                     |
+| Pourquoi         | Why        | Por-koa                  |
+| Combien          | How many   | Kombiye                  |
+| Combien de       | How much   | Kombiye deux             |
+| Combien de temps | How long   | Kombiye deux te(h)mp     |
+| Si               | If         | See                      |
 
 ### Examples
 
@@ -113,4 +115,90 @@
 ## Common Questions
 
 1. Qu'est ce qui se passe? (What's happening?)
-2.
+2. Qu'est-ce que tu fais? (What are you doing?)
+
+## Questions I have examples:
+
+I will dress warmly. (Je m'habillerai chaudement)
+
+| French                                   | English                         | Notes                                   |
+| ---------------------------------------- | ------------------------------- | --------------------------------------- |
+| Comment ça s'écrit?                      | How do you spell that?          |                                         |
+| Comment ça se prononce?                  | How do you pronounce that?      |                                         |
+| Qu'est-ce que ça veut dire?              | What does it mean?              | veut = want, dire = say ie: want to say |
+| Qu'est-ce que tu fais dans le weekend?   | What do you do on weekends?     |                                         |
+| Est-ce que quelqu'un est sorti ce matin? | Did anyone go out this morning? |                                         |
+
+What kind of event should we chose = Quel type d'événement devrions-nous choisir?
+
+Chaque groupe crée une invitation pour un événement à son choix, échangez les invitations, corrigez-les, puis posez des questions sur les informations indiquées = Each group creates an invitation for an event of their choice, exchange the invitations, correct them, then ask questions about the information indicated.
+
+Christmas Party = Fête de Noël
+
+What is the party for = Pourquoi la fête?
+When is the party = Quand est la fête?
+Where is the party = Où est la fête?
+How long is the party = Combien de temps dure la fête?
+Its an open bar = C'est un bar ouvert
+I am not religious = Je ne suis pas religieux
+How old is your daughter = Quel âge a ta fille?
+how old is your daughter going to be = Quel âge va avoir ta fille? va= going to, avoir = have
+
+    Je suis Ella.
+    Je suis votre voisine.
+    Je suis une étudiante de français.
+    Je suis américaine.
+    Je suis anglophone.
+    Je suis la mère de Frank.
+    Je suis contente de vous rencontrer.
+
+Introduce Ella
+
+Voici Ella.
+Ella est votre voisine.
+Ella est une étudiante de français.
+Ella est américaine.
+Ella est anglophone.
+Ella est la mère de Frank.
+Ella est contente de vous rencontrer.
+
+Lee dit = Lee says
+
+I am a software engineer =
+I am studying french =
+I am Bangladeshi =
+I am 31 years old =
+I live in ottawa =
+
+Je suis Sadnan
+J'étudie le français
+Je suis Bangladais
+J'habite à Ottawa
+Je suis trente et un ans
+Je suis un ingénieur en logiciel
+
+server = serveu
+
+convo at a cafe
+Server: Bonjour, que voulez-vous?
+Client: Bonjour, je voudrais un café s'il vous plaît.
+
+are you looking for something = cherchez-vous quelque chose
+
+dans la rue avec une inconnue = in the street with a stranger
+
+We have dolls, books and dresses which do you prefer = Nous avons des poupées, des livres et des robes, lesquels préférez-vous?
+
+follow me this way = suivez-moi par ici
+
+would
+
+receptioniste: Hello, comment puis-je vous aider?
+
+dans la rue avec une inconnue = in the street with a stranger
+
+il fait = it is
+elle fait = she does
+ils font = they do
+elles font = they do
+comment je m'habille en hiver = how do I dress in winter

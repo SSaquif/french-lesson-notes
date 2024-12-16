@@ -307,3 +307,54 @@
 | We go           | Nous allons | Noo zah-lohn  |
 | They go         | Ils vont    | Eel vohn      |
 | They go         | Elles vont  | Ell vohn      |
+
+## Recevoir
+
+> Meaning: to receive
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-recevoir.html)
+
+| English              | French          | pronunciation    |
+| -------------------- | --------------- | ---------------- |
+| I receive            | Je reçois       | Juh reh-suah     |
+| You receive          | Tu reçois       | Too reh-suah     |
+| You receive (formal) | Vous recevez    | Voo reh-suh-vay  |
+| He receives          | Il reçoit       | Eel reh-suah     |
+| She receives         | Elle reçoit     | Ell reh-suah     |
+| You/We/They receive  | On reçoit       | Ohn reh-suah     |
+| We receive           | Nous recevons   | Noo reh-suh-vohn |
+| They receive         | Ils reçoivent   | Eel reh-suah     |
+| They receive         | Elles reçoivent | Ell reh-suah     |
+
+## Envoyer
+
+> Meaning: to send
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-envoyer.html)
+
+| English           | French         | pronunciation |
+| ----------------- | -------------- | ------------- |
+| I send            | J'envoie       | Jhahn-vuah    |
+| You send          | Tu envoies     | Too-ahn-vuah  |
+| You send (formal) | Vous envoyez   | Voo-ahn-vuah  |
+| He sends          | Il envoie      | Eel-ahn-vuah  |
+| She sends         | Elle envoie    | Ell-ahn-vuah  |
+| You/We/They send  | On envoie      | Ohn-ahn-vuah  |
+| We send           | Nous envoyons  | Noo-ahn-vuah  |
+| They send         | Ils envoient   | Eel-ahn-vuah  |
+| They send         | Elles envoient | Ell-ahn-vuah  |
+
+## Inviter
+
+> Meaning: to invite
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-inviter.html)
+
+| English             | French         | pronunciation   |
+| ------------------- | -------------- | --------------- |
+| I invite            | J'invite       | Jhahn-veet      |
+| You invite          | Tu invites     | Too-ahn-veet    |
+| You invite (formal) | Vous invitez   | Voo-ahn-veet-ay |
+| He invites          | Il invite      | Eel-ahn-veet    |
+| She invites         | Elle invite    | Ell-ahn-veet    |
+| You/We/They invite  | On invite      | Ohn-veet        |
+| We invite           | Nous invitons  | Noo-veet-ohn    |
+| They invite         | Ils invitent   | Eel-veet        |
+| They invite         | Elles invitent | Ell-veet        |
