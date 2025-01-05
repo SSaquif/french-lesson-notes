@@ -232,14 +232,84 @@
 
 21. 12 Décembre 2024
 
-| French                                                                                                                           | English                                                     |
-| -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| [Les lieux pour inviter](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631124)                                        | Places to invite                                            |
-| [Les prépositions de lieu](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631125)                                      | Prepositions of place                                       |
-| [Prépositions de temps](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631130)                                         | Time prepositions                                           |
-| [Le verbe inviter et les pronoms personnels sujets (2e partie)](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631129) | The verb to invite and personal subject pronouns (2nd part) |
-| [Prononciation - ille](https://www.podcastfrancaisfacile.com/phonetique-prononciation/prononcer-ille.html)                       | Pronunciation - ille                                        |
-| [lire une invitation](https://avenue.ca/classroom/mod/scorm/view.php?id=7631132)                                                 | read an invitation                                          |
-| [Homework \| Conversations entre nouveaux voisins, 1re partie](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631083)  | Conversation between new neighbors, 1st part                |
-| [Homework\| Conversations entre nouveaux voisins, 2e partie](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631084)    | Conversation between new neighbors, 2nd part                |
-| [Homework\| Conversations entre nouveaux voisins, 3e partie](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631085)    | Conversation between new neighbors, 3rd part                |
+    | French                                                                                                                           | English                                                     |
+    | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+    | [Les lieux pour inviter](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631124)                                        | Places to invite                                            |
+    | [Les prépositions de lieu](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631125)                                      | Prepositions of place                                       |
+    | [Prépositions de temps](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631130)                                         | Time prepositions                                           |
+    | [Le verbe inviter et les pronoms personnels sujets (2e partie)](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631129) | The verb to invite and personal subject pronouns (2nd part) |
+    | [Prononciation - ille](https://www.podcastfrancaisfacile.com/phonetique-prononciation/prononcer-ille.html)                       | Pronunciation - ille                                        |
+    | [lire une invitation](https://avenue.ca/classroom/mod/scorm/view.php?id=7631132)                                                 | read an invitation                                          |
+    | [Homework \| Conversations entre nouveaux voisins, 1re partie](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631083)  | Conversation between new neighbors, 1st part                |
+    | [Homework\| Conversations entre nouveaux voisins, 2e partie](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631084)    | Conversation between new neighbors, 2nd part                |
+    | [Homework\| Conversations entre nouveaux voisins, 3e partie](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631085)    | Conversation between new neighbors, 3rd part                |
+
+22. 13 Décembre 2024
+
+    | French                                                                                                                                                                                     | English                                                                                                |
+    | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+    | [Compréhension de l’écrit - Lire une invitation](https://avenue.ca/classroom/mod/scorm/player.php?a=851785&currentorg=Course_ID1_ORG&scoid=4814865)                                        | Reading comprehension - Read an invitation                                                             |
+    | [Sociolinguistique - Accepter avec enthousiasme ou décliner poliment une invitation](https://avenue.ca/classroom/mod/scorm/player.php?a=851786&currentorg=Course_ID1_ORG&scoid=4814867)    | Sociolinguistics - Enthusiastically accept or politely decline an invitation                           |
+    | [Sociolinguistique - Accepter ou décliner une invitation: “Être là” et “Pouvoir venir”](https://avenue.ca/classroom/mod/scorm/player.php?a=851787&currentorg=Course_ID1_ORG&scoid=4814869) | Sociolinguistics - Accept or decline an invitation: "Be there                                          |
+    | [Homework \| Grammaire - Les heures](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631101)                                                                                      | Grammar - Hours                                                                                        |
+    | [Homework \| Grammaire - Les dates](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631102)                                                                                       | Grammar - Dates                                                                                        |
+    | [Homework \| Grammaire - Les adresses](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631100)                                                                                    | Grammar - Addresses                                                                                    |
+    | [Evaluation \| NCLC 2 - Expression écrite - Présenter quelqu'un (Tâche de mise en pratique de compétence)](https://avenue.ca/classroom/mod/assign/view.php?id=7631090)                     | Evaluation - NCLC 2 - Written expression - Introduce someone (Competency practice task)                |
+    | [Evaluation \| NCLC 2 Expression orale - Se présenter à son instructeur(-trice) (Tâche de mise en pratique de compétence)](https://avenue.ca/classroom/mod/assign/view.php?id=7631091)     | Evaluation - NCLC 2 Oral expression - Introduce yourself to your instructor (Competency practice task) |
+    | [Evaluation \| NCLC 2 Évaluation - Compréhension de l'oral - Conversations entre nouveaux voisins.](https://avenue.ca/classroom/mod/quiz/view.php?id=7631092)                              | Evaluation - NCLC 2 Evaluation - Listening comprehension - Conversations between new neighbors         |
+
+23. 16 Décembre 2024
+
+    | French                                                                                                                                                    | English                                                               |
+    | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+    | [La famille Dubois](https://www.podcastfrancaisfacile.com/texte/la-famille-dubois.html)                                                                   | The Dubois family                                                     |
+    | [Prononcer -ille](https://www.podcastfrancaisfacile.com/phonetique-prononciation/prononcer-ille.html)                                                     | Pronounce -ille                                                       |
+    | [ Comprendre une facture](https://lagriffedalpha.org/apprenants-branches/ma-voie/vers-autonomie/economie-au-quotidien/facture/)                           | Understand an invoice                                                 |
+    | [Homework \| Sociolinguistique - Le tutoiement et le vouvoiement](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631127)                        | Sociolinguistics - Tutoiement and vouvoiement                         |
+    | [Homework \| Grammaire - Le verbe inviter et les pronoms personnels sujets (1re partie)](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7631128) | Grammar - The verb to invite and personal subject pronouns (1st part) |
+
+24. 17 Décembre 2024
+
+    | French                                                                                                                                     | English                               |
+    | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------- |
+    | [Vocabulaire : Les avertissements](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7714904)                                        | Vocabulary: Warnings                  |
+    | [Grammaire : L'expression « Il y a »](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7714905)                                     | Grammar: The expression "There is"    |
+    | [Grammaire : « à la » et « au »](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7714906)                                          | Grammar: "at the" and "to the"        |
+    | [Grammaire : « dans » et « sur »](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7714907)                                         | Grammar: "in" and "on"                |
+    | [C’est où ? Dialogue français débutant](https://www.podcastfrancaisfacile.com/dialogue/dialogue-francais-debutant-apprendre-francais.html) | Where is it? French beginner dialogue |
+
+25. 18 Décembre 2024
+
+    | French                                                                                                                                    | English                                                 |
+    | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+    | [Vocabulaire : L'expression « Il faut »](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7714909)                                 | Vocabulary: The expression "We must                     |
+    | [Compréhension de l'oral : Un exercice d'évacuation](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7714910)                     | Listening comprehension: An evacuation exercise         |
+    | [Vocabulaire : Les adverbes de fréquence](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7714911)                                | Vocabulary: Adverbs of frequency                        |
+    | [Homework \| Compréhension de l'oral : Une allergie](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7714913)                     | Listening comprehension: An allergy                     |
+    | [Homework \| Compréhension de l'oral : Une flaque d'eau sur le plancher](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7714908) | Listening comprehension: A puddle of water on the floor |
+
+26. 19 Décembre 2024
+
+    | French                                                                                                                 | English                             |
+    | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+    | [Les ingrédients](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7572835)                                     | Ingredients                         |
+    | [J'ai besoin de](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7572836)                                      | I need                              |
+    | [J'ai besoin de.... pour...](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7572837)                          | I need... for...                    |
+    | [Des messages entre amis](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7572838)                             | Messages between friends            |
+    | [Homework \| Quiz : Vocabulaire et grammaire](https://avenue.ca/classroom/mod/quiz/view.php?id=7714915)                | Quiz: Vocabulary and grammar        |
+    | [Homework \| Compréhension de l'oral : Un mal de dos](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7714912) | Listening comprehension: A backache |
+
+27. 20 Décembre 2024
+
+    | French                                                                                                                                                                                    | English                                                                                                                            |
+    | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+    | [Les quantités](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7572840)                                                                                                          | Quantities                                                                                                                         |
+    | [Les ustensiles](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7572844)                                                                                                         | Utensils                                                                                                                           |
+    | [Des verbes pour cuisiner](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7572845)                                                                                               | Verbs for cooking                                                                                                                  |
+    | [Compréhension de l'écrit - La préparation d'une pizza](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7572846)                                                                  | Reading comprehension - Making a pizza                                                                                             |
+    | [Compréhension de l'écrit - Une recette de gâteau moelleux](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7572847)                                                              | Reading comprehension - A recipe for a soft cake                                                                                   |
+    | [Homework \| Compréhension de l'écrit - Une recette de pizza (Les ingrédients)](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7735573)                                          | Reading comprehension - A pizza recipe (Ingredients)                                                                               |
+    | [Homework \| Compréhension de l'écrit - La préparation d'une pizza](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7735577)                                                      | Reading comprehension - Making a pizza                                                                                             |
+    | [Evaluation \| NCLC 2 : Expression écrite - Créer une affiche pour annoncer une fête de quartier (Tâche de mise en pratique)](https://avenue.ca/classroom/mod/assign/view.php?id=7631110) | Evaluation - NCLC 2: Written expression - Create a poster to announce a neighborhood party (Practical task)                        |
+    | [Evaluation \| NCLC 2 : Évaluation - Compréhension de l'écrit - Comprendre une affiche qui annonce une fête de quartier](https://avenue.ca/classroom/mod/quiz/view.php?id=7631111)        | Evaluation - NCLC 2: Evaluation - Reading comprehension - Understand a poster announcing a neighborhood party                      |
+    | [Evaluation \| Parler de son quartier : NCLC 2 Évaluation - Compréhension de l'oral - Deux amis parlent de leur quartier](https://avenue.ca/classroom/mod/quiz/view.php?id=7631057)       | Evaluation - Talk about your neighborhood: NCLC 2 Evaluation - Listening comprehension - Two friends talk about their neighborhood |

@@ -204,3 +204,106 @@ A bientôt Sophie. Bientôt Eric. Au revoir Maxime. Bonne journée! = See you so
 Au revoir Christophe. Bonne journée! = Goodbye Christophe. Have a good day!
 Sophie, on se tutoie? = Sophie, do we use the informal "tu" form?
 Avec plaisir = With pleasure
+
+## 18 Dec 2024
+
+### Describing your daily routine = Décrire votre routine quotidienne
+
+Can yoou describe a day in your life = Pouvez-vous decrir une journee dans votre vie?
+After French class which ends at noon = Après le cours de français qui se termine à midi
+I walk my friends dog at the park = je promène le chien de mon ami au parc
+After I return I prepare lunch around 1pm = Après mon retour, je prépare le déjeuner vers 13 heures
+Ensuite = then
+Puis = then
+Après = after
+Ensuite = Ensuite = Puis = then
+couché = lying down
+
+### The expression `Il faut` and warning signs
+
+Il faut = It is necessary to or you must
+il faut app
+ralentir = you must slow down
+La pile coule = the battery is running out
+Il faut appeler les pompier = you must call the fire department
+prendre l'escalier de secours = take the emergency stairs
+coule = running out
+pile = battery
+jeter = throw
+
+Il y a = there is/there are
+Il
+I have a question about the verb falloir = J'ai une question sur le verbe falloir
+
+### Conversation
+
+Dominic : Mélissa, il y a un exercice d'évacuation ce midi. = Mélissa, there is an evacuation exercise at noon.
+
+Mélissa : Ah, il faut sortir ? Mais il n'y a pas de feu ? = Ah, do we have to go out? But there is no fire?
+
+Dominic : Non, il n'y a pas de feu. Mais il faut sortir. = No, there is no fire. But you have to go out.
+
+Mélissa : Vraiment ? Il faut sortir ? = Really? Do we have to go out?
+
+Dominic : Oui, c'est obligatoire. Il faut sortir. = Yes, it is mandatory. You have to go out.
+
+Mélissa : D'accord. Je vais sortir = Okay. I will go out.
+
+they speak very fast = ils parlent très rapidement
+une fuite d'eau = a water leak
+un lavabo = a sink
+il faux reparer la fuite d'eau = the water leak must be repaired
+panne d'electricite = power outage
+il faut appeler un electricien = you must call an electrician
+il fault appeler la police = you must call the police
+patrouille= patrol
+vadrouille = mop
+grenouiile = frog
+citrouille = pumpkin
+il faut essuyer = you must wipe/mop
+
+### Signs
+
+Whats the problem? = Quel est le problème?
+Question: qu'est-ce qu'il? = What is it?
+Problem: il faut ..., il y a ...
+Action: il faut, il ne faut pas
+
+1. Wet floor
+   Problem: the floor is wet = il y a sol mouille
+
+il ne faut pas entrer = do not enter
+il ne
+
+there was a theft= il y a de combat
+
+il ya la cuisiniere = the stove is on
+
+il y a l'examain = the exam is on
+you must keep quiet = il faut garder le silence
+garder = keep
+we are driving = il ya de la conduit
+You must put on your seat belt = il faut mettre la ceinture de securite
+
+children crossing = il faut faire attention aux enfants
+forest = la
+Attention danger = da
+there are bears = il y a des ours
+there are elks = il y a des elans
+you must drive carefully = il faut conduire prudemment
+there are glass in there = il y a du verre la
+you have to handle carefully = il faut manipuler avec soin
+
+## 19 Dec 2024
+
+I usually don't have breakfast = Je ne prends pas habituellement le petit déjeuner
+I didn't have breakfast this morning = Je n'ai pas pris le petit déjeuner ce matin
+because I woke up late = parce que je me suis réveillé tard
+prends = take
+pris = taken
+
+then =
+happy holidays = bonnes vacances
+merry christmas = joyeux noel
+happy new year = bonne annee
+everyone = tout le monde

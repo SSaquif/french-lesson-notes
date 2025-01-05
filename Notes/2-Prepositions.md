@@ -195,3 +195,22 @@ In French, there are simple prepositions (à, chez, etc.) as well as longer prep
 | vers + heure         | vers 8 heures               | around 8 o'clock             |
 | (nothing)0 jour      | samedi, aujourd'hui, demain | Saturday, today, tomorrow    |
 | le + date            | le 23 juin 2020             | on June 23, 2020             |
+
+comment pouvons nous decrire les enfants? - how can we describe the children?
+
+Are children always called `les enfants` event when they are older? - Oui, les enfants sont toujours appelés `les enfants` même lorsqu'ils sont plus âgés.
+
+Ils ont combien d’enfants? - How many children do they have?
+Ils ont deux enfants. - They have two children.
+Quel genre de film regarde-t-ils au cinéma?
+le genre de film est film policier =
+Quand est-ce que le cinéma commence? = When does the cinema start?
+Le cinéma commence à 17 heures = The cinema starts at 5 pm
+Combien de temps (durent) les cours de piano?
+Les cours de piano durent 1 heure = Piano lessons last 1 hour
+Qu’est - ce que Paul embête toujours sa sœur? = Why does Paul always annoy his sister?
+Paul embête toujours sa sœur parce qu’il trouve ça amusant
+= Paul always annoys his sister because he finds it funny
+comment pouvons-nous décrire les enfants?
+
+- how can we describe the children?

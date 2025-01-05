@@ -358,3 +358,53 @@
 | We invite           | Nous invitons  | Noo-veet-ohn    |
 | They invite         | Ils invitent   | Eel-veet        |
 | They invite         | Elles invitent | Ell-veet        |
+
+## Falloir
+
+> Meaning: to need, to have, to take
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-falloir.html)
+> Special verb. Only used with `il` as the subject.
+
+| English       | French  | pronunciation |
+| ------------- | ------- | ------------- |
+| I/we/you need | Il faut | Eel foh       |
+
+[Examples](https://context.reverso.net/translation/french-english/falloir)
+
+- Il faut du pain = I need some bread
+- Il faut disperser les gens = We need to disperse the people
+- Il faut dsiperser le sirop = We need to disperse the syrup
+
+Tâche : Créer une affiche pour annoncer une fête de quartier = Task: Create a poster to announce a neighborhood party
+
+1.  Choisissez une occasion parmi les suivantes = Choose an occasion from the following:
+
+            Fête de quartier = Neighborhood party
+            Fête des voisins = Neighbors party
+            Le Nouvel An chinois = Chinese New Year
+            La fête du Canada = Canada Day
+            Une autre fête = Another party
+
+2.  Écrivez le titre. = Write the title.
+
+3.  Écrivez l'adresse. = Write the address.
+
+4.  Écrivez la date. = Write the date.
+
+5.  Écrivez l'heure. = Write the time.
+
+6.  Nommez quelques activités = Name some activities
+
+            Jeux = Games
+            Musique = Music
+            Danse = Dance
+            Nourriture = Food
+            Boissons = Drinks
+            Desserts = Desserts
+            Concours = Contests
+            Prix = Prizes
+            Feux d'artifice = Fireworks
+
+Évaluation - Compréhension de l'écrit - Comprendre une affiche qui annonce une fête de quartier = Evaluation - Reading comprehension - Understand a poster announcing a neighborhood party
+
+NCLC 2 Évaluation - Compréhension de l'oral - Deux amis parlent de leur quartier = NCLC 2 Evaluation - Listening comprehension - Two friends talk about their neighborhood

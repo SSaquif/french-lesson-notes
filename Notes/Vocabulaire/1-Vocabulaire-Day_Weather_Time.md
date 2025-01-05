@@ -79,6 +79,23 @@ Il n’est pas venteux
 Il y a de la neige au sol
 Il est magnifique mais c’est très froid
 Je suis prête pour l’hibernation
+beach = plage
+it is cold and cloudy = il fait froid et nuageux
+it is raining a little bit = il pleut un peu
+but it is not snowing = mais il neige pas
+it is warmer than yesterday = il fait plus chaud qu’hier
+it is much warmer than the weekend = il fait beaucoup plus chaud que le week-end (or/ou) il fait plus beacoup chaud que le week-end
+le ciel est plus gris qu'hier = the sky is grayer than yesterday
+
+i have a question = j'ai une question
+is it ... or ... = est-ce que c'est ... ou ...
+smoked salmon = saumon fumé
+smoked meat = viande fumée
+smoked meat sandwich = sandwich à la viande fumée
+flaque d'eau = puddle
+une fuite d'eau = a water leak
+
+what is `flaque d'eau` in English? = Qu'est-ce que `flaque d'eau` en anglais?
 
 What did you do over the weekend? = Qu’est-ce que tu as fait le week-end?
 I walked my dog = J’ai promené mon chien
@@ -87,3 +104,25 @@ I went swimming = Je suis allé nager
 I had a relaxing weekend = J’ai passé un week-end relaxant
 
 tout le monde = everyone
+
+There is a park near my house = Il y a un parc près de chez moi
+quelque chose = something
+you are in trouble = tu es en difficulté
+
+| English| French |
+| One day two friends go to the shopping centre to shop for shoes and have lunch after that we visited the museum they met an artist in the museum my friend helps me understand the story of this art
+| Un jour deux amis vont au centre commerical pour faire du shopping pour des chausseures er dejeuner après ca nous avons visiter le musée. Ils recontrent un artiste dans le
+musée. Mon ami m'aide a comprendre l'histoire de cet art .
+
+They were already very tired so they stayed home = Ils étaient déjà très fatigués alors ils sont restés à la maison
+The party was boring so they came back home = La fête était ennuyeuse alors ils sont rentrés à la maison
+
+moin frois = less cold
+moin chaud = less hot
+
+Here in ottawa the temeperature is -10 degrees = Ici à Ottawa la température est de -10 degrés
+It is very cold = Il fait très froid
+Even though it's sunny outside right now = Même s'il fait soleil dehors maintenant
+It is windy = Il y a du vent
+it is warmer than yesterday = il fait plus chaud qu'hier
+but colder than the day before yesterday = mais plus froid que l'avant-hier

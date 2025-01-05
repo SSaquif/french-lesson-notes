@@ -12,6 +12,8 @@
 
 <!-- tocstop -->
 
+you can confirm with moi or him = tu peux confirmer avec moi ou lui
+
 ## Question Words
 
 | French           | English    | Pronounciation           |
@@ -202,3 +204,57 @@ elle fait = she does
 ils font = they do
 elles font = they do
 comment je m'habille en hiver = how do I dress in winter
+
+|English|French|
+|should it nout be ils instead of nous | ne devrait-il pas être ils au lieu de nous |
+
+How old is your daughter going to be = Quel âge va avoir ta fille?
+
+successful = réussi
+
+Que va faire monsieur Dubois demain ? = What is Mr. Dubois going to do tomorrow?
+Que faire madame Dubois aujourd’hui ? = What is Mrs. Dubois going to do today?
+Quel est le rêve de leurs enfants ? = What is the dream of their children?
+Que fait Paul pour embêter sa soeur ? = What does Paul do to annoy his sister?
+
+what kind of film are they showing at the cinema at 5pm = quel genre de film montrent-ils au cinéma à 17h
+They are showing a detective film = Ils montrent un film de détective
+
+how long are the piano lessons = combien de temps durent les cours de piano
+
+Qu'est-ce qu'il y a? = What is it?
+Est-ce qu'il y a un problème = Is there a problem?
+Il y a une souris dans l'évier = There is a mouse in the sink
+the glass is broken = le verre est cassé
+
+bris
+
+example of article = un, une, des, le, la, les, l', du, de la, de l', de, d'
+
+J'ai besoin de
+
+to preapre pizza, we need flour, water, eggs, cheese, tomatoe sauce, mushrooms, olive oil, salt, pepper, and yeast = pour préparer une pizza, nous avons besoin de farine, d'eau, d'oeufs, de fromage, de sauce tomate, de champignons, d'huile d'olive, de sel, de poivre et de levure
+
+chilli flakes
+oregano = origan
+
+Durant quel mois aura lieu la fête? = In which month will the party take place?
+Quel jour de la semaine aura lieu la fête? = What day of the week will the party take place?
+À quel jour du mois aura lieu la fête? = On which day of the month will the party take place?
+aura = will
+Quel est le nom de l'endroit où aura lieu la fête? = What is the name of the place where the party will take place?
+Est-ce qu'il est indiqué sur l'affiche à quelle heure se terminera la fête ? = Is it indicated on the poster at what time the party will end?
+Deux amis parlent de leur quartier. = Two friends talk about their neighborhood.
+
+.dans le même quartier. = in the same neighborhood.
+nous sommes voisin alors = we are neighbors then
+pres de chez moi = near my house
+Alice dit que son quartier est. = Alice says her neighborhood is.
+Alice **\_\_\_\_** son nouveau quartier. = Alice **\_\_\_\_** her new neighborhood.
+
+heavy cream = crème fraîche
+graham crackers = biscuits Graham
+pwder = poudre
+cocao powder = poudre de cacao
+
+max be my friend = max soit mon ami
