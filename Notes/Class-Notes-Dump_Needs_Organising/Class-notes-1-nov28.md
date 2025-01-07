@@ -284,6 +284,7 @@ you must keep quiet = il faut garder le silence
 garder = keep
 we are driving = il ya de la conduit
 You must put on your seat belt = il faut mettre la ceinture de securite
+il ya dy poison il ne faut pas boire = there is poison do not drink
 
 children crossing = il faut faire attention aux enfants
 forest = la

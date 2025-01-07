@@ -15,6 +15,12 @@
 | Tomorrow  | Demain      | do-ma          |
 | Yesterday | Hier        | ee-air         |
 
+Aujourd'hui, nous sommes ...
+Aujourd'hui, c'est ...
+Hier, c'était ...
+Demain, nous serons ...
+Demain, ça sera ...
+
 ## Months of the Year
 
 | English   | French    | Pronounciation |
@@ -41,6 +47,48 @@
 | Summer  | Été       | Ay-tay         |
 | Autumn  | Automne   | O-tohn         |
 | Winter  | Hiver     | Ee-vair        |
+
+| English                    | French                            |
+| -------------------------- | --------------------------------- |
+| cloud (noun)               | nuage                             |
+| Sun (noun)                 | le soleil                         |
+| Il est nuageux (adj)       | It is cloudy                      |
+| Il est ensoleillé (adj)    | It is sunny                       |
+| il fait beau (beautiful)   | It is nice                        |
+| C’est nuageux              | It is cloudy                      |
+| Il fait froid              | It is cold                        |
+| C’est froid                | it is cold                        |
+| Il fait chaud              | It is hot                         |
+| il ne fait pas chaud       | it is not hot                     |
+| frileux (se)               | sensitive to cold                 |
+| vent (noun)                | wind                              |
+| Il est venteux (adj)       | It is windy                       |
+| Il n’est pas venteux       | It is not windy                   |
+| C’est venteux              | It is windy                       |
+| Il y a du vent             | There is wind                     |
+| il n'y a pas de vent       | There is no wind                  |
+| la pluie (noun)            | rain                              |
+| Il pleut (pleuvoir)        | It is raining                     |
+| Il est pluvieux            | It is rainy                       |
+| C’est pluvieux             | It is rainy                       |
+| Il y a de la pluie         | There is rain                     |
+| le brouillard (noun)       | fog                               |
+| Il y a du brouillard       | There is fog                      |
+| brumeux (adj)              | foggy                             |
+| Il est brumeux             | It is foggy                       |
+| C’est brumeux              | It is foggy                       |
+| neige (noun)               | snow                              |
+| Il est neigeux(adj)        | It is snowy                       |
+| il n'est pas neigeux       | It is not snowy                   |
+| Il neige - il ne neige pas | It is snowing - it is not snowing |
+| Humidité (noun)            | Humidity (noun)                   |
+| Humide (adj)               | Humid (adj)                       |
+| Il est humide              | It is humid                       |
+| il n’est pas humide        | It is not humid                   |
+| C’est humide               | It is humid                       |
+| Il y a un peu d’humidité   | There is a little humidity        |
+| Il est mouillé             | It is wet                         |
+| Il est sec                 | It is dry                         |
 
 Le quartier
 C'est quoi l'endroit = What is the place
@@ -73,7 +121,10 @@ Ce n’est pas nuageux
 
 Comment fait-il aujourd’hui?
 Quelle est la température d’extérieur aujourd’hui?
-À l’extérieur maintenant est très froid, il fait - 9 degré
+À l’extérieur maintenant est très froid, il fait - 9 degré = Outside now is very cold, it is -9 degrees
+Des eclaircis = Some sunshine
+il y a des éclaircis = there are some sunny spells
+temperature actuellement = current temperature
 Il ne neige
 Il n’est pas venteux
 Il y a de la neige au sol

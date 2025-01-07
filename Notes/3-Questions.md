@@ -16,22 +16,22 @@ you can confirm with moi or him = tu peux confirmer avec moi ou lui
 
 ## Question Words
 
-| French           | English    | Pronounciation           |
-| ---------------- | ---------- | ------------------------ |
-| Est-ce que       | Is it that | Es-ku(h)                 |
-| Qu'est-ce que    | What       | Kess-ku(h)               |
-| Que              | That/What  | Ku (like in cout d'etat) |
-| Quoi             | What       | Kwah                     |
-| Quel             | What/Which | Kel                      |
-| Qui              | Who        | Key                      |
-| Quand            | When       | Kan(d)                   |
-| Où               | Where      | Oo                       |
-| Comment          | How        | Komo                     |
-| Pourquoi         | Why        | Por-koa                  |
-| Combien          | How many   | Kombiye                  |
-| Combien de       | How much   | Kombiye deux             |
-| Combien de temps | How long   | Kombiye deux te(h)mp     |
-| Si               | If         | See                      |
+| French            | English      | Pronounciation           |
+| ----------------- | ------------ | ------------------------ |
+| Est-ce que        | Is it (that) | Es-ku(h)                 |
+| Qu'est-ce que     | What         | Kess-ku(h)               |
+| Que               | That/What    | Ku (like in cout d'etat) |
+| Quoi              | What         | Kwah                     |
+| Quel/Quelle/Quels | What/Which   | Kel                      |
+| Qui               | Who          | Key                      |
+| Quand             | When         | Kan(d)                   |
+| Où                | Where        | Oo                       |
+| Comment           | How          | Komo                     |
+| Pourquoi          | Why          | Por-koa                  |
+| Combien           | How many     | Kombiye                  |
+| Combien de        | How much     | Kombiye deux             |
+| Combien de temps  | How long     | Kombiye deux te(h)mp     |
+| Si                | If           | See                      |
 
 ### Examples
 
@@ -62,7 +62,7 @@ you can confirm with moi or him = tu peux confirmer avec moi ou lui
 
 ### Rules and Exceptions and Notes
 
-1. > If there is a vowel we use Est-ce qu' or Qu'est-ce qu' instead of Est-ce que or Qu'est-ce que.
+1. > If there is a vowel we use `Est-ce qu' or Qu'est-ce qu'` instead of `Est-ce que or Qu'est-ce que`
    - Est-ce qu'il est là? (Is he there?)
    - Qu'est-ce qu'il fait? (What is he doing?)
 2. > With subject-verb inversion, we add `t` to the verb if it ends with a vowel.
@@ -231,7 +231,7 @@ bris
 
 example of article = un, une, des, le, la, les, l', du, de la, de l', de, d'
 
-J'ai besoin de
+J'ai besoin de = I need
 
 to preapre pizza, we need flour, water, eggs, cheese, tomatoe sauce, mushrooms, olive oil, salt, pepper, and yeast = pour préparer une pizza, nous avons besoin de farine, d'eau, d'oeufs, de fromage, de sauce tomate, de champignons, d'huile d'olive, de sel, de poivre et de levure
 

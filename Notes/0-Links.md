@@ -313,3 +313,20 @@
     | [Evaluation \| NCLC 2 : Expression écrite - Créer une affiche pour annoncer une fête de quartier (Tâche de mise en pratique)](https://avenue.ca/classroom/mod/assign/view.php?id=7631110) | Evaluation - NCLC 2: Written expression - Create a poster to announce a neighborhood party (Practical task)                        |
     | [Evaluation \| NCLC 2 : Évaluation - Compréhension de l'écrit - Comprendre une affiche qui annonce une fête de quartier](https://avenue.ca/classroom/mod/quiz/view.php?id=7631111)        | Evaluation - NCLC 2: Evaluation - Reading comprehension - Understand a poster announcing a neighborhood party                      |
     | [Evaluation \| Parler de son quartier : NCLC 2 Évaluation - Compréhension de l'oral - Deux amis parlent de leur quartier](https://avenue.ca/classroom/mod/quiz/view.php?id=7631057)       | Evaluation - Talk about your neighborhood: NCLC 2 Evaluation - Listening comprehension - Two friends talk about their neighborhood |
+
+28. 6 Janvier 2025
+
+    | French                                                                                                                         | English                 |
+    | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------- |
+    | [comprendre une facture](https://lagriffedalpha.org/apprenants-branches/ma-voie/vers-autonomie/economie-au-quotidien/facture/) | understand an invoice   |
+    | [Commander au restaurant](https://www.podcastfrancaisfacile.com/dialogue/commander-restaurant-delfa1.html)                     | Order at the restaurant |
+    | [Homework \| Dans mon sac, il y a … ](https://www.podcastfrancaisfacile.com/capsule-fle/activite-possessif-fle.html)           | In my bag, there is ... |
+    | [Homework \| écrire la dictée](/home/ssaquif/french-lessons/Resources/dictee_nourriture.mp3)                                   | write the dictation     |
+
+29. 7 Janvier 2025
+
+    | French                                                                                                                                         | English                                               |
+    | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+    | [Vocabulaire: La maison (pièces et étages)](https://www.youtube.com/watch?v=OS40JObvjSo)                                                       | Vocabulary: The house (rooms and floors)              |
+    | [Homework \| Vocabulaire: le logement, La recherche d'un logement 1re partie](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7755717) | Vocabulary: housing, The search for housing, 1st part |
+    | [Homework \| Vocabulaire : le logement,La recherche d'un logement 2e partie](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7755718)  | Vocabulary: housing, The search for housing, 2nd part |

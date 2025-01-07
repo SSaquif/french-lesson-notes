@@ -375,6 +375,8 @@
 - Il faut disperser les gens = We need to disperse the people
 - Il faut dsiperser le sirop = We need to disperse the syrup
 
+### Exercices (Move somewhere else)
+
 Tâche : Créer une affiche pour annoncer une fête de quartier = Task: Create a poster to announce a neighborhood party
 
 1.  Choisissez une occasion parmi les suivantes = Choose an occasion from the following:
@@ -408,3 +410,5 @@ Tâche : Créer une affiche pour annoncer une fête de quartier = Task: Create a
 Évaluation - Compréhension de l'écrit - Comprendre une affiche qui annonce une fête de quartier = Evaluation - Reading comprehension - Understand a poster announcing a neighborhood party
 
 NCLC 2 Évaluation - Compréhension de l'oral - Deux amis parlent de leur quartier = NCLC 2 Evaluation - Listening comprehension - Two friends talk about their neighborhood
+
+make your own recipe = faire votre propre recette
