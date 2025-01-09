@@ -330,3 +330,9 @@
     | [Vocabulaire: La maison (pièces et étages)](https://www.youtube.com/watch?v=OS40JObvjSo)                                                       | Vocabulary: The house (rooms and floors)              |
     | [Homework \| Vocabulaire: le logement, La recherche d'un logement 1re partie](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7755717) | Vocabulary: housing, The search for housing, 1st part |
     | [Homework \| Vocabulaire : le logement,La recherche d'un logement 2e partie](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7755718)  | Vocabulary: housing, The search for housing, 2nd part |
+
+30. 8 Janvier 2025
+
+    | French                                                                                                                  | English                             |
+    | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+    | [Homework \Vocabulaire : les commodités d'un logement](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7755720) | Vocabulary: the amenities of a home |

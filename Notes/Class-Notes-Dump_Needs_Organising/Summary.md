@@ -232,3 +232,41 @@ acajou= mahogany
 | Le Jardin          | Garden            |
 | Le Couloir         | Corridor          |
 | La Cour            | Courtyard         |
+
+### Jan 8 2025
+
+Locataire = Tenant
+Propriétaire = Owner
+Loyer = Rent
+Bail/Contrat de location = Lease
+Dépôt = Deposit
+Dépôt de garantie = Security deposit
+
+I did not pay the deposit since I did not like the apartment after seeing it
+= Je n'ai pas payé le dépôt, car je n'aimais pas l'appartement après l'avoir vu
+
+since = car
+beacause = parce que
+
+b
+appartment de c
+
+lodgement
+styudio
+
+libre
+
+what is the meaning of the word ... = quelle est la signification du mot ...
+
+Mots utiles:
+Nous avons choisi ….. Parce que = We chose ….. Because
+La famille… a besoin ….. Parce que = The family… needs ….. Because
+Nous pensons que la maison … convient à la famille ….. Parce que ….. = We think that the house … is suitable for the family … Because …..
+Aussi, nous avons choisi ….. Parce que = Also, we chose ….. Because
+En plus = In addition
+because the lodgement has... = parce que le logement a...
+because pets are allowed in the apartment = parce que les animaux de compagnie sont autorisés dans l'appartement
+Which family = quelle famille?
+the duplex is cheaper than the apartment by 30 dollars
+= le duplex est moins cher que l'appartement de 30 dollars
+The house has 1 more bedroom than the apartment = La maison a 1 chambre de plus que l'appartement
