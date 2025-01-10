@@ -333,6 +333,13 @@
 
 30. 8 Janvier 2025
 
-    | French                                                                                                                  | English                             |
-    | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-    | [Homework \Vocabulaire : les commodités d'un logement](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7755720) | Vocabulary: the amenities of a home |
+    | French                                                                                                                    | English                             |
+    | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+    | [Homework \| Vocabulaire : les commodités d'un logement](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7755720) | Vocabulary: the amenities of a home |
+
+31. 9 Janvier 2025
+
+    | French                                                                                                                          | English                                         |
+    | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+    | [Entretien d'Embauche Francais](https://www.youtube.com/watch?v=ZRVecxDUo64)                                                    | Job Interview in French                         |
+    | [Compréhension de l'écrit : une annonce d'appartement à louer](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7755719) | Reading comprehension: an apartment for rent ad |

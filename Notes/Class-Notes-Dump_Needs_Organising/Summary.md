@@ -270,3 +270,51 @@ Which family = quelle famille?
 the duplex is cheaper than the apartment by 30 dollars
 = le duplex est moins cher que l'appartement de 30 dollars
 The house has 1 more bedroom than the apartment = La maison a 1 chambre de plus que l'appartement
+
+### Jan 9 2025
+
+- Comment avez-vous trouvé un logement en arrivant au Canada?
+- How did you find a place to live when you arrived in Canada?
+- Quelqu'un vous a aidé à chercher?
+- Did someone help you look?
+- When I first arrived in Canada
+- Quand je suis arrivé au Canada pour la première fois
+- I lived in University residence
+- J'ai vécu en résidence universitaire
+- My friend helped me find a place to live
+- Mon ami m'a aidé à trouver un endroit où vivre
+- My friends were living in Ottawa and they helped me find a place to live
+- Mes amis habitaient à Ottawa et ils m'ont aidé à trouver un endroit où vivre
+- I dont know, I have been here too long
+- Je ne sais pas, je suis ici depuis trop longtemps
+
+couchez = sleep
+couche-tard = night owl
+
+incluant = including
+inclus = included
+roommate = colocataire
+
+Le chauffage est inclus = Heating is included
+inclus chauffage = Heatig included
+
+Lisez le texte et écrivez le bon mot sous chaque image. = Read the text and write the correct word under each image.
+cour arrière = backyard
+
+should i read the paragraph = devrais-je lire le paragraphe
+
+#### Homework
+
+consulter l'image ci-dessous. Indiquer le nom de chaque pièce de la maison ( de 1 à 8). Compléter les phrases suivantes:
+= consult the image below. Indicate the name of each room in the house (from 1 to 8). Complete the following sentences:
+1- Dans ce logement , il y a .... | In this accommodation, there is ....
+2- Il y a aussi...... | There is also .....
+3- En plus, il y a ..... | In addition, there is .....
+4- Mais il n'y a pas ..... | But there is no .....
+
+Quelles sont les pièces de ce logement? Employez les mots ci-dessous pour répondre à la pagesuivante
+= What are the rooms in this accommodation? Use the words below to answer the next page
+
+The rooms in the house are: | Les pièces de le logement sont:
+
+there is not balcony or a dining room = il n'y a pas de balcon ou de salle à manger
