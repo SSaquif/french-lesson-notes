@@ -474,3 +474,9 @@ It's by Arnaud Rebotini = C'est par Arnaud Rebotini
 lover = amant
 Le Vrai Bonheur = True Happiness
 Ca va etre = It's going to be
+
+We learned about housing = Nous avons appris sur le logement
+We learned about the rooms in the house = Nous avons appris sur les pièces de la maison
+
+ajoutant = adding
+encadrer = frame

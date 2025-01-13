@@ -223,6 +223,23 @@
 | They write         | Ils écrivent   | Eel-kree      |
 | They write         | Elles écrivent | Ell-kree      |
 
+## Apprendre
+
+> Meaning: to learn
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-apprendre.html)
+
+| English            | French           | pronunciation     |
+| ------------------ | ---------------- | ----------------- |
+| I learn            | J'apprends       | Jhah-prahnd       |
+| You learn          | Tu apprends      | Too-ah-prahnd     |
+| You learn (formal) | Vous apprenez    | Voo-ah-pruh-nay   |
+| He learns          | Il apprend       | Eel-ah-prahnd     |
+| She learns         | Elle apprend     | Ell-ah-prahnd     |
+| You/We/They learn  | On apprend       | Ohn-ah-prahnd     |
+| We learn           | Nous apprenons   | Noo-zah-pruh-nohn |
+| They learn         | Ils apprennent   | Eel-ah-prahnd     |
+| They learn         | Elles apprennent | Ell-ah-prahnd     |
+
 ## Manger
 
 > Meaning: to eat
