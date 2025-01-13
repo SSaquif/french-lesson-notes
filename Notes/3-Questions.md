@@ -258,3 +258,10 @@ pwder = poudre
 cocao powder = poudre de cacao
 
 max be my friend = max soit mon ami
+
+my webcam is not working = ma webcam ne fonctionne pas
+I will try to fix it during the break = Je vais essayer de le réparer pendant la pause
+
+This Saturday, I am going to meet my friends and play board games = Ce samedi, je vais rencontrer mes amis et jouer à des jeux de société
+On Sunday, I am going to du groceries and prepare meals for the week = Dimanche, je vais faire des courses et préparer des repas pour la semaine
+in quebec they dont say voiture, they say char = au Québec, ils ne disent pas voiture, ils disent char

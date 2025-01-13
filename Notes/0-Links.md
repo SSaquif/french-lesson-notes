@@ -341,5 +341,18 @@
 
     | French                                                                                                                          | English                                         |
     | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-    | [Entretien d'Embauche Francais](https://www.youtube.com/watch?v=ZRVecxDUo64)                                                    | Job Interview in French                         |
     | [Compréhension de l'écrit : une annonce d'appartement à louer](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7755719) | Reading comprehension: an apartment for rent ad |
+    | [Entretien d'Embauche Francais](https://www.youtube.com/watch?v=ZRVecxDUo64)                                                    | Job Interview in French                         |
+
+32. 10 Janvier 2025
+
+    | French                                                                                                                                                     | English                                                                           |
+    | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+    | [Logements à louer disponibles à Ottawa](https://rentola.ca/fr/location/ottawa)                                                                            | Apartments for rent available in Ottawa                                           |
+    | [Entretien d'Embauche Francais - Job Interview Dialogue in French](https://www.youtube.com/watch?v=ZRVecxDUo64)                                            | Job Interview in French                                                           |
+    | [Valérie se présente](https://www.lepointdufle.net/ressources_fle/audio_valerie-se-presente.htm)                                                           | Valérie introduces herself                                                        |
+    | [Homework \| Grammaire : les questions avec « Est-ce que » \| La recherche d'un logement](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7755724) | Grammar: questions with "Is it" \| The search for housing                         |
+    | [Homework \| La recherche d'un logement NCLC 3 : Compréhension de l’écrit (exercez-vous)](https://avenue.ca/classroom/mod/quiz/view.php?id=7755725)        | The search for housing NCLC 3: Reading comprehension (practice)                   |
+    | [Evaluation \|NCLC 2 : Expression orale - Avertir d'un problème](https://avenue.ca/classroom/mod/assign/view.php?id=7714918)                               | Evaluation \| NCLC 2 : Oral expression - Warn of a problem                        |
+    | [Evaluation \| NCLC 2 : Évaluation - Compréhension de l'oral - Comprendre des avertissements](https://avenue.ca/classroom/mod/quiz/view.php?id=7714919)    | Evaluation \| NCLC 2 : Evaluation - Listening comprehension - Understand warnings |
+    | [Evaluation \| There was a third evaluation via a now closed google forms, can be found in my emails]                                                      |                                                                                   |

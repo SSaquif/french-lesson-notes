@@ -318,3 +318,159 @@ Quelles sont les pièces de ce logement? Employez les mots ci-dessous pour répo
 The rooms in the house are: | Les pièces de le logement sont:
 
 there is not balcony or a dining room = il n'y a pas de balcon ou de salle à manger
+etat du logement = state of the accommodation
+
+### Jan 10 2025
+
+type de logement =
+nombre de chambre à coucher =
+nombre de salles de bain =
+stationnement =
+
+Est-ce qu'il y a des service près du logement de Marie? = Are there any services near Marie's accommodation?
+adam moved in yesterday = adam a déménagé hier
+
+Il ne faut pas porter de parfum = You should not wear perfume
+Il faut porter du parfum = You should wear perfume
+
+Il ne faut pas sortir. = You should not go out.
+
+Il ne faut pas mettre une affiche = You should not put up a poster
+Il faut mettre une affiche. = You should put up a poster
+
+Il faut se lever rarement. = You should rarely get up.
+Il faut se lever souvent. = You should get up often.
+
+Il faut nettoyer l'entrepôt. = You should clean the warehouse.
+Il ne faut pas nettoyer l'entrepôt. = You should not clean the warehouse.
+
+Il faut sortir. = You should go out.
+
+Il ne faut pas avaler le poison. = You should not swallow the poison
+Il ne faut pas dépasser. = You should not exceed.
+
+Il y a une fuite d'eau au sous-sol = There is a water leak in the basement
+Il faut réparer la fuite d'eau = The water leak must be repaired
+Il faut appeler le plombier = You should call the plumber
+Il ne faut pas essayer de réparer la fuite tout seul = You should not try to repair the leak yourself
+
+un dégât = a damage
+une fuite d'eau = a water leak
+un produit dangereux = a dangerous product
+des insectes = insects
+une mauvaise odeur = a bad smell
+Non, pas encore. = No, not yet.
+D'accord, je vais appeler un plombier tout de suite. Merci de me le dire = Okay, I'll call a plumber right away. Thank you for telling me
+
+Il y a une fuite d'eau sous l'évier de la cuisine = There is a water leak under the kitchen sink
+
+C'est quoi le problème dans dialogue 1 = What is the problem in dialogue 1
+
+There is a water leak = Il y a une fuite d'eau
+
+Dans quel endroit est le problème dans dialogue 1 = Where is the problem in dialogue 1
+
+The water leak is under the kitchen sink = La fuite d'eau est sous l'évier de la cuisine
+
+Qui va réparer le problème dans le dialogue 1? = Who will fix the problem in dialogue 1?
+
+    The plumber will fix the leak = Le plombier va réparer la fuite
+
+Convo 2:
+Lucie: Salut, Mathieu.
+
+Mathieu: Salut, Lucie. Comment vas-tu ?
+
+Lucie: Ça va, merci. Mais il y a quelque chose d'inhabituel à l'extérieur de l'immeuble. = But there is something unusual outside the building.
+
+Mathieu: Ah bon ? Qu'est-ce que c'est ? = Oh really? What is it?
+
+Lucie: Il y a des travaux sur la route et le bruit est fort. Il va nous déranger dans notre réunion. = There are road works and the noise is loud. It will disturb us in our meeting.
+
+Mathieu: Ah, je vois. C'est embêtant. Est-ce que les autres collègues sont au courant? = Ah, I see. That's annoying. Are the other colleagues aware?
+
+Lucie: Pas encore. = Not yet.
+
+Mathieu: D'accord, je vais envoyer un message à tout le monde pour les prévenir. = Okay, I'll send a message to everyone to warn them.
+
+Lucie: Bonne idée. Merci, Mathieu. = Good idea. Thank you, Mathieu.
+
+Mathieu: Merci à toi de m'informer = Thank you for informing me
+
+Lucie: Pas de souci. Bonne journée, Mathieu. = No problem. Good day, Mathieu.
+
+Mathieu: Bonne journée, Lucie. À plus tard. = Good day, Lucie. See you later.
+
+C'est quoi le problème dans dialogue 2 ? = What is the problem in dialogue 2?
+
+There is loud noise = Il y a du bruit fort
+
+Dans quel endroit est le problème dans dialogue 2? = What is the problem in dialogue 2?
+
+Convo 3
+
+Sophie: Bonjour, Marc.
+
+Marc: Bonjour, Sophie. Comment vas-tu ?
+
+Sophie: Ça va bien, merci. Mais je voulais te parler d'un problème ce matin. = But I wanted to talk to you about a problem this morning.
+
+Marc: Oh, qu'est-ce qui se passe ? = Oh, what's going on?
+
+Sophie: Il y a une odeur étrange dans la salle de réunion. Je pense qu'il y a un problème de fuite de gaz = There is a strange smell in the meeting room. I think there is a gas leak problem
+
+Marc: C'est embêtant. Il faut vérifier ça rapidement. As-tu informé l'équipe de maintenance ? = That's annoying. This needs to be checked quickly. Have you informed the maintenance team?
+
+Sophie: Non, pas encore. = No, not yet.
+
+Marc: D'accord, je vais contacter l'équipe de maintenance tout de suite. Merci de m' avertir. = Okay, I'll contact the maintenance team right away. Thank you for letting me know.
+
+Sophie: De rien. Bonne journée, Marc. = You're welcome. Good day, Marc.
+
+Marc: Merci, toi aussi, Sophie. À bientôt.
+
+- Questions oui ou non
+  Y a-t-il .....? = Is there ....?
+  Est-ce qu'il y a ....? = Is there ....?
+  Est-ce que = Is it that
+- Questions ouvertes
+  Combien est ....? = How much is ....?
+  Combien y a-t-il de ...? = How many are there ...?
+
+How much is the rent = Combien est le loyer
+is there a garage = Y a-t-il un garage
+is there snow clearing = Y a-t-il un déneigement
+
+Conversation 1 Propriétaire/locataire
+Locataire :bonjour, J'appelle pour le logement à louer. J'ai quelques questions. = Hello, I'm calling about the rental housing. I have a few questions.
+Propriétaire : Très bien. Que voulez-vous savoir? = Okay. What do you want to know?
+Locataire : Combien de chambres à coucher y a-t-il? = How many bedrooms are there?
+Propriétaire : Il y a deux chambres à coucher. = There are two bedrooms.
+Locataire : Combien est le loyer? = How much is the rent?
+Propriétaire : Le loyer est 980 $.= The rent is $ 980.
+Locataire : Y a-t-il une place de stationnement? = Is there a parking space?
+Propriétaire : Oui, il y en a une. = Yes, there is one.
+Locataire : D'accord, merci. = Okay, thank you.
+
+Conversation 2 Propriétaire/locataire =
+Locataire : Bonjour, J'appelle pour le logement à louer. J'ai quelques questions. = Hello, I'm calling about the rental housing. I have a few questions.
+louer. questions.
+Propriétaire : Très bien. Que voulez-vous savoir?
+Locataire : Combien de chambres à coucher y a-t-il?
+Propriétaire : Il y a trois chambres à coucher.
+Locataire : Combien est le loyer?
+Propriétaire : Le loyer est 1 700 $.
+Locataire : Est- ?
+Propriétaire : Oui, il y en a un.
+Locataire : .
+
+Bonne journée
+
+how close to the park is it = à quelle distance du parc est-ce
+The park is across the street from the apartment = le parc est en face de l'appartement
+le deux amants = the two lovers
+is a name of a song I like = est le nom d'une chanson que j'aime
+It's by Arnaud Rebotini = C'est par Arnaud Rebotini
+lover = amant
+Le Vrai Bonheur = True Happiness
+Ca va etre = It's going to be
