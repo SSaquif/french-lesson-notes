@@ -356,3 +356,11 @@
     | [Evaluation \|NCLC 2 : Expression orale - Avertir d'un problème](https://avenue.ca/classroom/mod/assign/view.php?id=7714918)                               | Evaluation \| NCLC 2 : Oral expression - Warn of a problem                        |
     | [Evaluation \| NCLC 2 : Évaluation - Compréhension de l'oral - Comprendre des avertissements](https://avenue.ca/classroom/mod/quiz/view.php?id=7714919)    | Evaluation \| NCLC 2 : Evaluation - Listening comprehension - Understand warnings |
     | [Evaluation \| There was a third evaluation via a now closed google forms, can be found in my emails]                                                      |                                                                                   |
+
+33. 13 Janvier 2025
+
+    | French                                                                                                                      | English                                                  |
+    | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+    | [Compréhension de l'oral: la description d'un appartement](https://avenue.ca/classroom/mod/h5pactivity/view.php?id=7755721) | Listening comprehension: the description of an apartment |
+    | [Parler de son week-end](https://www.podcastfrancaisfacile.com/videos/parler-de-son-week-end-2.html)                        | Talk about your weekend                                  |
+    | [Homework \| Quiz : Les consonnes](https://avenue.ca/classroom/mod/quiz/view.php?id=7572866)                                | Quiz: Consonants                                         |

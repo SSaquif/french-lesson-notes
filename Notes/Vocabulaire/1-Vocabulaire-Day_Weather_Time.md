@@ -21,6 +21,12 @@ Hier, c'était ...
 Demain, nous serons ...
 Demain, ça sera ...
 
+### Rule of thumb:
+
+1. Can use verb faire with froid and chaud = Il fait froid, Il fait chaud
+2. For nouns use Il y a = Il y a de la pluie, Il y a du vent
+3. For adjectives use the verb etre = Il est froid, Il est chaud, Il est nuageux, Il est venteux
+
 ## Months of the Year
 
 | English   | French    | Pronounciation |

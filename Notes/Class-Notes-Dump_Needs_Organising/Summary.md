@@ -480,3 +480,30 @@ We learned about the rooms in the house = Nous avons appris sur les pièces de l
 
 ajoutant = adding
 encadrer = frame
+
+rain = pluie
+clear = clair
+sky = ciel
+
+il a ete = it has been very
+
+i dont know = je ne sais pas
+
+### Jan 13 2025
+
+1. Can use verb faire with froid and chaud = Il fait froid, Il fait chaud
+2. For nouns use Il y a = Il y a de la pluie, Il y a du vent
+3. For adjectives use the verb etre = Il est froid, Il est chaud, Il est nuageux, Il est venteux
+
+Alors, le samedi, je me lève assez tard, vers dix heures. Ensuite, je prends mon petit-déjeuner. Et puis, je sors faire quelques courses. Et je rentre vers midi. Je déjeune avec ma femme. Et l’après-midi, je fais une sieste. Ensuite, ensuite, ensuite… je fais un peu de sport. Je cours, je cours. Et puis, le soir, ça dépend : de temps en temps, je vais au cinéma ou bien je loue un DVD ou je vais au restaurant. Voilà.
+
+Switch Je to il
+Alors, le samedi, il se lève assez tard, vers dix heures. Ensuit, il prend son petit-déjeuner. Et puis, il sort faire quelques courses. Et il rentre vers midi. Il déjeune avec sa femme. Et l’après-midi, il fait une sieste. Ensuite, ensuite, ensuite… il fait un peu de sport. Il court, il court. Et puis, le soir, ça dépend : de temps en temps, il va au cinéma ou bien il loue un DVD ou il va au restaurant. Voilà.
+
+Swithc to nous
+Alors, le samedi, nous nous levons assez tard, vers dix heures. Ensuite, nous prenons notre petit-déjeuner. Et puis, nous sortons faire quelques courses. Et nous rentrons vers midi. Nous déjeunons avec ma femme. Et l’après-midi, nous faisons une sieste. Ensuite, ensuite, ensuite… nous faisons un peu de sport. Nous courons, nous courons. Et puis, le soir, ça dépend : de temps en temps, nous allons au cinéma ou bien nous louons un DVD ou nous allons au restaurant. Voilà.
+
+a water leak = une fuite d'eau
+the kitchen sink = l'évier de la cuisine
+the plumber = le plombier
+a loud noise = un bruit fort
