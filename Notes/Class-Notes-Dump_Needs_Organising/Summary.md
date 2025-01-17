@@ -507,3 +507,170 @@ a water leak = une fuite d'eau
 the kitchen sink = l'évier de la cuisine
 the plumber = le plombier
 a loud noise = un bruit fort
+
+### Jan 14 2025
+
+En hiver, dans le sud de la France, le ciel est bleu, il y a du soleil et il fait doux.
+= In winter, in the south of France, the sky is blue, the sun is shining and it is mild.
+
+Dans les Alpes, au sud-est, il fait très froid, il y a beaucoup de neige et le ciel est souvent très nuageux.
+= In the Alps, in the southeast, it is very cold, there is a lot of snow and the sky is often very cloudy.
+
+Dans le nord et dans l’est, il fait froid et nuageux. Il pleut ou il neige très souvent. L’hiver n’est pas très agréable dans ces régions.
+= In the north and east, it is cold and cloudy. It rains or snows very often. Winter is not very pleasant in these regions.
+
+Au printemps, il fait doux dans la plupart des régions. Il pleut beaucoup, particulièrement dans l’ouest et dans le centre de la France.
+= In spring, it is mild in most regions. It rains a lot, especially in the west and center of France.
+When does it rain a lot in France = Quand est-ce qu'il pleut beaucoup en France
+
+En été, il fait beau dans tout le pays. C’est dans le sud et dans l’est qu’il fait le plus chaud. Les températures moyennes peuvent atteindre 30 et même 35 degrés certains jours.
+= In summer, it is nice throughout the country. It is in the south and east that it is the hottest. Average temperatures can reach 30 and even 35 degrees on some days.
+En été, il fait beau dans tout le pays. = In summer, it is nice throughout the country.
+En été, quelles températures le temps peut-il atteindre certains jours? = In summer, what temperatures can the weather reach on some days?
+
+En automne, le temps est assez agréable. Il y a un peu plus de vent et il pleut assez souvent, mais c’est une saison ni trop chaude, ni trop froide, comme le printemps.
+= In autumn, the weather is quite pleasant. There is a little more wind and it rains quite often, but it is a season neither too hot nor too cold, like spring.
+Which season is the most like autumn = Quelle saison est la plus semblable à l'automne
+
+Je vais lire ce texte une deuxième fois à vitesse normale.
+= I will read this text a second time at normal speed.
+
+Dans ce texte, il y a un verbe assez difficile. C’est le verbe atteindre.
+Répétez après moi la conjugaison de ce verbe au présent de l’indicatif : J’atteins, tu atteins, il atteint, nous atteignons, vous atteignez, ils atteignent.
+= In this text, there is a rather difficult verb. It is the verb to reach.
+Repeat after me the conjugation of this verb in the present indicative: I reach, you reach, he reaches, we reach, you reach, they reach.
+
+Ce verbe signifie « monter » ou « parvenir à un degré, parvenir à un niveau »
+= This verb means "to rise" or "to reach a degree, to reach a level"
+
+Voici quelques exemples d’utilisation :
+= Here are some examples of use:
+
+« Aux enchères, ce tableau de Picasso a atteint 3 millions d’euros »
+= "At auction, this Picasso painting reached 3 million euros"
+« Les prix ont beaucoup monté. Ils ont atteint un nouveau record »
+= "Prices have risen a lot. They have reached a new record"
+« Le prix du pétrole a atteint les 70 dollars l’année dernière »
+= "The price of oil reached $70 last year"
+
+Comment est le temps dans le sud de la France en hiver?
+R: Dans le sud de la France, le ciel est bleu, il y a du soleil et il fait doux.
+Est-qu’il est chaud et ensoleillé dans le nord de la France?
+R: Non, il fait froid et nuageux
+En été, quelles températures le temps peut-il atteindre certains jours?
+R: Les températures moyennes peuvent atteindre 30 et même 35 degrés certains jours.
+Quand est-ce qu’il pleut beaucoup en France? = Where does it rain a lot in France?
+R: Il pleut beaucoup, particulièrement dans l’ouest et dans le centre de la France. = It rains a lot, especially in the west and center of France.
+Quelle saison est la plus semblable à l’automne
+R: Le printemps est la saison la plus semblable à l’automne
+
+Quel temps fait-il dans les Alpes en hiver ?
+R: Dans les Alpes, au sud-est, il fait très froid, il y a beaucoup de neige et le ciel est souvent très nuageux.
+Comment fait-il en hiver dans le sud de la France?
+R: Dans le sud de la France, le ciel est bleu, il y a du soleil et il fait doux.
+Comment fait-il en hiver dans le nord et dans l’est de la France?
+R: Dans le nord et dans l’est, il fait froid et nuageux. Il pleut ou il neige très souvent. L’hiver n’est pas très agréable dans ces régions.
+= In the north and east, it is cold and cloudy. It rains or snows very often. Winter is not very pleasant in these regions.
+Quelle température moyenne en été en France?
+R: Les températures moyennes peuvent atteindre 30 et même 35 degrés certains jours. = Average temperatures can reach 30 and even 35 degrees on some days.
+Dans Quelles saisons pleut-il en France ? = When does it rain in France?
+R: Il pleut beaucoup, particulièrement dans l’ouest et dans le centre de la France. = It rains a lot, especially in the west and center of France.
+
+même = same or some depending on context
+
+Est-ce que c'est neigeux dans les Alpes? = Is it snowy in the Alps?
+Oui, il y a beaucoup de neige = Yes, there is a lot of snow
+
+Est-ce qu' en printemps est agréable dans l'ouest dans le centre de la France? = Is spring pleasant in the west and center of France?
+Non, il pleut beaucoup = No, it rains a lot
+
+déconseillé pour = not recommended for
+proche de = close to
+loin de = far from
+idéal pour = ideal for
+i have to go to the station now = je dois aller à la gare maintenant
+I need to leave early = Je dois partir tôt
+but I will try to join the call on my phone later = mais je vais essayer de rejoindre l'appel sur mon téléphone plus tard
+i go to the station = je vais à la gare
+
+### Jan 15 2025
+
+I understood what they said on the train = J'ai compris ce qu'ils ont dit dans le train
+
+last call for ... = dernier appel pour ...
+
+derrière = behind
+climate change = changement climatique
+vraiment = really
+patinoire = ice rink
+combien de temps = how long
+varie = varies
+vague de froid =
+vraiment = really
+future porce pour verb
+aller
+J'irai = I will go
+
+We dont need use the article de with
+
+Do you want to go to the cafe = Est-ce que tu veux aller au café
+What book are you reading = Quel livre lis-
+Its a novel = C'est un roman
+Would you
+I know what I would like =
+no need = pas besoin
+I would like = je voudrais
+wait let me see the menu = attendez laissez-moi voir le menu
+the bill = l'addition
+
+here it is = le voici
+keep the change = gardez la monnaie
+
+at the bakery = a laà la boulangerie
+what is fresh: = qu'est-ce qui est frais
+eveything is fresh = tout est frais
+how are you paying = comment payez-vous
+
+leur = their
+
+### Jan 17 2025
+
+Avez-vous hâte de finir le cours? = Are you looking forward to finishing the course?
+Miss = manquer
+I miss you = tu me manques
+I will miss you= tu vas me manquer
+You will be missed = il laissera une place ,
+Je m’ennuie de toi ( québécois ) =I miss you
+Je m’ennuie = I’m annoyed bored
+
+Thank you for everything = merci pour tout
+Thank you for your help = merci pour votre aide
+Wish you the best for the future = je vous souhaite le meilleur pour l'avenir
+
+ou est la meilleure poutine = where is the best poutine
+
+oublie = forget
+
+do not forget to take your possessions = n'oubliez pas de prendre vos affaires
+
+last call for ... = dernier appel pour ...
+
+I can understand french better now = Je comprends mieux le français maintenant
+
+quelle activite en class t'a fait le plus rine = what activity in class did you enjoy the most
+
+I dont know = je ne sais pas
+
+I am confused = je suis confus
+
+why is it so hard = pourquoi c'est si difficile
+
+too many conjugations = trop de conjugaisons
+
+too much conjugation = trop de conjugaison
+
+so much conjugaison = tant de conjugaison
+
+I can understand french better now = Je comprends mieux le français maintenant
+
+Parler des douleurs = Talking about pain
