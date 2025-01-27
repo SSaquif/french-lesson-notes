@@ -1,11 +1,24 @@
 # Links
 
+<!-- toc -->
+
+- [Useful Links](#useful-links)
+- [Classroom Links](#classroom-links)
+  - [Level 2](#level-2)
+  - [Level 3/4](#level-34)
+
+<!-- tocstop -->
+
+## Useful Links
+
 - [News in French](https://www.newsinslowfrench.com/french-podcast)
 - [Google Classroom | Level 2](https://classroom.google.com/u/0/c/NzMwMjc0NDE2NDYz)
 - [Avenue Platform](https://avenue.ca/)
 - [Useful Link on Prepositions](https://francais.lingolia.com/en/grammar/prepositions)
 
 ## Classroom Links
+
+### Level 2
 
 1.  12 Novembre 2024
     |French|English|
@@ -399,3 +412,10 @@
     | [Evaluation \| NCLC 2 Évaluation - Compréhension de l'écrit - Comprendre une recette](https://avenue.ca/classroom/mod/quiz/view.php?id=7735583)                                                                    | Evaluation \| NCLC 2 Evaluation - Reading comprehension - Understand a recipe |
     | [Evaluation \| NCLC 2 Expression orale : Décrire un endroit (Tâche de mise en pratique)](https://avenue.ca/classroom/mod/assign/view.php?id=7631054)                                                               | Evaluation \| NCLC 2 Oral expression: Describe a place (Practical task)       |
     |                                                                                                                                                                                                                    |                                                                               |
+
+### Level 3/4
+
+1. 28 Janvier 2025 (Lundi)
+
+   | French | English |
+   | ------ | ------- |

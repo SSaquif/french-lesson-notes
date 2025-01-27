@@ -130,3 +130,52 @@ I will dress warmly. (Je m'habillerai chaudement)
 | Qu'est-ce que ça veut dire?              | What does it mean?              | veut = want, dire = say ie: want to say |
 | Qu'est-ce que tu fais dans le weekend?   | What do you do on weekends?     |                                         |
 | Est-ce que quelqu'un est sorti ce matin? | Did anyone go out this morning? |                                         |
+
+## When Questions, Quand
+
+| French                                  | English                             | Notes |
+| --------------------------------------- | ----------------------------------- | ----- |
+| Quand est-ce que tu pars?               | When are you leaving?               |       |
+| Quand est-ce que tu reviens?            | When are you coming back?           |       |
+| Quand est-ce que tu rentres?            | When are you coming home?           |       |
+| Quand est-ce que tu visites ta famille? | When are you visiting your family?  |       |
+| Quand est-ce que tu visites tes amis?   | When are you visiting your friends? |       |
+| Quand est-ce que tu nous rends visite?  | When are you visiting us?           |       |
+| Quand est-ce que tu vas à l'école?      | When are you going to school?       |       |
+| Quand est-ce que tu vas à la plage?     | When are you going to the beach?    |       |
+| Quand est-ce que la fête?               | when is the party?                  |       |
+| Quand est-ce que tu pars en vacances?   | When are you going on vacation?     |       |
+
+## Where Questions, Où
+
+| French                | English               | Notes |
+| --------------------- | --------------------- | ----- |
+| Où est-ce que tu vas? | Where are you going?  |       |
+| Où est-ce que tu es?  | Where are you?        |       |
+| Où est ta maison?     | Where is your house?  |       |
+| Où est ta voiture?    | Where is your car?    |       |
+| Où est votre bureau?  | Where is your office? |       |
+| Où est vous allez?    | Where are you going?  |       |
+
+## Why Questions, Pourquoi
+
+| French                            | English             | Notes |
+| --------------------------------- | ------------------- | ----- |
+| Pourquoi est-ce que tu pleures?   | Why are you crying? |       |
+| Pourquoi est-ce que tu es triste? | Why are you sad?    |       |
+
+## How Questions, Comment
+
+| French                         | English          | Notes |
+| ------------------------------ | ---------------- | ----- |
+| Comment est-ce que tu vas?     | How are you?     |       |
+| Comment est-ce que tu te sens? | How do you feel? |       |
+| Comment c'est passé?           | How did it go?   |       |
+
+## Who Questions, Qui
+
+| French                      | English          | Notes |
+| --------------------------- | ---------------- | ----- |
+| Qui est-ce que tu connais?  | Who do you know? |       |
+| Qui est-ce que tu aimes?    | Who do you like? |       |
+| Qui est-ce que tu détestes? | Who do you hate? |       |
