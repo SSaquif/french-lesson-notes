@@ -415,7 +415,7 @@
 
 ### Level 3/4
 
-1. 28 Janvier 2025 (Lundi)
+1. 27 Janvier 2025 (Lundi)
 
    | French | English |
    | ------ | ------- |
