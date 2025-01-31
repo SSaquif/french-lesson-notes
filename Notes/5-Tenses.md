@@ -23,3 +23,27 @@
 
 - Formed with the present tense of the verb "aller" + the infinitive of the main verb.
 - [Link](https://francais.lingolia.com/en/grammar/tenses/le-futur-compose)
+
+## Present idicatif
+
+> The present tense is the most frequently used tense in French.
+> It corresponds to the English simple present, and we use it to talk about facts, current situations, and repeated actions, as well as scheduled future actions.
+
+Conjuguez les verbes au présent = Conjugate the verbs in the present tense
+
+(aller) Je vais au bureau = I go to the office
+(faire) Il fait la vaisselle = He does the dishes
+(aller) Nous allons au magasin = We go to the store
+(être) Elles sont à la maison = They are at home
+(faire) Vous faites le ménage = You do the cleaning
+(dire) Vous dites la vérité = You tell the truth
+(vouloir) Je veux lire = I want to read
+(pouvoir) je peux apprendre le français = I can learn French
+(vouloir) Ils veulent regarder la télé = They want to watch TV
+(faire) On fait un travail = We do a job
+(vouloir) Tu veux écouter la radio = You want to listen to the radio
+(faire) Nous faisons du sport = We do sports
+(aller) Tu vas au dèpanneur = You go to the convenience store
+(avoir) Il a un problème = He has a problem
+(être) Vous êtes en retard = You are late
+(dire) Ils dit des choses intéressantes = They say interesting things

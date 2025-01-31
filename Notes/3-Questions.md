@@ -179,3 +179,16 @@ I will dress warmly. (Je m'habillerai chaudement)
 | Qui est-ce que tu connais?  | Who do you know? |       |
 | Qui est-ce que tu aimes?    | Who do you like? |       |
 | Qui est-ce que tu détestes? | Who do you hate? |       |
+
+## Questions I would ask in English
+
+| English                                | French                                               | Notes |
+| -------------------------------------- | ---------------------------------------------------- | ----- |
+| Should it be `option 1` or `option 2`? | Est-ce que ça devrait être `option 1` ou `option 2`? |       |
+| Would you like to go/come/do `thing`?  | Est-ce que tu veux aller/venir/faire `thing`?        |       |
+| Can you `do thing`?                    | Est-ce que tu peux `do thing`?                       |       |
+| Could you please `do thing`?           | Pourrais-tu s'il te plaît `do thing`?                |       |
+| What do you think about/of `thing`?    | Qu'est-ce que tu penses de `thing`?                  |       |
+| How would you do `thing`?              | Comment ferais-tu `thing`?                           |       |
+| How do you want to do `thing`?         | Comment veux-tu faire `thing`?                       |       |
+| How do you feel about `thing`?         | Comment te sens-tu à propos de `thing`?              |       |

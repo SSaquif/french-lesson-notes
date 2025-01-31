@@ -189,6 +189,42 @@
 | They listen         | Ils écoutent   | Eel-zay-coot    |
 | They listen         | Elles écoutent | Ell-zay-coot    |
 
+## Étudier
+
+> Meaning: to study
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-%C3%A9tudier.html)
+
+| English            | French         | pronunciation    |
+| ------------------ | -------------- | ---------------- |
+| I study            | J'étudie       | Jhay-too-dee     |
+| You study          | Tu étudies     | Too-ay-too-dee   |
+| You study (formal) | Vous étudiez   | Voo-zay-too-dyay |
+| He studies         | Il étudie      | Eel-ay-too-dee   |
+| She studies        | Elle étudie    | Ell-ay-too-dee   |
+| You/We/They study  | On étudie      | Ohn-too-dee      |
+| We study           | Nous étudions  | Noo-zay-too-dyon |
+| They study         | Ils étudient   | Eel-zay-too-dee  |
+| They study         | Elles étudient | Ell-zay-too-dee  |
+
+## Détester
+
+> Meaning: to hate
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-d%C3%A9tester.html)
+
+| English           | French          | pronunciation    |
+| ----------------- | --------------- | ---------------- |
+| I hate            | Je déteste      | Jhay-day-test    |
+| You hate          | Tu détestes     | Too-day-test     |
+| You hate (formal) | Vous détestez   | Voo-day-test-ay  |
+| He hates          | Il déteste      | Eel-day-test     |
+| She hates         | Elle déteste    | Ell-day-test     |
+| You/We/They hate  | On déteste      | Ohn-day-test     |
+| We hate           | Nous détestons  | Noo-day-test-ohn |
+| They hate         | Ils détestent   | Eel-day-test     |
+| They hate         | Elles détestent | Ell-day-test     |
+
+## Dire
+
 ## lire
 
 > Meaning: to read
@@ -391,3 +427,159 @@
 - Il faut du pain = I need some bread
 - Il faut disperser les gens = We need to disperse the people
 - Il faut dsiperser le sirop = We need to disperse the syrup
+
+## Chanter
+
+> Meaning: to sing
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-chanter.html)
+
+| English           | French         | pronunciation  |
+| ----------------- | -------------- | -------------- |
+| I sing            | Je chante      | Juh shahn      |
+| You sing          | Tu chantes     | Too shahn      |
+| You sing (formal) | Vous chantez   | Voo shahn-tay  |
+| He sings          | Il chante      | Eel shahn      |
+| She sings         | Elle chante    | Ell shahn      |
+| You/We/They sing  | On chante      | Ohn shahn      |
+| We sing           | Nous chantons  | Noo shahn-tohn |
+| They sing         | Ils chantent   | Eel shahn      |
+| They sing         | Elles chantent | Ell shahn      |
+
+## Finir
+
+> Meaning: to finish
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-finir.html)
+
+| English             | French          | pronunciation   |
+| ------------------- | --------------- | --------------- |
+| I finish            | Je finis        | Juh fee-nee     |
+| You finish          | Tu finis        | Too fee-nee     |
+| You finish (formal) | Vous finissez   | Voo fee-ne-say  |
+| He finishes         | Il finit        | Eel fee-nee     |
+| She finishes        | Elle finit      | Ell fee-nee     |
+| You/We/They finish  | On finit        | Ohn fee-nee     |
+| We finish           | Nous finissons  | Noo fee-nee-son |
+| They finish         | Ils finissent   | Eel fee-nee     |
+| They finish         | Elles finissent | Ell fee-nee     |
+
+## Essayer
+
+> Meaning: to try
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-essayer.html)
+
+| English          | French         | pronunciation   |
+| ---------------- | -------------- | --------------- |
+| I try            | J'essaie       | Jhah-say        |
+| You try          | Tu essaies     | Too-ah-say      |
+| You try (formal) | Vous essayez   | Voo-ah-say-yay  |
+| He tries         | Il essaie      | Eel-ah-say      |
+| She tries        | Elle essaie    | Ell-ah-say      |
+| You/We/They try  | On essaie      | Ohn-ah-say      |
+| We try           | Nous essayons  | Noo-ah-say-yohn |
+| They try         | Ils essaient   | Eel-ah-say      |
+| They try         | Elles essaient | Ell-ah-say      |
+
+## Envoyer
+
+> Meaning: to send
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-envoyer.html)
+
+| English           | French         | pronunciation |
+| ----------------- | -------------- | ------------- |
+| I send            | J'envoie       | Jhahn-vwah    |
+| You send          | Tu envoies     | Too-ahn-vwah  |
+| You send (formal) | Vous envoyez   | Voo-ahn-vwah  |
+| He sends          | Il envoie      | Eel-ahn-vwah  |
+| She sends         | Elle envoie    | Ell-ahn-vwah  |
+| You/We/They send  | On envoie      | Ohn-vwah      |
+| We send           | Nous envoyons  | Noo-ahn-vwahn |
+| They send         | Ils envoient   | Eel-ahn-vwah  |
+| They send         | Elles envoient | Ell-ahn-vwah  |
+
+## Essuyer
+
+> Meaning: to wipe
+> [Conjugation](https://conjugator.reverso.net/conjugation-french-verb-essuyer.html)
+
+| English           | French         | pronunciation    |
+| ----------------- | -------------- | ---------------- |
+| I wipe            | J'essuie       | Jhah-swee        |
+| You wipe          | Tu essuies     | Too-ah-swee      |
+| You wipe (formal) | Vous essuyez   | Voo-ah-swee      |
+| He wipes          | Il essuie      | Eel-ah-swee      |
+| She wipes         | Elle essuie    | Ell-ah-swee      |
+| You/We/They wipe  | On essuie      | Ohn-swee         |
+| We wipe           | Nous essuyons  | Noo-ah-swee-yohn |
+| They wipe         | Ils essuient   | Eel-ah-swee      |
+| They wipe         | Elles essuient | Ell-ah-swee      |
+
+sourire = to smile = l
+ecoûter = to listen = j
+manger = to eat = b
+pleurer = to cry = e
+marcher = to walk = k
+danse = to dance = f
+chanter = to sing = c
+rire = to laugh = h
+embrasser = to embrace = i
+parler = to speak = a
+regarder = to watch = j
+boire = to drink = g
+
+pronouncaiton = pronounciation
+a = ah
+b = bay
+c = say
+d = day
+e = uh (like o in english but with a light h sound at the end)
+f = eff
+g = zhay
+h = ash
+i = ee
+j = jee
+k = kah
+l = ell
+m = em
+n = en
+o = ouh (like a sharper o sound, very similar to e)
+p = pay
+q = koo
+r = air
+s = ess
+t = tay
+u = ew/oo like in `o lala`
+v = vay
+w = dooblay vay
+x = eex
+y = ee-grek
+z = zed
+
+its easy = c'est facile
+
+faire
+
+Je fais mes devoirs ce soir = I am doing my homework tonight
+Nous faisons le dîner = We are making dinner
+Ils font du ski en hiver = They ski in the winter
+Elle fait son lit chaque matin = She makes her bed every morning
+Il fait froid au nord = It is cold in the north
+Je fais visite à mon cousin = I am visiting my cousin
+Elles font la vaisselle = They are doing the dishes
+Il fait beau aujourd'hui = It is beautiful today
+Elle fait un gâteau au chocolat = She is making a chocolate cake
+Qui fait de la musique? = Who is making music?
+Vous faites de la natation = You are swimming
+Ils font du camping = They are camping
+Je fais de léquitation = I am horseback riding'
+Il fait du vélo = He is biking
+
+vouloir
+
+je veux manger une pomme = I want to eat an apple
+il veut aller au cinéma = He wants to go to the cinema
+nous voulons écouter la radio = We want to listen to the radio
+qui veut chanter? = Who wants to sing?
+elle vuelent regarder la télévision = They want to watch television
+tu veux
+
+pouvoir
