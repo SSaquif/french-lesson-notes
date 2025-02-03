@@ -98,3 +98,55 @@ champignons = mushrooms
 au coin du feu = by the fire
 
 should it be potages or potagers? = Est-ce que ça devrait être potages ou potagers?
+
+dans les grands restaurants = in the big restaurants
+on trouve = we find
+plats de specialités locales = local specialty dishes
+le saumon et la truite = salmon and trout
+sont souvent au menu = are often on the menu
+ainsi que = as well as
+le homard = the lobster
+est bien entendu = is of course
+la dinde = the turkey
+ou autre viande = or other meat
+que certaines personnes = that some people
+aiment bien saignante ou à point = like rare or medium
+les légumes des potagers = vegetables from the vegetable gardens
+sont aussi servis = are also served
+et accompagnés les plats principaux. = and accompany the main dishes.
+On y trouve plat d'haricots verts ou jaunes = There are green or yellow bean dishes
+des concombres, des champignons, des salades du persil et des oignons = cucumbers, mushrooms, salads, parsley and onions
+Le tout est arrosé avec des apéritifs et des vins = The whole thing is washed down with aperitifs and wines
+Un bon repas à célebrer en famille au coin du feu = A good meal to celebrate with family by the fire
+
+Dans les grands restaurants on trouve plats de specialités locales le saumon et la truite sont souvent au menu ainsi que le homard est bien entendu la dinde ou autre viande que certaines personnes aiment bien saignante ou à point les légumes des potagers sont aussi servis et accompagnés les plats principaux. On y trouve plat d'haricots verts ou jaunes, des concombres, des champignons, des salades, du persil et des oignons. Le tout est arrosé avec des aperitifs et des vins, un bon repas à célebrer en famille au coin du feu
+
+Made a lot of spelling mistakes = J'ai fait beaucoup de fautes d'orthographe
+
+incorrect spelling = orthographe incorrecte
+
+accent aigu = acute accent
+accent grave = grave accent
+
+I dont know when to use which accent = Je ne sais pas quand utiliser quel accent
+
+## 3 Février 2025 (Lundi)
+
+Faire des phrases au conditionnel présent avec: = Make sentences in the present conditional with:
+– Se réchauffer = To warm up
+– Retenir = To retain
+– Décommander = To cancel
+– Inviter = To invite
+
+1. Question: Quel est votre plat préféré (décrivez le) = What is your favorite dish (describe it)
+
+   - Answer:
+
+     | French                                                                                      | English                                                                    |
+     | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+     | Mon plat préféré est le riz frit parce que c'est délicieux.                                 | My favorite dish is fried rice because it is delicious.                    |
+     | C'est aussi facile à cuisiner et très polyvalent.                                           | It is also easy to cook and very versatile.                                |
+     | Je peux y ajouter n'importe quels ingrédients que je veux.                                  | I can add any ingredients I want to it.                                    |
+     | Ça m'aide à utiliser les restes et à préparer un repas rapide en semaine les jours chargés. | It helps me use up leftovers and make a quick weeknight meal on busy days. |
+
+## 4 Février 2025 (Mardi)

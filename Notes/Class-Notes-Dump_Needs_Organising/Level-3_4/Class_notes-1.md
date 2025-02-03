@@ -2,6 +2,7 @@
 
 <!-- toc -->
 
+- [TIL = Aujourd'hui, j'ai appris](#til--aujourdhui-jai-appris)
 - [27 Janvier 2025 (Lundi)](#27-janvier-2025-lundi)
   - [Analyser ses besoins = Analyzing your needs](#analyser-ses-besoins--analyzing-your-needs)
   - [Se presenter = Introducing yourself](#se-presenter--introducing-yourself)
@@ -11,8 +12,32 @@
   - [Quelle est ton activité préférée?](#quelle-est-ton-activite-preferee)
     - [Les activités possessifs = Possessive activities](#les-activites-possessifs--possessive-activities)
     - [La possession - pronoms toniques = Possession - tonic pronouns](#la-possession---pronoms-toniques--possession---tonic-pronouns)
+  - [31 Janvier 2025 (Vendredi)](#31-janvier-2025-vendredi)
+    - [Le Pluriel](#le-pluriel)
+      - [Mettez au pluriel les bom suivants = Put the following in the plural](#mettez-au-pluriel-les-bom-suivants--put-the-following-in-the-plural)
+      - [À láide de la liste qui suit, identifiez les outils en les écrivant au singulier et au pluriel = Using the following list, identify the tools by writing them in the singular and plural](#a-laide-de-la-liste-qui-suit-identifiez-les-outils-en-les-ecrivant-au-singulier-et-au-pluriel--using-the-following-list-identify-the-tools-by-writing-them-in-the-singular-and-plural)
+      - [Répondez aux questions = Answer the questions](#repondez-aux-questions--answer-the-questions)
+    - [Les article partitif = partitive article](#les-article-partitif--partitive-article)
+      - [Excercise 4 - Écrivez les articles partitifs appropriés = Write the appropriate partitive articles](#excercise-4---ecrivez-les-articles-partitifs-appropries--write-the-appropriate-partitive-articles)
+    - [Les articles contractés avec la préposition à = Articles contracted with the preposition à](#les-articles-contractes-avec-la-preposition-a--articles-contracted-with-the-preposition-a)
+      - [Exercise 3](#exercise-3)
 
 <!-- tocstop -->
+
+## TIL = Aujourd'hui, j'ai appris
+
+| Date            | Notes                                                                                            |
+| --------------- | ------------------------------------------------------------------------------------------------ |
+| 27 Janvier 2025 | Analyser ses besoins = Analyzing your needs                                                      |
+|                 | Se presenter = Introducing yourself                                                              |
+| 28 Janvier 2025 |                                                                                                  |
+| 29 Janvier 2025 |                                                                                                  |
+| 30 Janvier 2025 | Rules for Masculine and Feminine (Spelling)                                                      |
+|                 | Les activités possessifs = `ma, ta, sa, notre, votre, leur` etc                                  |
+|                 | La possession - pronoms toniques = `à moi, à nous, à toi, à vous, à lui, à elle, à eux, à elles` |
+| 31 Janvier 2025 | Rules For Plural (Spelling)                                                                      |
+|                 | Les articles partitif = partitive article `du(singuliar) & des (pluriel)`                        |
+|                 | Articles contracted with the preposition `à`: `à + le = au` , `à + les = aux`                    |
 
 ## 27 Janvier 2025 (Lundi)
 
@@ -169,9 +194,9 @@ We text in English = Nous textons en anglais
 
 (être) Vous êtes en retard = You
 
-# 30 Janvier 2025 (Jeudi)
+## 30 Janvier 2025 (Jeudi)
 
-## Quelle est ton activité préférée?
+### Quelle est ton activité préférée?
 
 [Exercise Page 1](<../../../Resources/Level-3_4/Day_2-Determinants%20Possessifs%20(questions).pdf>)
 
@@ -314,3 +339,255 @@ Convertir les phrases suivantes en utilisant les pronoms possessifs = Convert th
 14. J'ai un pannier -> Le pannier est à moi = I have a basket -> The basket is mine
 15. Gisèle et moi avons du café -> Le café est à nous = Gisèle and I have coffee -> The coffee is ours
 16. Jacques a un bonbon -> Le bonbon est à lui = Jacques has a candy -> The candy is his
+
+## 31 Janvier 2025 (Vendredi)
+
+### Le Pluriel
+
+#### Mettez au pluriel les bom suivants = Put the following in the plural
+
+[Excercise 3 Page 5](../../../Resources/Level-3_4/Day_4-Les%20noms.2.pdf)
+un exercice = des exercices = an exercise = exercises
+une question = des questions = a question = questions
+une réponse = des réponses = an answer = answers
+un cour = des cours = a course = courses
+une classe = des classes = a class = classes
+une table = des tables = a table = tables
+un cahier = des cahiers = a notebook = notebooks
+un tableau = des tableaux = a board = boards
+une craie = des craies = a chalk = chalks
+un manteau = des manteaux = a coat = coats
+un foulard = des foulards = a scarf = scarves
+un chapeau = des chapeaux = a hat = hats
+un bas = des bas = a stocking = stockings
+un gant = des gants = a glove = gloves
+un bijou = des bijoux = a jewel = jewels
+
+#### À láide de la liste qui suit, identifiez les outils en les écrivant au singulier et au pluriel = Using the following list, identify the tools by writing them in the singular and plural
+
+[Excercise 4 Page 6](../../../Resources/Level-3_4/Day_4-Les%20noms.2.pdf)
+tournevis = screwdriver is masculine
+un tournevis = a screwdriver
+des tournevis = screwdrivers
+
+martau = hammer is masculine
+un marteau = a hammer
+des marteaux = hammers
+
+agrafeuse = stapler is feminine
+une agrafeuse
+des agrafeuses
+
+scie = saw is feminine
+une scie = a saw
+des scies = saws
+
+clou = nail is masculine
+un clou = a nail
+des clous = nails
+
+rouleau = roller is masculine
+un rouleau = a roller
+des rouleaux = rollers
+
+pelle = shovel is feminine
+une pelle = a shovel
+des pelles = shovels
+
+pinceau = brush is masculine
+un pinceau = a brush
+des pinceaux = brushes
+
+#### Répondez aux questions = Answer the questions
+
+[Excercise 5 Page 7](../../../Resources/Level-3_4/Day_4-Les%20noms.2.pdf)
+
+Identifiez ces animaux = Identify these animals
+
+1. elephant = éléphant is masculine
+
+   - un éléphant = an elephant
+   - des éléphants = elephants
+
+2. owl = chouette is feminine
+
+   - une chouette = an owl
+   - des chouettes = owls
+   - un hibou = an owl
+   - des hiboux = owls
+
+3. toroise = tortue is feminine
+
+   - une tortue = a tortoise
+   - des tortues = tortoises
+
+4. frog = grenouille is feminine
+
+   - une grenouille = a frog
+   - des grenouilles = frogs
+
+5. horse = cheval is masculine
+
+   - un cheval = a horse
+   - des chevaux = horses
+
+6. duck = canard is masculine
+
+   - un canard = a duck
+   - des canards = ducks
+
+7. goose = oie is feminine
+
+   - une oie = a goose
+   - des oies = geese
+
+   swan = cygne is masculine
+
+   - un cygne = a swan
+   - des cygnes = swans
+
+8. bear = ours is masculine
+
+   - un ours = a bear
+   - des ours = bears
+
+9. beaver = castor is masculine
+
+   - un castor = a beaver
+   - des castors = beavers
+
+10. tiger = tigre is masculine
+
+    - un tigre = a tiger
+    - des tigres = tigers
+
+11. rhinoceros = rhinocéros is masculine
+
+    - un rhinocéros = a rhinoceros
+    - des rhinocéros = rhinoceroses
+
+12. bull = taureau is masculine
+
+    - un taureau = a bull
+    - des taureaux = bulls
+
+### Les article partitif = partitive article
+
+du, de la, de l', des = some
+
+|          | Masculin  | Féminin      |
+| -------- | --------- | ------------ |
+| Singular | du, de l' | de la, de l' |
+| Plural   | des       | des          |
+
+> Les articles partitifs sont formés de la préposition `de` suivie de `l'article défini` = Partitive articles are formed from the preposition `de` followed by the `definite article`
+
+de + le = du
+de + les = des
+
+I drink coffee = Je bois du café
+I drink a glass of milk = Je bois un verre de lait
+
+#### Excercise 4 - Écrivez les articles partitifs appropriés = Write the appropriate partitive articles
+
+[Excercise 4 Page 5](../../../Resources/Level-3_4/Day_4-Articles%20définis-indéfinis.pdf)
+
+1. Jái renversé \_\_\_ encres sur la table = I spilled some ink on the table
+   = de l'encre
+2. Je dois acheter \_\_\_ colle pour réparer cette tasse = I need to buy some glue to fix this cup
+   = de la colle
+3. Il y a \_\_\_ vaisselle qui traîne sur tous les comptoirs = There are some dishes lying around on all the counters
+   = de la vaisselle
+4. Elle est partie acheter \_\_\_ eau de javel = She went to buy some bleach
+   = de l'eau de javel
+5. Jái oublié d'acheter \_\_\_ assoulisseur = I forgot to buy some fabric softener
+   = de l'assouplisseur
+6. Tu dois frotter cette tache avec \_\_\_ savon = You must scrub this stain with some soap
+   = du savon
+7. Il y a \_\_\_ électricité statique dans ces chandails = There is some static electricity in these sweaters
+   = de l'électricité
+8. Elle cherche \_\_\_ fil noir pour raccommoder son bas = She is looking for some black thread to mend her stocking
+   = du fil
+9. Il ya \_\_\_ poussière sur cette lampe = There is some dust on this lamp
+   = de la poussière
+10. Il écoute toujours \_\_\_ musique quand il fait \_\_\_ ménage = He always listens to some music when he does some housework
+    = de la musique, du ménage
+
+### Les articles contractés avec la préposition à = Articles contracted with the preposition à
+
+Quand les articles définis le et les précèdes de la préposition à, il y a une contraction: = When the definite articles le and les are preceded by the preposition à, there is a contraction:
+
+```
+à + le = au
+à + les = aux
+```
+
+#### Exercise 3
+
+[Excercise 3 Page 6](../../../Resources/Level-3_4/Day_4-Articles%20définis-indéfinis.pdf)
+
+1. Le patron doit parler \_\_\_ employés = The boss must speak to the employees
+   = aux
+2. Il doivent téléphoner \_\_\_ clients = They must call the clients
+   = aux
+3. Il a laissé un message \_\_\_ secrétaire = He left a message for the secretary
+   = à la
+4. Tu parles trop longtemps \_\_\_ téléphone = You talk too long on the phone
+   = au
+5. Vous clevez vous adresser \_\_\_ directeur = You must address the director
+   = au
+6. Elle n'a pas envoyé la lettre \_\_\_ bonne adresse = She did not send the letter to the right address
+   = à la
+7. Il doit annoncer la nouvelle \_\_\_ début de la réunion = He must announce the news at the beginning of the meeting
+   = au
+8. Ils pourront poser des questions \_\_\_ fin de la réunion = They will be able to ask questions at the end of the meeting
+   = à la
+9. J'ai oublié mon porte-documents \_\_\_ maison = I forgot my briefcase at home
+   = à la
+10. Je dois retourner \_\_\_ bureau cet après-midi = I must return to the office this afternoon
+    = au
+
+#### Questionnaire avec les articles definis = Questionnaire with definite articles
+
+Activités Groupe
+
+```
+Moi Aussi = Me too
+Moi non plus = Me neither
+```
+
+[Page 1](../../../Resources/Level-3_4/Day_4-Questionnaire%20articles%20définis.pdf)
+Est-ce que tu aime les roties avec des bananes? = Do you like toast with bananas?
+
+it depends = ça dépend
+all kinds tout
+tomato soup = soupe de tomate
+all types of soup = tous les types de soupe
+
+I dont like pumpkin soup = Je n'aime pas la soupe de citrouille
+Not as sweet = Pas aussi sucré
+
+l'anis = anise
+I dont really care for anise = Je n'aime pas vraiment l'anis
+Moi non plus = Me neither
+cest bien mon
+
+la soupe aux poireaux = leek soup
+
+I dont mind leek soup = Je n'aime pas la soupe aux poireaux
+
+artichoke = artichaut
+
+betteraves
+
+I dont like the smell
+betteraves = beets
+
+dipping sauce = sauce à tremper
+
+crêpes avec de la crème`sure = pancakes with sour cream
+it's slimy = c'est gluant
+l'aneth = dill
+I use it to cook all the time = Je l'utilise pour cuisiner tout le temps
+
+## 3 Février 2025 (Lundi)
