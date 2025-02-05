@@ -419,3 +419,6 @@
 
    | French | English |
    | ------ | ------- |
+
+I woke up late yesterday = Je me suis réveillé tard hier
+So I missed the class = Alors j'ai manqué le cours

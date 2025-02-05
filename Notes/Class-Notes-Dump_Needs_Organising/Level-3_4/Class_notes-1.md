@@ -7,20 +7,25 @@
   - [Analyser ses besoins = Analyzing your needs](#analyser-ses-besoins--analyzing-your-needs)
   - [Se presenter = Introducing yourself](#se-presenter--introducing-yourself)
 - [29 Janvier 2025 (Mercredi)](#29-janvier-2025-mercredi)
-
-* [30 Janvier 2025 (Jeudi)](#30-janvier-2025-jeudi)
+- [30 Janvier 2025 (Jeudi)](#30-janvier-2025-jeudi)
   - [Quelle est ton activité préférée?](#quelle-est-ton-activite-preferee)
-    - [Les activités possessifs = Possessive activities](#les-activites-possessifs--possessive-activities)
-    - [La possession - pronoms toniques = Possession - tonic pronouns](#la-possession---pronoms-toniques--possession---tonic-pronouns)
-  - [31 Janvier 2025 (Vendredi)](#31-janvier-2025-vendredi)
-    - [Le Pluriel](#le-pluriel)
-      - [Mettez au pluriel les bom suivants = Put the following in the plural](#mettez-au-pluriel-les-bom-suivants--put-the-following-in-the-plural)
-      - [À láide de la liste qui suit, identifiez les outils en les écrivant au singulier et au pluriel = Using the following list, identify the tools by writing them in the singular and plural](#a-laide-de-la-liste-qui-suit-identifiez-les-outils-en-les-ecrivant-au-singulier-et-au-pluriel--using-the-following-list-identify-the-tools-by-writing-them-in-the-singular-and-plural)
-      - [Répondez aux questions = Answer the questions](#repondez-aux-questions--answer-the-questions)
-    - [Les article partitif = partitive article](#les-article-partitif--partitive-article)
-      - [Excercise 4 - Écrivez les articles partitifs appropriés = Write the appropriate partitive articles](#excercise-4---ecrivez-les-articles-partitifs-appropries--write-the-appropriate-partitive-articles)
-    - [Les articles contractés avec la préposition à = Articles contracted with the preposition à](#les-articles-contractes-avec-la-preposition-a--articles-contracted-with-the-preposition-a)
-      - [Exercise 3](#exercise-3)
+  - [Les activités possessifs = Possessive activities](#les-activites-possessifs--possessive-activities)
+  - [La possession - pronoms toniques = Possession - tonic pronouns](#la-possession---pronoms-toniques--possession---tonic-pronouns)
+- [31 Janvier 2025 (Vendredi)](#31-janvier-2025-vendredi)
+  - [Le Pluriel](#le-pluriel)
+    - [Mettez au pluriel les bom suivants = Put the following in the plural](#mettez-au-pluriel-les-bom-suivants--put-the-following-in-the-plural)
+    - [À láide de la liste qui suit, identifiez les outils en les écrivant au singulier et au pluriel = Using the following list, identify the tools by writing them in the singular and plural](#a-laide-de-la-liste-qui-suit-identifiez-les-outils-en-les-ecrivant-au-singulier-et-au-pluriel--using-the-following-list-identify-the-tools-by-writing-them-in-the-singular-and-plural)
+    - [Répondez aux questions = Answer the questions](#repondez-aux-questions--answer-the-questions)
+  - [Les article partitif = partitive article](#les-article-partitif--partitive-article)
+    - [Excercise 4 - Écrivez les articles partitifs appropriés = Write the appropriate partitive articles](#excercise-4---ecrivez-les-articles-partitifs-appropries--write-the-appropriate-partitive-articles)
+  - [Les articles contractés avec la préposition à = Articles contracted with the preposition à](#les-articles-contractes-avec-la-preposition-a--articles-contracted-with-the-preposition-a)
+    - [Exercise 3](#exercise-3)
+    - [Questionnaire avec les articles definis = Questionnaire with definite articles](#questionnaire-avec-les-articles-definis--questionnaire-with-definite-articles)
+- [3 Février 2025 (Lundi)](#3-fevrier-2025-lundi)
+- [4 Février 2025 (Mardi)](#4-fevrier-2025-mardi)
+  - [Rédiger une note au d'achats alimentaires = Write a note for food purchases](#rediger-une-note-au-dachats-alimentaires--write-a-note-for-food-purchases)
+  - [A bord de l'avion = On board the plane](#a-bord-de-lavion--on-board-the-plane)
+    - [Láutomiobile ou les transports en commun = The car or public transport](#lautomiobile-ou-les-transports-en-commun--the-car-or-public-transport)
 
 <!-- tocstop -->
 
@@ -38,6 +43,9 @@
 | 31 Janvier 2025 | Rules For Plural (Spelling)                                                                      |
 |                 | Les articles partitif = partitive article `du(singuliar) & des (pluriel)`                        |
 |                 | Articles contracted with the preposition `à`: `à + le = au` , `à + les = aux`                    |
+| 4 Février 2025  | Rédiger une note au d'achats alimentaires = Write a note for food purchases                      |
+|                 | A bord de l'avion = On board the plane                                                           |
+|                 | Láutomiobile ou les transports en commun = The car or public transport                           |
 
 ## 27 Janvier 2025 (Lundi)
 
@@ -591,3 +599,207 @@ l'aneth = dill
 I use it to cook all the time = Je l'utilise pour cuisiner tout le temps
 
 ## 3 Février 2025 (Lundi)
+
+## 4 Février 2025 (Mardi)
+
+### Rédiger une note au d'achats alimentaires = Write a note for food purchases
+
+[Page 5](../../../Resources/Level-3_4/Day_4-Exercices-%20nourriture.pdf)
+
+Écrivez un mot à votre instructeur. Demandez-lui d'acheter 8 articles differents à l'épicerie. Ècrivez-lui quoi acheter. = Write a note to your instructor. Ask him to buy 8 different items at the grocery store. Write him what to buy.
+
+Dites à votre instructeur qu'un de vos amis est allergique aux arachides. = Tell your instructor that one of your friends is allergic to peanuts.
+
+Votre note doit comporter une date, des formules de politesse et une signature. = Your note must include a date, polite formulas and a signature.
+
+N'obuliez pas de remercier la personne et de lui mentionner que vous allez la rembourser. = Don't forget to thank the person and mention that you will reimburse them.
+
+4 Février 2025
+Bonjour M. / Mme [Instructor's Name],
+
+J'espère que tu allez bien. = I hope you are well.
+Je fais un gâteau au chocolat et j'ai besoin de quelques ingrédients.
+I am making a chocolate cake and I need some ingredients.
+Je vous écris pour tu demander d'acheter quelques articles à l'épicerie. Mon ami est allergique aux arachides, alors s'il vous plaît.
+= I am making a request to you to buy some items at the grocery store. My friend is allergic to peanuts, so please.
+Voici ce que je voudrais que vous achetiez:
+
+- a bootle of milk = une bouteille de lait
+- a bag of flour = un sac de farine
+- a dozen eggs = une douzaine d'oeufs
+- a bar of chocolate = une tablette de chocolat
+- a bag of sugar = un sac de sucre
+- vanilla extract = de l'extrait de vanille
+- baking powder = de la poudre à pâte
+- icing sugar = du sucre glace
+
+- Du lait
+- Du pain
+- Des oeufs
+- Du beurre
+- Du fromage
+- Des bananes
+- Des légumes
+- De la viande
+
+Je vous remercie d'avance pour votre aide. Je vous rembourserai dès que possible. = Thank you in advance for your help. I will reimburse you as soon as possible.
+
+Cordialement,
+[Votre Nom]
+
+In gps they pronounce eveything in engligsh = Dans le gps, ils prononcent tout en anglais
+
+[Page 6](../../../Resources/Level-3_4/Day_4-Exercices-%20nourriture.pdf)
+
+1. Quelle sorte de biscuits contient cet emballage? = What kind of cookies are in this package?
+   - These are chocolate chip cookies in the package = Ce sont des biscuits aux pépites de chocolat dans l'emballage
+2. Est-ce qu'il y a des ouefs dans ces bicuits? = Are there eggs in these cookies?
+   - Yes, there are eggs in these cookies = Oui, il y a des oeufs dans ces biscuits
+3. Combien de biscuits une portion représente-t-elle? = How many cookies does one serving represent?
+   - One serving represents 2 cookies = Une portion représente 2 biscuits
+4. Combien y-a-t-il de sucre dans une portion de biscuits? = How much sugar is in one serving of cookies?
+   - There are 15 grams of sugar in one serving of cookies = Il y a 15 grammes de sucre dans une portion de biscuits
+5. Quel est le dernier ingrédient? = What is the last ingredient?
+   - The last ingredient is spices = Le dernier ingrédient est des épices
+6. Quelle est la taille du paquet de biscuits (combien de grammes)? = What is the size of the cookie package (how many grams)?
+   - The size of the cookie package is 500 grams = La taille du paquet de biscuits est de 500 grammes
+7. Manageriez vous ces biscuits le 8 décembre 2017? Porquoi? = Would you eat these cookies on December 8, 2017? Why?
+   - No, I would not eat these cookies on December 8, 2017 because they are expired = Non, je ne mangerais pas ces biscuits le 8 décembre 2017 parce qu'ils sont périmés
+8. Votre ami est allergique aux noix. Peut-elle manger ces biscuits? Porquoi? = Your friend is allergic to nuts. Can she eat these cookies? Why?
+   - Yes she can eat these cookies because they do not contain nuts = Oui, elle peut manger ces biscuits parce qu'ils ne contiennent pas de noix
+
+périmé ou expiré = expired
+date de expiration = expiration date
+
+Pensez-vous que les biscuits sont bons pour la santé? = Do you think the cookies are good for your health?
+They are not good for health = Ils ne sont pas bons pour la santé
+But they are fine in moderation = Mais ils sont bien en modération
+and chocolate is hard to resist = et le chocolat est difficile à résister
+
+Cusinez-vous avec des épices? = Do you cook with spices?
+Oui, je cuisine avec des épices = Yes, I cook with spices
+Nommez une épice que vous aimez = Name a spice you like
+
+I use turmeric, coriander, and cumin in my cooking often = J'utilise souvent du curcuma, de la coriandre et du cumin dans ma cuisine
+
+[Page 8](../../../Resources/Level-3_4/Day_4-Exercices-%20nourriture.pdf)
+
+Regardez dábord -les deuz listes d'épicerie. Dans les espsaces a cette fin écrivez ensuite les produits et les quantités que Marie-Christine et Jean-Luc veulent acheter. = First look at the two grocery lists. In the spaces provided, write down the products and quantities that Marie-Christine and Jean-Luc want to buy.
+
+a packet of biscuits = un paquet de biscuits
+a bag of sugar = un sac de sucre
+2 bars of chocolate = 2 tablettes de chocolat
+a box of cereals = une boîte de céréales
+carrots = des carottes
+sirop d'érable = une bouteille de sirop d'érable
+trois bouteilles d'eau minérale = three bottles of mineral water
+a can of whipping cream = une canette de crème fouettée
+une contenant de lait = a container of milk
+2 kilo of potatoes = 2 kilos de pommes de terre
+
+quelle est la différence entre une bouteille et une boite = What is the difference between a bottle and a box
+
+3 or 4 oranges = 3 ou 4 oranges
+2 bottles of soft drink = 2 bouteilles de boisson gazeuse
+café = un paquet de café
+a box of tomatoes = une boite de tomates
+rice = un sac de riz
+bière = 6 canettes de bière
+beurre = une livre de beurre = a pound of butter
+200 grammes de fromage râpé = 200 grams of grated cheese
+vainde = 1 kilo de viande = 1 kilo of meat
+poivre = un sachet de poivre = a packet of pepper
+
+Jean luc would likt to buy = Jean-Luc voudrait acheter
+
+livre = pound or book
+
+### A bord de l'avion = On board the plane
+
+Utilisez
+
+Aimeriez-vous? = Would you like?
+Voudriez-vous? = Would you like?
+prendriez-vous? = Would you take?
+Voulez-vous? = Would you like?
+
+It's the first thing they taught me = C'est la première chose qu'ils m'ont apprise
+
+Lágente de bord offre différents produits aux passagers. = The flight attendant offers different products to passengers.
+
+Ils acceptent ou refusent. = They accept or refuse.
+
+Composez les dialogues à l
+
+sachet
+
+Qu'ameriez vous prendre pour le dinner = What would you like to have for dinner?
+Prendriez-vous du poulet pour dinner? = Would you like chicken for dinner?
+Voudriez-vous m'amener une seriette humide, un journal, etc? = Would you like me to bring you a wet towel, a newspaper, etc?
+J'ai besoin des ecouteurs, voudriez-vous les m'amener? = I need headphones, would you like to bring them to me?
+
+#### Láutomiobile ou les transports en commun = The car or public transport
+
+[Exervise](<../../../Resources/Level-3_4/Day_4-Moyens%20de%20transports%20(questions).pdf>)
+
+| French                                                                                                                                                                                                                                                                                                                   | English                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <b>Paragraph</b> 1                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                              |
+| Quand en travaille en ville, il est difficile de savoir s'il est préférable d'aller travaille en automobile ou d'utiliser les transports en commun.                                                                                                                                                                      | When working in the city, it is difficult to know whether it is better to go to work by car or to use public transport.                                                                                                      |
+| Même si láutomobile est un moyen de transport très puoulaire, il n'est pas toujours avantageux de l'utiliser.                                                                                                                                                                                                            | Even though the car is a very popular means of transport, it is not always advantageous to use it.                                                                                                                           |
+| Les automomobiliistes qui circulent quotidiennement dans la ville admettent qu'il est parfois bien compliqué de circuler en automobile.                                                                                                                                                                                  | Motorists who drive daily in the city admit that it is sometimes very complicated to drive by car.                                                                                                                           |
+| Conduire en ville est une important de stress: la circulation dense, les routes en réparation, la chaussée glissante, le manque de stationnement, les contraventions qui peuvent atterrir sur le pare-brise au moment où l'on's'y attend le moins sont des facteurs qui peuvent énormément fatiguer certaines personnes. | Driving in the city is a source of stress: heavy traffic, roads under repair, slippery roads, lack of parking, fines that can land on the windshield when you least expect it are factors that can greatly tire some people. |
+| Il ya des gens qui ont une automobile et qui choisissent malgré tout de prendre un moyen de transport public pour aller travailler parce qu'ils ne peuvent pas subir la pression de conduire en ville.                                                                                                                   | There are people who have a car and who choose to take public transport to go to work because they cannot bear the pressure of driving in the city.                                                                          |
+| <b>Paragraph 2 </b>                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                              |
+| D'un autre coté, les transports en commun ont aussi leurs désavantages.                                                                                                                                                                                                                                                  | On the other hand, public transport also has its disadvantages.                                                                                                                                                              |
+| Il n'est pas trés relaxant de devoir descendre l'escalier à la course pour sauter dans le métro qui s'en vient, d'attendre l'autobus à la pluie battante ou de crever de chaluer dans un autobus bondé de monde.                                                                                                         | It is not very relaxing to have to run down the stairs to jump on the subway that is coming, to wait for the bus in the pouring rain or to die of heat in a crowded bus.                                                     |
+| <b>Paragraph 3</b>                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                              |
+| Il est rare que l'on recontre quelqu'un pour qui le déplacement de la maison au bureau n'est pas probleme.                                                                                                                                                                                                               | It is rare that one meets someone for whom the journey from home to the office is not a problem.                                                                                                                             |
+| Il ya beaucoup de personnes qui ont un très bon emploi, mais qui trouvent le transport très difficile, compliqué, trop long ou trop coûteux.                                                                                                                                                                             | There are many people who have a very good job, but who find transport very difficult, complicated, too long or too expensive.                                                                                               |
+| <b>Paragraph 4</b>                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                              |
+| Évidemment, il y a des chanceux qui habitent tout près de leur travail, mail ils ne sont pas nombreux.                                                                                                                                                                                                                   | Obviously, there are lucky people who live very close to their work, but they are not many.                                                                                                                                  |
+| On aurait tendance à croire que l'evolution considérable des moyens de transport depuis une certaine d'années aurait simplifié la vie des gens et pourtant les choses n'ont pas tellement changé.                                                                                                                        | One would tend to believe that the considerable evolution of means of transport in recent years would have simplified people's lives and yet things have not changed much.                                                   |
+| À l'epoque de nos ancêtres, les gens trouvaient difficile de se déplacer d'un village à l'autre, tout comme maintentant l'on trouve difficile de se déplacer d'un quartier à l'autre.                                                                                                                                    | In the time of our ancestors, people found it difficult to move from one village to another, just as now it is difficult to move from one neighborhood to another.                                                           |
+| La différence est qu'aujourd'hui on parle d'automoobile, d'autobus er de métro plutôt que de parler de chevaux.                                                                                                                                                                                                          | The difference is that today we talk about cars, buses and subways rather than talking about horses.                                                                                                                         |
+
+> Répondez aux questions sur le texte = Answer the questions about the text
+
+1. Comment applle-t-on lénsemble des véhicules publics qui transportent des personnes? = What is the name of all public vehicles that transport people?
+
+   - On appelle l'ensemble des véhicules publics qui transportent des personnes les transports en commun. = The set of public vehicles that transport people is called public transport.
+
+2. Nommez trois facteurs de stress pour les automobilistes. = Name three stress factors for motorists.
+
+   - Trois facteurs de stress pour les automobilistes sont la circulation dense, les routes en réparation et le manque de stationnement. = Three stress factors for motorists are heavy traffic, roads under repair and lack of parking.
+
+3. Pourqois certain propriétaires d'automobiles choissent-ils de prendre un moyen de transport public? = Why do some car owners choose to take public transport?
+
+   - Certains propriétaires d'automobiles choisissent de prendre un moyen de transport public parce qu'ils ne peuvent pas subir la pression de conduire en ville. = Some car owners choose to take public transport because they cannot bear the pressure of driving in the city.
+
+4. Nommez deux désavantages associés aux transports en commun. = Name two disadvantages associated with public transport.
+
+   - Deux désavantages associés aux transports en commun sont de devoir courir pour attraper le métro et de devoir attendre l'autobus sous la pluie. = Two disadvantages associated with public transport are having to run to catch the subway and having to wait for the bus in the rain.
+
+5. Dans le texte, quelle expression signifie quíl pleut très fort? = in the text, what expression means that it is raining very hard?
+
+   - Dans le texte, l'expression `pluie battante` signifie qu'il pleut très fort. = In the text, the expression "pouring rain" means that it is raining very hard.
+
+6. Que signifie l'expression `un autobus bondé de monde`? = What does the expression "a crowded bus" mean?
+
+   - L'expression `un autobus bondé de monde` signifie un autobus plein de gens. = The expression "a crowded bus" means a bus full of people.
+
+7. Dans le troisième paragraphe, quel mot est associé à l'idée d'argent? = In the third paragraph, what word is associated with the idea of money?
+
+   - Dans le troisième paragraphe, le mot associé à l'idée d'argent est `coûteux`. = In the third paragraph, the word associated with the idea of money is `expensive`.
+
+8. Dans le texte, qui qualifie-t-on de chanceux? = In the text, who is called lucky?
+
+   - Dans le texte, on qualifie de chanceux les gens qui habitent tout près de leur travail. = In the text, people who live very close to their work are called lucky.
+
+9. Dans de dernier paragraph, trouvez un synonyme de faciliter. = In the last paragraph, find a synonym for facilitate.
+
+   - Dans le dernier paragraphe, un synonyme de faciliter est `simplifier`. = In the last paragraph, a synonym for facilitate is `simplify`.
+
+10. Pourquoi dit-on que les choses n'ont pas tellement changé malgré l'évolution des moyens de transport? = Why is it said that things have not changed much despite the evolution of means of transport?
+
+    - On dit que les choses n'ont pas tellement changé malgré l'évolution des moyens de transport parce qu'aujourd'hui on parle d'automobile, d'autobus et de métro plutôt que de parler de chevaux. = It is said that things have not changed much despite the evolution of means of transport because today we talk about cars, buses and subways rather than talking about horses.
