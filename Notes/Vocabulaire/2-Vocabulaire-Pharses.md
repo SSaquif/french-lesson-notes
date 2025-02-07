@@ -1,5 +1,54 @@
 # Phrases
 
+<!-- toc -->
+
+- [Des mots polis = Polite words](#des-mots-polis--polite-words)
+- [Phrases utiles = Useful phrases](#phrases-utiles--useful-phrases)
+- [Phrases to show admiration](#phrases-to-show-admiration)
+
+<!-- tocstop -->
+
+## Des mots polis = Polite words
+
+[Page ](../../../Resources/Level-3_4/Day_5-Mots%20utiles.pdf)
+
+| French               | English             |
+| -------------------- | ------------------- |
+| à bienôt             | see you soon        |
+| à demain             | see you tomorrow    |
+| allô                 | hello               |
+| à lundi              | see you Monday      |
+| amuse-toi            | have fun            |
+| au revoir            | goodbye             |
+| bienvenue            | welcome             |
+| bon appétit          | enjoy your meal     |
+| bonne chance         | good luck           |
+| bonne fête           | happy birthday      |
+| bonne fin de semaine | have a good weekend |
+| bonjour              | hello               |
+| bonsoir              | good evening        |
+| comment ça va?       | how are you?        |
+| de rien              | you're welcome      |
+| félicitations        | congratulations     |
+| guéri vite           | get well soon       |
+| j'ai hâte            | I can't wait        |
+| j'aime bien          | I like it           |
+| je t'aime            | I love you          |
+| je vous aime         | I love you          |
+| je t'embrasse fort   | I hug you           |
+| je vous embrasse     | I hug you           |
+| je m'ennuie          | I miss you          |
+| je m'excuse          | I'm sorry           |
+| je pense à toi       | I'm thinking of you |
+| merci                | thank you           |
+| pardon               | sorry               |
+| salut                | hi                  |
+| s'il te plaît        | please              |
+| s'il vous plaît      | please              |
+| tu me manques        | I miss you          |
+
+## Phrases utiles = Useful phrases
+
 | Français                           | English                      | Pronounciation                              |
 | ---------------------------------- | ---------------------------- | ------------------------------------------- |
 | Amuse toi bien                     | Have fun                     | Ah-mooz twah byan                           |

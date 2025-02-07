@@ -4,28 +4,43 @@
 
 - [TIL = Aujourd'hui, j'ai appris](#til--aujourdhui-jai-appris)
 - [27 Janvier 2025 (Lundi)](#27-janvier-2025-lundi)
-  - [Analyser ses besoins = Analyzing your needs](#analyser-ses-besoins--analyzing-your-needs)
-  - [Se presenter = Introducing yourself](#se-presenter--introducing-yourself)
+  * [Analyser ses besoins = Analyzing your needs](#analyser-ses-besoins--analyzing-your-needs)
+  * [Se presenter = Introducing yourself](#se-presenter--introducing-yourself)
 - [29 Janvier 2025 (Mercredi)](#29-janvier-2025-mercredi)
 - [30 Janvier 2025 (Jeudi)](#30-janvier-2025-jeudi)
-  - [Quelle est ton activité préférée?](#quelle-est-ton-activite-preferee)
-  - [Les activités possessifs = Possessive activities](#les-activites-possessifs--possessive-activities)
-  - [La possession - pronoms toniques = Possession - tonic pronouns](#la-possession---pronoms-toniques--possession---tonic-pronouns)
+  * [Quelle est ton activité préférée?](#quelle-est-ton-activite-preferee)
+  * [Les activités possessifs = Possessive activities](#les-activites-possessifs--possessive-activities)
+  * [La possession - pronoms toniques = Possession - tonic pronouns](#la-possession---pronoms-toniques--possession---tonic-pronouns)
 - [31 Janvier 2025 (Vendredi)](#31-janvier-2025-vendredi)
-  - [Le Pluriel](#le-pluriel)
-    - [Mettez au pluriel les bom suivants = Put the following in the plural](#mettez-au-pluriel-les-bom-suivants--put-the-following-in-the-plural)
-    - [À láide de la liste qui suit, identifiez les outils en les écrivant au singulier et au pluriel = Using the following list, identify the tools by writing them in the singular and plural](#a-laide-de-la-liste-qui-suit-identifiez-les-outils-en-les-ecrivant-au-singulier-et-au-pluriel--using-the-following-list-identify-the-tools-by-writing-them-in-the-singular-and-plural)
-    - [Répondez aux questions = Answer the questions](#repondez-aux-questions--answer-the-questions)
-  - [Les article partitif = partitive article](#les-article-partitif--partitive-article)
-    - [Excercise 4 - Écrivez les articles partitifs appropriés = Write the appropriate partitive articles](#excercise-4---ecrivez-les-articles-partitifs-appropries--write-the-appropriate-partitive-articles)
-  - [Les articles contractés avec la préposition à = Articles contracted with the preposition à](#les-articles-contractes-avec-la-preposition-a--articles-contracted-with-the-preposition-a)
-    - [Exercise 3](#exercise-3)
-    - [Questionnaire avec les articles definis = Questionnaire with definite articles](#questionnaire-avec-les-articles-definis--questionnaire-with-definite-articles)
+  * [Le Pluriel](#le-pluriel)
+    + [Mettez au pluriel les bom suivants = Put the following in the plural](#mettez-au-pluriel-les-bom-suivants--put-the-following-in-the-plural)
+    + [À láide de la liste qui suit, identifiez les outils en les écrivant au singulier et au pluriel = Using the following list, identify the tools by writing them in the singular and plural](#a-laide-de-la-liste-qui-suit-identifiez-les-outils-en-les-ecrivant-au-singulier-et-au-pluriel--using-the-following-list-identify-the-tools-by-writing-them-in-the-singular-and-plural)
+    + [Répondez aux questions = Answer the questions](#repondez-aux-questions--answer-the-questions)
+  * [Les article partitif = partitive article](#les-article-partitif--partitive-article)
+    + [Excercise 4 - Écrivez les articles partitifs appropriés = Write the appropriate partitive articles](#excercise-4---ecrivez-les-articles-partitifs-appropries--write-the-appropriate-partitive-articles)
+  * [Les articles contractés avec la préposition à = Articles contracted with the preposition à](#les-articles-contractes-avec-la-preposition-a--articles-contracted-with-the-preposition-a)
+    + [Exercise 3](#exercise-3)
+    + [Questionnaire avec les articles definis = Questionnaire with definite articles](#questionnaire-avec-les-articles-definis--questionnaire-with-definite-articles)
 - [3 Février 2025 (Lundi)](#3-fevrier-2025-lundi)
 - [4 Février 2025 (Mardi)](#4-fevrier-2025-mardi)
-  - [Rédiger une note au d'achats alimentaires = Write a note for food purchases](#rediger-une-note-au-dachats-alimentaires--write-a-note-for-food-purchases)
-  - [A bord de l'avion = On board the plane](#a-bord-de-lavion--on-board-the-plane)
-    - [Láutomiobile ou les transports en commun = The car or public transport](#lautomiobile-ou-les-transports-en-commun--the-car-or-public-transport)
+  * [Rédiger une note au d'achats alimentaires = Write a note for food purchases](#rediger-une-note-au-dachats-alimentaires--write-a-note-for-food-purchases)
+  * [A bord de l'avion = On board the plane](#a-bord-de-lavion--on-board-the-plane)
+    + [Láutomiobile ou les transports en commun = The car or public transport](#lautomiobile-ou-les-transports-en-commun--the-car-or-public-transport)
+- [5 Février 2025 (Mercredi)](#5-fevrier-2025-mercredi)
+  * [Le Travail et la santé = Work and health](#le-travail-et-la-sante--work-and-health)
+  * [Choix de Carrière = Career Choice](#choix-de-carriere--career-choice)
+- [6 Février 2025 (Jeudi)](#6-fevrier-2025-jeudi)
+  * [Les Métiers - homework](#les-metiers---homework)
+  * [Des mots polis = Polite words](#des-mots-polis--polite-words)
+  * [Le Conditionnel Présent = The Present Conditional](#le-conditionnel-present--the-present-conditional)
+    + [Ex 11: Conjugez les verbes au conditionnel présent = Conjugate the verbs in the present conditional](#ex-11-conjugez-les-verbes-au-conditionnel-present--conjugate-the-verbs-in-the-present-conditional)
+    + [Ex 12: Conjuguez les verbes au conditionnel présent = Conjugate the verbs in the present conditional](#ex-12-conjuguez-les-verbes-au-conditionnel-present--conjugate-the-verbs-in-the-present-conditional)
+  * [Suggestions](#suggestions)
+    + [Ex: Les Suggestions = Suggestions](#ex-les-suggestions--suggestions)
+  * [Aves-vous les sens de l'organisation? = Do you have organizational skills?](#aves-vous-les-sens-de-lorganisation--do-you-have-organizational-skills)
+  * [(Useful Exercise) Conjugez les verbes aux temps appropriés et complétez les phrases = Conjugate the verbs in the appropriate tenses and complete the sentences](#useful-exercise-conjugez-les-verbes-aux-temps-appropries-et-completez-les-phrases--conjugate-the-verbs-in-the-appropriate-tenses-and-complete-the-sentences)
+      - [Ex 3: Conjugez les verbes aux temps appropriés et complétez les phrases = Conjugate the verbs in the appropriate tenses and complete the sentences](#ex-3-conjugez-les-verbes-aux-temps-appropries-et-completez-les-phrases--conjugate-the-verbs-in-the-appropriate-tenses-and-complete-the-sentences)
+    + [Exercise 1](#exercise-1)
 
 <!-- tocstop -->
 
@@ -46,6 +61,9 @@
 | 4 Février 2025  | Rédiger une note au d'achats alimentaires = Write a note for food purchases                      |
 |                 | A bord de l'avion = On board the plane                                                           |
 |                 | Láutomiobile ou les transports en commun = The car or public transport                           |
+| 5 Février 2025  |                                                                                                  |
+| 6 Février 2025  | Conditionnel présent = Conditional present (Would)                                               |
+|                 | L'imparfait = The imperfect (Was)                                                                |
 
 ## 27 Janvier 2025 (Lundi)
 
@@ -764,7 +782,7 @@ J'ai besoin des ecouteurs, voudriez-vous les m'amener? = I need headphones, woul
 
 > Répondez aux questions sur le texte = Answer the questions about the text
 
-1. Comment applle-t-on lénsemble des véhicules publics qui transportent des personnes? = What is the name of all public vehicles that transport people?
+1. Comment applle-t-on l'ensemble des véhicules publics qui transportent des personnes? = What is the name of all public vehicles that transport people?
 
    - On appelle l'ensemble des véhicules publics qui transportent des personnes les transports en commun. = The set of public vehicles that transport people is called public transport.
 
@@ -803,3 +821,320 @@ J'ai besoin des ecouteurs, voudriez-vous les m'amener? = I need headphones, woul
 10. Pourquoi dit-on que les choses n'ont pas tellement changé malgré l'évolution des moyens de transport? = Why is it said that things have not changed much despite the evolution of means of transport?
 
     - On dit que les choses n'ont pas tellement changé malgré l'évolution des moyens de transport parce qu'aujourd'hui on parle d'automobile, d'autobus et de métro plutôt que de parler de chevaux. = It is said that things have not changed much despite the evolution of means of transport because today we talk about cars, buses and subways rather than talking about horses.
+
+I finshed it last night = Je l'ai fini hier soir
+
+## 5 Février 2025 (Mercredi)
+
+### Le Travail et la santé = Work and health
+
+[Page 1](../../../Resources/Level-3_4/Day_5-Travail%20et%20santé.pdf)
+
+| French                                                                            | English                                                              |
+| --------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Jean-Claude travaille de neuf heures du matin à cinq heures de l'après-midi.      | Jean-Claude works from nine in the morning to five in the afternoon. |
+| Il mange bien il fait de l'exercice.                                              | He eats well and exercises.                                          |
+| Jean-Claude est végétarien.                                                       | Jean-Claude is a vegetarian.                                         |
+| Il ne mange pas viande.                                                           | He does not eat meat.                                                |
+| Il mange des légumes, des fruits, du pain, des céréales et des produits laitiers. | He eats vegetables, fruits, bread, cereals and dairy products.       |
+| Il ne boit pas d'alcool.                                                          | He does not drink alcohol.                                           |
+| Jean-Claude fait de l'exercice régulièrement.                                     | Jean-Claude exercises regularly.                                     |
+| Il fait du jogging, il joue au tennis et joue au hockey.                          | He jogs, plays tennis and plays hockey.                              |
+| Jean-Claude est forme et il est très actif.                                       | Jean-Claude is fit and very active.                                  |
+| Jean Claude dit: "Je travaille pour vivre"                                        | Jean-Claude says: "I work to live"                                   |
+
+1. Jan claude vit-ilpour travaille ou travaille-t-il pour vivre? = Does Jean-Claude live to work or work to live?
+   - Jean-Claude travaille pour vivre = Jean-Claude works to live
+
+| French | English |
+| ------ | ------- |
+
+Sylvain fait-il de l'exercice? = Does Sylvain exercise?
+Non, Sylvain ne fait pas d'exercice. = No, Sylvain does not exercise.
+
+À Vous la Parole! = Your turn to speak!
+
+Prenez-vous le temps de vivre? = Do you take the time to live?
+
+A l'epoque des ordinateurs, des automobiles er de la pollution, prendre le temp de vivre n'est pas toujours facile. = In the age of computers, cars and pollution, taking the time to live is not always easy.
+La vie moderne ne laisse pas beaucoup de place aux loisirs. = Modern life does not leave much room for leisure.
+Et vous croyez vous que vous prenez le temps de vivre? = And do you believe that you take the time to live?
+Pour le découvrir, répondez par oui par non à chacune des dix questions suivantes. = To find out, answer yes or no to each of the following ten questions.
+
+1. Quand vous commencer un travail, voulez vous le finir vite? = When you start a job, do you want to finish it quickly?
+   -Non, mais je veux le finir bien = No, but I want to finish it well but it also depends on the job and deadlines = mais cela dépend aussi du travail et des délais
+   short notice = délai court
+2. Quand vous êtes fatigué, arrêtez-vous de travailler? = When you are tired, do you stop working?
+   -Oui, je m'arrête de travailler = Yes, I stop working
+   but it depends on deadlines = mais cela dépend des délais
+
+3. Avant le souper, prenez vous le temps de décompresser? = Before dinner, do you take the time to relax?
+   -Oui, je prends le temps de décompresser = Yes, I take the time to relax
+
+4. Pendadnt le souper, faite vous une autre activité? = During dinner, do you do another activity?
+   yes I often watch tv while having dinner = oui, je regarde souvent la télévision en mangeant
+
+5. Après le travail, prenez-vous le tems de faire une promenade? = After work, do you take the time to take a walk?
+   -No, but I usually go for a run after I wake up in the morning = Non, mais je vais généralement courir après m'être réveillé le matin
+
+6. Quand vous avez sortez du travail, regardez vous les boutiques? = When you leave work, do you look at the shops?
+   -No, I usually go straight home after work = Non, je rentre généralement directement chez moi après le travail
+
+7- Quand vous avez une longue route à faire, faites-vous l'impossible pour respecter l'heure d'arrivée? = When you have a long way to go, do you do the impossible to respect the arrival time?
+
+- Non, si c'est un long chemin à parcourir, je ne fais pas l'impossible pour respecter l’heure d'arrivée. = No, if it's a long way to go, I don't do the impossible to respect the arrival time.
+
+8- Avant une réunion importante, prenez-vous le temps de vous détendre ? = Before an important meeting, do you take the time to relax?
+
+- Oui, avant une réunion importante, je prends le temps de me détendre. Cela m’aide à rester calme et concentré. = Yes, before an important meeting, I take the time to relax. It helps me stay calm and focused.
+
+9 Faites- vous une sieste après les repas? = Do you take a nap after meals?
+
+- Non, je ne fais pas de sieste après les repas. = No, I don't take a nap after meals.
+
+10. Pendant une sortie avec des amis regarder vous votre montre continuellement? = During an outing with friends, do you constantly watch your watch?
+
+- No, I don't usually wear a watch when I go out with friends = Non, je ne porte généralement pas de montre quand je sors avec des amis
+
+couché = lying down
+whats the difference between couché, sieste, dormir = Quelle est la différence entre couché, sieste, dormir
+
+Right now Iam unemploymen = En ce moment, je suis au chômage
+But when I was working as a software developer in Montreal = Mais quand je travaillais comme développeur de logiciels à Montréal
+I worked at different hours = Je travaillais à des heures différentes
+
+It is not good for your health = Ce n'est pas bon pour votre santé
+I am a night owl = Je suis un oiseau de nuit
+night guard =
+
+### Choix de Carrière = Career Choice
+
+[Choix de Carrière](../../../Resources/Level-3_4/Day_5-Choix%20de%20carrière.pdf)
+
+Voice cinq jeunes de 16 ans qui désirent aller au collège et à l'université. = Here are five 16-year-olds who want to go to college and university.
+En vous bassant sur les quelques informations qui vous sont fournies, dans quel domaine leur conseilleriez-vous de s'orienter? = Based on the few pieces of information provided to you, in which field would you advise them to go?
+
+Exemple M.X: Je lui conseillerais de se diriger vers le domaine de/du/de... parce qu'il pourrait = I would advise him to go into the field of... because he could
+
+- exploiter son coté ... = exploit his side ...
+- mettre à profit son talent pour ... = put his talent to good use for ...
+  = profiter du fait qu'il est ... pour ... = take advantage of the fact that he is ... for ...
+
+Michel: intellectual, réserver, songuer, préférer suel = intellectual, reserved, thoughtful, prefer to be alone
+
+Je lui conseillerais de se diriger vers le domaine de l'informatique parce qu'il pourrait exploiter son côté intellectuel pour résoudre des problèmes complexes. = I would advise him to go into the field of computer science because he could exploit his intellectual side to solve complex problems. He can also work from home. = Il peut aussi travailler de chez lui.
+
+Vincent: actif -fort en francais -s''exprimer tres bien verbalment et par écrit - aimer voyager = active - strong in French - express himself very well verbally and in writing - love to travel
+
+Je lui conseillerais de se diriger vers le domaine du journalisme parce qu'il pourrait mettre à profit son talent pour s'exprimer très bien verbalement et par écrit. = I would advise him to go into the field of journalism because he could put his talent to good use to express himself very well verbally and in writing. He can also travel a lot. = Il peut aussi voyager beaucoup.
+
+Eloise: créative - habile manuellement- tres forte en arts plastiques - possède un bon esprit d'équipe = creative - manual dexterity - very strong in visual arts - has a good team spirit
+
+Je lui conseillerais de se diriger vers le domaine de l'architecture parce qu'elle pourrait profiter du fait qu'elle est très forte en arts plastiques pour créer des bâtiments originaux. = I would advise her to go into the field of architecture because she could take advantage of the fact that she is very strong in visual arts to create original buildings. She can also work with a team. = Elle peut aussi travailler en équipe.
+
+Stéphanie: : Minutieux - goût prononcé pour la mécanique - talent pour le dessin -aime innover = Meticulous - strong taste for mechanics - talent for drawing - likes to innovate
+
+Je lui conseillerais de se diriger vers le domaine de l'ingénierie parce qu'il pourrait exploiter son goût prononcé pour la mécanique pour innover et créer des machines. = I would advise him to go into the field of engineering because he could exploit his strong taste for mechanics to innovate and create machines. He can also draw well. = Il peut aussi bien dessiner.
+
+## 6 Février 2025 (Jeudi)
+
+I was searching online to watch tintin with french subtitles = Je cherchais en ligne pour regarder tintin avec des sous-titres français
+But I could not find any website with french subtitles = Mais je n'ai pas trouvé de site web avec des sous-titres français
+find = trouver
+
+It still hasn't started to snow today = Il n'a toujours pas commencé à neiger aujourd'hui
+
+How do you decide which is the radical part of the verb = Comment décidez-vous quelle est la partie radicale du verbe?
+
+### Les Métiers - homework
+
+I worked as a software developer in Montreal = J'ai travaillé comme développeur de logiciels à Montréal
+My specialized in building software for warehouse management systems = Je me suis spécialisé dans la construction de logiciels pour les systèmes de gestion d'entrepôt
+My role needed strong technical skills = Mon rôle nécessitait de solides compétences techniques
+and strong communication skills = et de solides compétences en communication
+
+### Des mots polis = Polite words
+
+[Page 1](../../../Resources/Level-3_4/Day_5-Mots%20utiles.pdf)
+
+| French               | English             |
+| -------------------- | ------------------- |
+| à bienôt             | see you soon        |
+| à demain             | see you tomorrow    |
+| allô                 | hello               |
+| à lundi              | see you Monday      |
+| amuse-toi            | have fun            |
+| au revoir            | goodbye             |
+| bienvenue            | welcome             |
+| bon appétit          | enjoy your meal     |
+| bonne chance         | good luck           |
+| bonne fête           | happy birthday      |
+| bonne fin de semaine | have a good weekend |
+| bonjour              | hello               |
+| bonsoir              | good evening        |
+| comment ça va?       | how are you?        |
+| de rien              | you're welcome      |
+| félicitations        | congratulations     |
+| guéri vite           | get well soon       |
+| j'ai hâte            | I can't wait        |
+| j'aime bien          | I like it           |
+| je t'aime            | I love you          |
+| je vous aime         | I love you          |
+| je t'embrasse fort   | I hug you           |
+| je vous embrasse     | I hug you           |
+| je m'ennuie          | I miss you          |
+| je m'excuse          | I'm sorry           |
+| je pense à toi       | I'm thinking of you |
+| merci                | thank you           |
+| pardon               | sorry               |
+| salut                | hi                  |
+| s'il te plaît        | please              |
+| s'il vous plaît      | please              |
+| tu me manques        | I miss you          |
+
+### Le Conditionnel Présent = The Present Conditional
+
+[Link](https://francais.lingolia.com/en/grammar/verbs/conditionnel)
+
+[Page 1](../../../Resources/Level-3_4/Day_5-Conditionnel%20présent.pdf)
+
+La formation du conditionnel présent = The formation of the present conditional
+
+| Personne     | Infinitif + terminaison | Exemple         | English          |
+| ------------ | ----------------------- | --------------- | ---------------- |
+| je..         | infinitif + ais         | je parlerais    | I would speak    |
+| tu..         | infinitif + ais         | tu parlerais    | you would speak  |
+| il/elle/on.. | infinitif + ait         | il parlerait    | he would speak   |
+| nous..       | infinitif + ions        | nous parlerions | we would speak   |
+| vous..       | infinitif + iez         | vous parleriez  | you would speak  |
+| ils/elles..  | infinitif + aient       | ils parleraient | they would speak |
+
+#### Ex 11: Conjugez les verbes au conditionnel présent = Conjugate the verbs in the present conditional
+
+[Ex 11 Page2](../../../Resources/Level-3_4/Day_5-Conditionnel%20présent.pdf)
+
+1. (acheter) il achèterait = he would buy
+2. (ètudier) tu étudierais = you would study
+3. (dsicuter) nous discuterions = we would discuss
+4. (finir) elles finiraient = they would finish
+5. (dire) je dirais = I would say
+6. (apprendre) vous apprendriez = you would learn
+7. (partir) ils partiraient = they would leave
+8. (répondre) elle répondrait = she would answer
+9. (écrire) j'écrirais = I would write
+10. (donner) elles donneraient = they would give
+
+#### Ex 12: Conjuguez les verbes au conditionnel présent = Conjugate the verbs in the present conditional
+
+[Ex 12 Page2](../../../Resources/Level-3_4/Day_5-Conditionnel%20présent.pdf)
+Conjuguez les verbes au conditionnel présent = Conjugate the verbs in the present conditional
+
+- Monsieur Tremblay, `j'(aimer) aimeriez` vous voir dans mon bureau? = Mr. Tremblay, would you like to see in my office?
+- Oui, Monsieur Laporte, j'arrive tout de suite. = Yes, Mr. Laporte, I'm coming right away.
+- Monsieur Tremblay, jái une idée et `je (vouloir) voudrais` savoir ce que vous en pensez. = Mr. Tremblay, I have an idea and I would like to know what you think.
+- Certainement, je vous écoute. = Certainly, I'm listening to you.
+- Dites-moi, `(vouloir) voudrais`-vous occuper le poste de directeur adjoint? = Tell me, would you like to take the position of assistant director?
+- Ca me `(plaire) plairait` bien, mais je ne sais pas si je `(être) serais` à la hauteur de la situation... = I would like it, but I don't know if I would be up to the situation...
+- Mais si! Vous `(faire) feriez` un très bon directeur adjoint. Vous avez l'experiance et les compétences nécessaires pour occuper ce poste. = But yes! You would make a very good assistant director. You have the experience and skills necessary to take this position.
+- Est-ce que `j'(avoir) aurais` les mêmes responsabilités que Madmoiselle Ducharme, notre anciennne directrice adjointe? = Would I have the same responsibilities as Ms. Ducharme, our former assistant director?
+
+### Suggestions
+
+[Page 3](../../../Resources/Level-3_4/Day_5-Conditionnel%20présent.pdf)
+
+Donnez des suggestions à la personne qui parle dans les phrases . Utilisez expression proposées dans l'encarde pour introduire dans l'encadré pour introduire des verbes au conditionnel présent. = Give suggestions to the person speaking in the sentences. Use the expressions proposed in the box to introduce verbs in the present conditional.
+
+> Les expressions = The expressions
+
+| French                           | English                       |
+| -------------------------------- | ----------------------------- |
+| Moi, à ta/sa place, je...        | Me, in your/his place, I...   |
+| Moi, ce que je ferais, ce serait | Me, what I would do, would be |
+| Si j'étais toi/lui, je...        | If I were you/him/her, I...   |
+
+#### Ex: Les Suggestions = Suggestions
+
+1. Cette fin de semaine, nous allons à Québec. = This weekend, we are going to Quebec.
+
+- Moi, à ta place, j'irais à Québec cette fin de semaine. = Me, in your place, I would go to Quebec this weekend.
+
+2. Je sons vers 16 heures. = I'm leaving around 4 p.m.
+
+- Si j'étais toi, je partirais vers 16 heures. = If I were you, I would leave around 4 p.m.
+
+3. Jái décide de m'incrire à un cours d'infomatique. = I have decided to register for a computer course.
+
+- Moi, ce que je ferais, ce serait de m'inscrire à un cours d'informatique. = Me, what I would do, would be to register for a computer course.
+
+4. Je vais m'acheter un petit chiens. = I'm going to buy myself a little dog.
+
+- Moi, à ta place, je m'achèterais un petit chien. = Me, in your place, I would buy myself a little dog.
+
+5. Nous avons décidé de faire des renovations cet été. = We have decided to do renovations this summer.
+
+- Moi, ce que je ferais, ce serait de faire des rénovations cet été. = Me, what I would do, would be to do renovations this summer.
+
+6. Je change d'emploi. = I'm changing jobs.
+
+- Si j'étais toi, je changerais d'emploi. = If I were you, I would change jobs.
+
+7. Je suppose quíl achètera une voiture neuve. = I suppose he will buy a new car.
+
+- Si j'étais lui, j'achèterais une voiture neuve. = If I were him, I would buy a new car.
+
+8. Je prends la rouge, je n'aime pas la verte. = I take the red one, I don't like the green one.
+
+- Moi, à ta place, je prendrais la rouge, je n'aime pas la verte. = Me, in your place, I would take the red one, I don't like the green one.
+
+9. Je vais lui ècrire une lettre d'excuses. = I'm going to write him a letter of apology.
+
+- Si j'étais toi, je lui écrirais une lettre d'excuses. = If I were you, I would write him a letter of apology.
+
+10. Cet éte, je pars à la campagne. = This summer, I'm going to the countryside.
+
+- Moi, ce que je ferais, ce serait de partir à la campagne cet été. = Me, what I would do, would be to go to the countryside this summer.
+- Si j'étais toi, je partirais à la campagne cet été. = If I were you, I would go to the countryside this summer.
+
+### Aves-vous les sens de l'organisation? = Do you have organizational skills?
+
+[Exercise 2](../../../Resources/Level-3_4/Day_5-Cond.P-Imparfait%20+%20ex.pdf)
+
+> Geneviève a un bébé de trois mois. Stéphanie, et un petit garçon de quatre ans, Sylvain. Geneviève n'a pas beaucoup les sens de l'organisation et elle vous dit: "Il faut que vous m'aidiez à planifier mes semaines. Dis-moi ce que vous feriez si vous étiez à ma place." = Geneviève has a three-month-old baby. Stéphanie, and a four your boy, Sylvain. Geneviève doesn't have much organizational skills and she tells you: "You have to help me plan my weeks. Tell me what you would do if you were in my place."
+
+1. Quand devrais-je faire l'épicerie? = When should I go grocery shopping?
+
+   - Si j'étais à ta place, je fairais l'épicerie le
+
+2. Quand devrais-je aller au salon de coiffure?
+
+Si j'(être) étais à ta place, j'(aller) irais au salon de coiffure = If I were you, I would go to the hair salon
+
+### (Useful Exercise) Conjugez les verbes aux temps appropriés et complétez les phrases = Conjugate the verbs in the appropriate tenses and complete the sentences
+
+##### Ex 3: Conjugez les verbes aux temps appropriés et complétez les phrases = Conjugate the verbs in the appropriate tenses and complete the sentences
+
+[Exercise 3](../../../Resources/Level-3_4/Day_5-Cond.P-Imparfait%20+%20ex.pdf)
+
+> Hint: Use imperfect firt then conditional
+
+1. Si j'(avoir) avais un avion, je (pouvior) pourrais aller en Europe = If I had a plane, I could go to Europe
+
+2. Si tu (être) étais plus riche, tu (pouvoir) pourrais voyager plus souvent = if you were richer, you could travel more often
+
+3. Si je ne (travailler) travaillais pas, je (pourvoir) pourrais voyager plus souvent = If I didn't work, I could travel more often
+
+4. Si vous n'(avoir) aviez pas d'auto, vous (devoir) devriez prendre l'autobus = If you didn't have a car, you would have to take the bus
+
+5. Si on lui (donner) donnait dix mille dollars, elle (pouvoir) pourrait s'acheter une nouvelle voiture = If she was given ten thousand dollars, she could buy a new car
+
+6. si vous (venir) veniez à la maison, nous (pourvoir) pourrions regarder un film ensemble = if you came to the house, we could watch a movie together
+
+#### Exercise 1
+
+[Exercise 1](../../../Resources/Level-3_4/Day_5-Cond.P-Imparfait%20+%20ex.pdf)
+
+> Si vous aviez un domestique, que ferait-il? Vous pouvez vous inspirer des tâches qui ont été mentionnées, vous pouvez choisir des tâches dans la liste ci-dessous et vous pouvez ajouter d'autres tâches. = If you had a servant, what would he do? You can be inspired by the tasks that have been mentioned, you can choose tasks from the list below and you can add other tasks.
+
+Si jávais un domestique, il ferait le ménage, il prendrait soin des enfants, il ferait la cuisine, il ferait les courses, il laverait les vitres, il repasserait les vêtements, il arroserait les plantes, il sortirait les poubelles, il tondrait la pelouse, il déneigerait l'entrée, il réparerait les objets brisés, il ferait le lavage, il nettoierait la voiture, il ferait le jardinage, il ferait les réparations, il ferait le ménage du printemps, il ferait le ménage de l'automne, = If I had a servant, he would do the cleaning, he would take care of the children, he would cook, he would do the shopping, he would wash the windows, he would iron the clothes, he would water the plants, he would take out the garbage, he would mow the lawn, he would shovel the driveway, he would repair broken objects, he would do the laundry, he would clean the car, he would do the gardening, he would do the repairs, he would do the spring cleaning, he would do the fall cleaning
+
+Pendant que mon domestique les tâches ménagères, je pourrais me reposer, je pourrais lire, je pourrais regarder la télévision, je pourrais écouter de la musique, je pourrais faire du sport, je pourrais faire du jardinage, je pourrais faire du bricolage = While my servant does the housework, I could rest, I could read, I could watch TV, I could listen to music, I could do sports, I could do gardening
