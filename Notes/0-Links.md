@@ -15,6 +15,7 @@
 - [Google Classroom | Level 2](https://classroom.google.com/u/0/c/NzMwMjc0NDE2NDYz)
 - [Avenue Platform](https://avenue.ca/)
 - [Useful Link on Prepositions](https://francais.lingolia.com/en/grammar/prepositions)
+- [Conjugation](https://leconjugueur.lefigaro.fr/)
 
 ## Classroom Links
 

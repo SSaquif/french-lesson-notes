@@ -79,3 +79,15 @@
 | Quelle ouvrage fascinant               | What a fascinating work         | Kell oo-vrahzh fah-sah-nah                     |
 | Tu as fait un travail remarquable      | You did a remarkable job        | Too ah fay uh trah-vah ray-mar-kah-blh         |
 | Tu es as un modèle pour les autres     | You are a role model for others | Too ay ah oon moh-del poor layz oh-truh        |
+
+## Conditional Statements (If I/you/etc ..)
+
+| Français                                                                                      | English                                                                         |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Si j'avais de l'argent, j'achèterais une voiture                                              | If I had money, I would buy a car                                               |
+| Si j'économisais une belle somme tous les mois, j'aurais assez d'argent pour aller où je veux | If I saved a nice sum every month, I would have enough money to go where I want |
+| Si tu avais été là, tu aurais vu ce qui s'est passé                                           | If you had been there, you would have seen what happened                        |
+| Si j'avais su, j'aurais fait autrement                                                        | If I had known, I would have done differently                                   |
+| Si vous aviez été plus attentif, vous auriez compris                                          | If you had been more attentive, you would have understood                       |
+| Si le temps avait été meilleur, nous serions sortis                                           | If the weather had been better, we would have gone out                          |
+| Si ma mère avait été là, elle aurait tout arrangé                                             | If my mother had been there, she would have arranged everything                 |

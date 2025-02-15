@@ -16,22 +16,22 @@ you can confirm with moi or him = tu peux confirmer avec moi ou lui
 
 ## Question Words
 
-| French            | English      | Pronounciation           |
-| ----------------- | ------------ | ------------------------ |
-| Est-ce que        | Is it (that) | Es-ku(h)                 |
-| Qu'est-ce que     | What         | Kess-ku(h)               |
-| Que               | That/What    | Ku (like in cout d'etat) |
-| Quoi              | What         | Kwah                     |
-| Quel/Quelle/Quels | What/Which   | Kel                      |
-| Qui               | Who          | Key                      |
-| Quand             | When         | Kan(d)                   |
-| Où                | Where        | Oo                       |
-| Comment           | How          | Komo                     |
-| Pourquoi          | Why          | Por-koa                  |
-| Combien           | How many     | Kombiye                  |
-| Combien de        | How much     | Kombiye deux             |
-| Combien de temps  | How long     | Kombiye deux te(h)mp     |
-| Si                | If           | See                      |
+| French            | English      | Pronounciation       |
+| ----------------- | ------------ | -------------------- |
+| Est-ce que        | Is it (that) | Es-ku(h)             |
+| Qu'est-ce que     | What         | Kess-ku(h)           |
+| Que               | That/What    | Ku(h) (like Huh)     |
+| Quoi              | What         | Kwah                 |
+| Quel/Quelle/Quels | What/Which   | Kel                  |
+| Qui               | Who          | Key                  |
+| Quand             | When         | Kan(d)               |
+| Où                | Where        | Oo                   |
+| Comment           | How          | Komo                 |
+| Pourquoi          | Why          | Por-koa              |
+| Combien           | How many     | Kombiye              |
+| Combien de        | How much     | Kombiye deux         |
+| Combien de temps  | How long     | Kombiye deux te(h)mp |
+| Si                | If           | See                  |
 
 ### Examples
 
@@ -48,6 +48,8 @@ you can confirm with moi or him = tu peux confirmer avec moi ou lui
 | Combien de frères as-tu?                             | How many brothers do you have?         |
 | Combien de temps faut-il pour apprendre le français? | How long does it take to learn French? |
 | Si tu veux, tu peux.                                 | If you want, you can.                  |
+
+Qu'est-ce que tu veux le a
 
 ## L'Interrogation Totale (Yes/No Questions)
 
@@ -192,3 +194,90 @@ I will dress warmly. (Je m'habillerai chaudement)
 | How would you do `thing`?              | Comment ferais-tu `thing`?                           |       |
 | How do you want to do `thing`?         | Comment veux-tu faire `thing`?                       |       |
 | How do you feel about `thing`?         | Comment te sens-tu à propos de `thing`?              |       |
+
+lequel? laquelle? lesquels? lesquelles? = which one? which ones?
+
+à qui? = to whom?
+example: à qui est-ce que tu parles? = to whom are you speaking?
+I am combining two phrases = Je combine deux phrases
+
+Qu'en pensez-vous? = What do you think?
+
+1. Qui est le meilleur fournisseur de café? = Who is the best coffee supplier?
+   Je ne bois pas de café = I do not drink coffee
+   Je préfère le thé = I prefer tea
+   But I don't really drink much caffeine = Mais je ne bois pas vraiment beaucoup de caféine
+   Le meilleur fournisseur de café est Starbucks = The best coffee supplier is Starbucks
+   If I need energy = Si j'ai besoin d'énergie
+   I drink red bull = Je bois du red bull
+   But if I had to choose = Mais si je devais choisir
+   ice coffee = café glacé
+   energy drinks = boissons énergétiques
+   They are all the same = Ils sont tous les mêmes
+   It depends on the program = Ça dépend du programme
+   I am biased = Je suis biaisé
+   so I will say = donc je dirai  
+   because that's where I went = parce que c'est là où je suis allé
+   In my opinion = À mon avis la meilleure saison l'autonme = In my opinion the best season is autumn
+   Combien dárgent faut-il pour être riche? = How much money does it take to be rich?
+   More money more problems = Plus d'argent plus de problèmes
+   On the other person = Sur l'autre personne
+   Everyone is different = Tout le monde est différent
+   non emploi = unemployment
+   free money = argent gratuit
+   just vacation = juste des vacances
+   It sucks for the teachers = C'est nul pour les profs
+   as an engineer = en tant qu'ingénieur
+   I like my work = J'aime mon travail
+   picnic in the park = pique-nique dans le parcI chose the first person on the screen = J'ai choisi la première personne à l'écran
+
+Le prix des choses = The price of things
+
+Combien coûte un café? = How much does a coffee cost?
+Quel est le prix de l'essence? = What is the price of gas?
+Combien Ca coûte? = How much does it cost?
+Pourruez-vous me dire le prix de cette voiture? = Can you tell me the price of this car?
+Combien ca fait? = How much is it?
+Ca fait combien? = How much is it?
+
+Reponse:
+il/elle coûte = it costs
+ils/elles coûtent = they cost
+Le prix est de ... = The price is ...
+Ca Coûte ... = It costs ...
+Ca fait ... = It is ...
+
+À vous la parole = Your turn to speak
+
+Prendre le déjeuner = To have lunch
+à láide des formes interrogatives = with the help of interrogative forms
+et des éléments de la colonne de gauche = and the elements of the left column
+préparez un sondage sur les activités de la vie quotidienne des gens = prepare a survey on the daily life activities of people
+
+À Quelle heure verbe + tu/vous ? = At what time do you verb?
+À quelle heure prends-tu le dejeuner? = At what time do you have lunch?
+Je prends le déjeuner à midi = I have lunch at noon
+
+Aller au restaurant = To go to the restaurant
+
+Est-ce que tu vas au restaurant? = Are you going to the restaurant?
+Non, je ne vais pas au restaurant = No, I am not going to the restaurant
+je mange à la maison = I eat at home
+Arroses les plantes = Water the plants
+How often do you water the plants? = À quelle fréquence arroses-tu les plantes?
+Je les arrose tous les jours = I water them every day
+Are you working today? = Est-ce que tu travailles aujourd'hui?
+Lire le journal = Read the newspaper
+Est-ce que tu lis le journal? = Do you read the newspaper?
+Quand est-ce que tu lis le journal? = When do you read the newspaper?
+Je lis le journal le matin = I read the newspaper in the morning
+Sortir le soir = Go out in the evening
+Avec qui est-ce que tu sors le soir? = Who do you go out with in the evening?
+Je sors avec mes amis = I go out with my friends
+Faire le ménage = Do the cleaning
+Est-ce que tu fais le ménage? = Do you do the cleaning?
+Oui, je fais le ménage = Yes, I do the cleaning
+Faire la cuisine = Cook
+je fais rien = I do nothing
+Everything is commerial = Tout est commercial
+pour l'énévement = for the event

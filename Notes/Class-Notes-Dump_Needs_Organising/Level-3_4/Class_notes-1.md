@@ -4,43 +4,43 @@
 
 - [TIL = Aujourd'hui, j'ai appris](#til--aujourdhui-jai-appris)
 - [27 Janvier 2025 (Lundi)](#27-janvier-2025-lundi)
-  * [Analyser ses besoins = Analyzing your needs](#analyser-ses-besoins--analyzing-your-needs)
-  * [Se presenter = Introducing yourself](#se-presenter--introducing-yourself)
+  - [Analyser ses besoins = Analyzing your needs](#analyser-ses-besoins--analyzing-your-needs)
+  - [Se presenter = Introducing yourself](#se-presenter--introducing-yourself)
 - [29 Janvier 2025 (Mercredi)](#29-janvier-2025-mercredi)
 - [30 Janvier 2025 (Jeudi)](#30-janvier-2025-jeudi)
-  * [Quelle est ton activité préférée?](#quelle-est-ton-activite-preferee)
-  * [Les activités possessifs = Possessive activities](#les-activites-possessifs--possessive-activities)
-  * [La possession - pronoms toniques = Possession - tonic pronouns](#la-possession---pronoms-toniques--possession---tonic-pronouns)
+  - [Quelle est ton activité préférée?](#quelle-est-ton-activite-preferee)
+  - [Les activités possessifs = Possessive activities](#les-activites-possessifs--possessive-activities)
+  - [La possession - pronoms toniques = Possession - tonic pronouns](#la-possession---pronoms-toniques--possession---tonic-pronouns)
 - [31 Janvier 2025 (Vendredi)](#31-janvier-2025-vendredi)
-  * [Le Pluriel](#le-pluriel)
-    + [Mettez au pluriel les bom suivants = Put the following in the plural](#mettez-au-pluriel-les-bom-suivants--put-the-following-in-the-plural)
-    + [À láide de la liste qui suit, identifiez les outils en les écrivant au singulier et au pluriel = Using the following list, identify the tools by writing them in the singular and plural](#a-laide-de-la-liste-qui-suit-identifiez-les-outils-en-les-ecrivant-au-singulier-et-au-pluriel--using-the-following-list-identify-the-tools-by-writing-them-in-the-singular-and-plural)
-    + [Répondez aux questions = Answer the questions](#repondez-aux-questions--answer-the-questions)
-  * [Les article partitif = partitive article](#les-article-partitif--partitive-article)
-    + [Excercise 4 - Écrivez les articles partitifs appropriés = Write the appropriate partitive articles](#excercise-4---ecrivez-les-articles-partitifs-appropries--write-the-appropriate-partitive-articles)
-  * [Les articles contractés avec la préposition à = Articles contracted with the preposition à](#les-articles-contractes-avec-la-preposition-a--articles-contracted-with-the-preposition-a)
-    + [Exercise 3](#exercise-3)
-    + [Questionnaire avec les articles definis = Questionnaire with definite articles](#questionnaire-avec-les-articles-definis--questionnaire-with-definite-articles)
+  - [Le Pluriel](#le-pluriel)
+    - [Mettez au pluriel les bom suivants = Put the following in the plural](#mettez-au-pluriel-les-bom-suivants--put-the-following-in-the-plural)
+    - [À láide de la liste qui suit, identifiez les outils en les écrivant au singulier et au pluriel = Using the following list, identify the tools by writing them in the singular and plural](#a-laide-de-la-liste-qui-suit-identifiez-les-outils-en-les-ecrivant-au-singulier-et-au-pluriel--using-the-following-list-identify-the-tools-by-writing-them-in-the-singular-and-plural)
+    - [Répondez aux questions = Answer the questions](#repondez-aux-questions--answer-the-questions)
+  - [Les article partitif = partitive article](#les-article-partitif--partitive-article)
+    - [Excercise 4 - Écrivez les articles partitifs appropriés = Write the appropriate partitive articles](#excercise-4---ecrivez-les-articles-partitifs-appropries--write-the-appropriate-partitive-articles)
+  - [Les articles contractés avec la préposition à = Articles contracted with the preposition à](#les-articles-contractes-avec-la-preposition-a--articles-contracted-with-the-preposition-a)
+    - [Exercise 3](#exercise-3)
+    - [Questionnaire avec les articles definis = Questionnaire with definite articles](#questionnaire-avec-les-articles-definis--questionnaire-with-definite-articles)
 - [3 Février 2025 (Lundi)](#3-fevrier-2025-lundi)
 - [4 Février 2025 (Mardi)](#4-fevrier-2025-mardi)
-  * [Rédiger une note au d'achats alimentaires = Write a note for food purchases](#rediger-une-note-au-dachats-alimentaires--write-a-note-for-food-purchases)
-  * [A bord de l'avion = On board the plane](#a-bord-de-lavion--on-board-the-plane)
-    + [Láutomiobile ou les transports en commun = The car or public transport](#lautomiobile-ou-les-transports-en-commun--the-car-or-public-transport)
+  - [Rédiger une note au d'achats alimentaires = Write a note for food purchases](#rediger-une-note-au-dachats-alimentaires--write-a-note-for-food-purchases)
+  - [A bord de l'avion = On board the plane](#a-bord-de-lavion--on-board-the-plane)
+    - [Láutomiobile ou les transports en commun = The car or public transport](#lautomiobile-ou-les-transports-en-commun--the-car-or-public-transport)
 - [5 Février 2025 (Mercredi)](#5-fevrier-2025-mercredi)
-  * [Le Travail et la santé = Work and health](#le-travail-et-la-sante--work-and-health)
-  * [Choix de Carrière = Career Choice](#choix-de-carriere--career-choice)
+  - [Le Travail et la santé = Work and health](#le-travail-et-la-sante--work-and-health)
+  - [Choix de Carrière = Career Choice](#choix-de-carriere--career-choice)
 - [6 Février 2025 (Jeudi)](#6-fevrier-2025-jeudi)
-  * [Les Métiers - homework](#les-metiers---homework)
-  * [Des mots polis = Polite words](#des-mots-polis--polite-words)
-  * [Le Conditionnel Présent = The Present Conditional](#le-conditionnel-present--the-present-conditional)
-    + [Ex 11: Conjugez les verbes au conditionnel présent = Conjugate the verbs in the present conditional](#ex-11-conjugez-les-verbes-au-conditionnel-present--conjugate-the-verbs-in-the-present-conditional)
-    + [Ex 12: Conjuguez les verbes au conditionnel présent = Conjugate the verbs in the present conditional](#ex-12-conjuguez-les-verbes-au-conditionnel-present--conjugate-the-verbs-in-the-present-conditional)
-  * [Suggestions](#suggestions)
-    + [Ex: Les Suggestions = Suggestions](#ex-les-suggestions--suggestions)
-  * [Aves-vous les sens de l'organisation? = Do you have organizational skills?](#aves-vous-les-sens-de-lorganisation--do-you-have-organizational-skills)
-  * [(Useful Exercise) Conjugez les verbes aux temps appropriés et complétez les phrases = Conjugate the verbs in the appropriate tenses and complete the sentences](#useful-exercise-conjugez-les-verbes-aux-temps-appropries-et-completez-les-phrases--conjugate-the-verbs-in-the-appropriate-tenses-and-complete-the-sentences)
-      - [Ex 3: Conjugez les verbes aux temps appropriés et complétez les phrases = Conjugate the verbs in the appropriate tenses and complete the sentences](#ex-3-conjugez-les-verbes-aux-temps-appropries-et-completez-les-phrases--conjugate-the-verbs-in-the-appropriate-tenses-and-complete-the-sentences)
-    + [Exercise 1](#exercise-1)
+  - [Les Métiers - homework](#les-metiers---homework)
+  - [Des mots polis = Polite words](#des-mots-polis--polite-words)
+  - [Le Conditionnel Présent = The Present Conditional](#le-conditionnel-present--the-present-conditional)
+    - [Ex 11: Conjugez les verbes au conditionnel présent = Conjugate the verbs in the present conditional](#ex-11-conjugez-les-verbes-au-conditionnel-present--conjugate-the-verbs-in-the-present-conditional)
+    - [Ex 12: Conjuguez les verbes au conditionnel présent = Conjugate the verbs in the present conditional](#ex-12-conjuguez-les-verbes-au-conditionnel-present--conjugate-the-verbs-in-the-present-conditional)
+  - [Suggestions](#suggestions)
+    - [Ex: Les Suggestions = Suggestions](#ex-les-suggestions--suggestions)
+  - [Aves-vous les sens de l'organisation? = Do you have organizational skills?](#aves-vous-les-sens-de-lorganisation--do-you-have-organizational-skills)
+  - [(Useful Exercise) Conjugez les verbes aux temps appropriés et complétez les phrases = Conjugate the verbs in the appropriate tenses and complete the sentences](#useful-exercise-conjugez-les-verbes-aux-temps-appropries-et-completez-les-phrases--conjugate-the-verbs-in-the-appropriate-tenses-and-complete-the-sentences)
+    - [Ex 3: Conjugez les verbes aux temps appropriés et complétez les phrases = Conjugate the verbs in the appropriate tenses and complete the sentences](#ex-3-conjugez-les-verbes-aux-temps-appropries-et-completez-les-phrases--conjugate-the-verbs-in-the-appropriate-tenses-and-complete-the-sentences)
+    * [Exercise 1](#exercise-1)
 
 <!-- tocstop -->
 
@@ -1138,3 +1138,916 @@ Si j'(être) étais à ta place, j'(aller) irais au salon de coiffure = If I wer
 Si jávais un domestique, il ferait le ménage, il prendrait soin des enfants, il ferait la cuisine, il ferait les courses, il laverait les vitres, il repasserait les vêtements, il arroserait les plantes, il sortirait les poubelles, il tondrait la pelouse, il déneigerait l'entrée, il réparerait les objets brisés, il ferait le lavage, il nettoierait la voiture, il ferait le jardinage, il ferait les réparations, il ferait le ménage du printemps, il ferait le ménage de l'automne, = If I had a servant, he would do the cleaning, he would take care of the children, he would cook, he would do the shopping, he would wash the windows, he would iron the clothes, he would water the plants, he would take out the garbage, he would mow the lawn, he would shovel the driveway, he would repair broken objects, he would do the laundry, he would clean the car, he would do the gardening, he would do the repairs, he would do the spring cleaning, he would do the fall cleaning
 
 Pendant que mon domestique les tâches ménagères, je pourrais me reposer, je pourrais lire, je pourrais regarder la télévision, je pourrais écouter de la musique, je pourrais faire du sport, je pourrais faire du jardinage, je pourrais faire du bricolage = While my servant does the housework, I could rest, I could read, I could watch TV, I could listen to music, I could do sports, I could do gardening
+
+## 7 Février 2025 (Vendredi)
+
+vous avez eu le temps de faire ca = you had time to do that
+
+[EX 8](../../../Resources/Level-3_4)
+
+Complétez l'histoire en conjuguant les verbes à l'imparfait = Complete the story by conjugating the verbs in the imperfect tense
+
+Avant les années cinquante, le train (être) `était` un moyen de transport très utilisé. Les gens qui (habiter) `habitaient` dans des villages (prendre) `prenaient` le train pour aller en ville. Très tôt le matin, sur le quai de la gare. il ya (avoir) `avait`
+
+[Ex 11]
+What is the meaning of the verb monter = Quelle est la signification du verbe monter
+
+Dans l'ancien temps, le bateau (être) `était` le seul moyen de transport pour voyager d'un continent à l'autre. Les passagers (monter) `montaient` à bord et ils (envoyer) `envoyaient` la main aux personnes
+
+[Ex 9] conjugate the verbs in the imperfect tense
+Quan il (être) `était`  
+Pierre (aimer) `aimait`
+il (s'asseoir) `s'asseyait`
+il (jouer) `jouait`
+Pierre (imaginer) `imaginait`
+il (devoir) `devait`
+Pierre (placer) `plaçait`
+il (faire) `faisait`
+il (être) `était`
+qu'il (entendre) `entendait`
+il (courir) `courait`
+il (regarder) `regardait`
+Pierre (avoir) `avait`
+lui (demander) `demandait`
+Pierre (répondre) `répondait`
+C'(être) `était`
+Pierre (jouer) `jouait`
+il (faire) `faisait`
+Pierre (débllayer) `déballait`
+son couer (battre) `battait`
+il y (avoir) `avait`
+Pierre (crier) `criait` et (sauter) `sautait`
+il (être) `était`
+
+What is the meaning of the verb = Quelle est la signification du verbe
+
+| French                           | English                       |
+| -------------------------------- | ----------------------------- |
+| Moi, à ta/sa place, je...        | Me, in your/his place, I...   |
+| Moi, ce que je ferais, ce serait | Me, what I would do, would be |
+| Si j'étais toi/lui, je...        | If I were you/him/her, I...   |
+| je conseillerais                 | I would advise                |
+| je recommanderais                | I would recommend             |
+
+I would advise you to = Je te conseillerais de
+
+J'habite avec un ami depuis 2 mois. Au début, tout allait bien, mais maintenant, je ne suis plus capable de le tolérer! Que me conseillez-vous? = I have been living with a friend for 2 months. At first, everything was fine, but now I can't stand him anymore! What do you advise me?
+
+Conseil 1: Si j'étais ta place, je lui parlerais. = Advice 1: If I were you, I would talk to him.
+Conseil 2: sI j'étais à ta place, j'établirais quelques règles = Advice 2: If I were in your place, I would establish some rules.
+
+Je veux partir en voyage, mais je ne sais pas où aller. Quels endroits me conseillez-vous? = I want to go on a trip, but I don't know where to go. What places do you recommend?
+
+Conseil 1: Si j'étais toi, je visiterais en Europe. = Advice 1: If I were you, I would visit Europe.
+
+> Depuis 4 nuits, le chien de mon voisins fait beaucoup de bruit. Que me conseillez-vous? = For 4 nights, my neighbor's dog has been making a lot of noise. What do you advise me?
+
+Conseil 1: Si j'étais toi, je parlerais à ton voisin. = Advice 1: If I were you, I would talk to your neighbor.
+
+Conseil: Moi, ce que je ferais, ce serait de lui parler. = Advice: Me, what I would do, would be to talk to him.
+
+Conseil 2: Me, in your place, I would steal the dog. = Moi, à ta place, je volerais le chien.
+
+Conseil 3: I have trained dogs before= J'ai déjà entraîné des chiens
+
+I want to travel somewhere new = Je veux voyager quelque part de nouveau
+steal -> voler
+
+I would call animal control = Je téléphonerais au contrôle des animaux
+They would hopefully know what to do = Ils sauraient probablement quoi faire
+
+Did you visit already? = Est-ce que tu as déjà visité?
+
+> Jáimerais aller vour un film en fin de semaine
+
+Conseil 1: Si j'étais toi, je regarderais les horaires des films. = Advice 1: If I were you, I would check the movie schedules.
+
+schedule -> horaire
+
+> Jáimerais apprendre une langue étrangère mais il y a trop de choix. Que me conseillez-vous? = I would like to learn a foreign language but there are too many choices. What do you advise me?
+
+Conseil 1: I would advise you to choose a language that you like. = Je te conseillerais de choisir une langue que tu aimes.
+
+because it will me easier to learn = parce que ce sera plus facile à apprendre
+
+> Je voudrais avoir un animal domestique, mais je nárrive pas à`en choisir un. Que me conseillez-vous? = I would like to have a pet, but I can't choose one. What do you advise me?
+
+Conseil 1: If I were you I would choose a dog, because I love dogs and I have dogsat before. = Si j'étais toi, je choisirais un chien, parce que j'aime les chiens et j'ai déjà gardé des chiens por mes amis.
+and I miss having a dog = et ça me manque d'avoir un chien
+miss -> manquer
+J'étidie en \_ à
+sachant =
+
+If I was you I would see what interests you the most and what you are good at = Si j'étais toi, je verrais ce qui t'intéresse le plus et ce dans quoi tu es bon.
+
+I have not left the house = Je ne suis pas sorti de la maison
+
+If you want I can share all my notes = Si tu veux, je peux partager toutes mes notes
+
+I wanted to watch the adventures of tintin in french with french subtitles but could not find any website that
+
+18 feb - presentation - 10 mins -
+parle de votre pays d'origine - talk about your country of origin
+culture
+gastronomie = cuisine
+nourriture = food
+géographie =
+la langue
+Méteo = saison
+powerpoint, images, photos
+La région = region
+des choses positives = positive things
+
+Si vous aviez ( imp.) 6 mois de vacances (payées), qu'est-ce que vous feriez ( c.p) ? = If you had 6 months of (paid) vacation, what would you do?
+Hypothèse = Hypothesis
+SI+ IMPARFAIT + CONDITIONNEL P.
+
+c'est
+
+Reserve une villa
+
+donc ici nous avons marc ici un congélateur de placards machine à laver et machine
+à sècher le Chine =
+
+Réserver une villa
+Un congélateur
+des placards
+machine à laver et machine à sécher
+
+spacieuse térrasse
+Terrasse \*
+renseignements
+partout
+je vous vais souhaiter un bon séjour = I am going to wish you a good stay
+souhaiter = to wish
+
+## 10 Février 2025 (Lundi)
+
+Il decouvre le habitudes de clients = He discovers the habits of customers
+
+Une histoire de pizzas
+[ex 18]()
+j'avais = I had
+Quand j'avais 16 ans, je travaillais dans un restaurant = When I was 16, I worked in a restaurant
+j'allais = I was going
+j'etais livreur pour a restaurant italien = I was a delivery driver for an Italian restaurant
+C'est incroyable comme on apprend becaucoup sur les gebs quand on est livreur = It's amazing how much you learn about people when you're a delivery driver
+On découvre leurs habitudes, leurs goûts et leurs mode de vie. = We discover their habits, their tastes and their way of life.
+Cependant, j'ai appris discret quand on est livreur = However, I learned to be discreet when you are a delivery driver
+Laissez-moi vous raconter l'histoire de monsieur er de madaame Legros = Let me tell you the story of Mr. and Mrs. Legros
+Monsieur er madaame Legros étaient deux trés bon clients. Ils mangealent de la pizza deux fois par semaine = Mr. and Mrs. Legros were two very good customers. They ate pizza twice a week.
+Le mercerdi soir, Monsieur Legros commandait une grande pizza tout garnie er le samedi soir, Madame Legros commandait une grande pizza au fromage et aux anchois = On Wednesday evening, Mr. Legros ordered a large pizza with everything on it and on Saturday evening, Mrs. Legros ordered a large pizza with cheese and anchovies.
+
+Un soir, j'ai demandé à monsieur Legros pourquoi il commandait de la pizza toujours les mêmes soirs. = One evening, I asked Mr. Legros why he always ordered pizza on the same evenings.
+M. Legros m'a répondu: = Mr. Legros replied to me:
+Parce que ma femme et moi sommes au régimes depuis plusieurs mois. = Because my wife and I have been on diets for several months.
+Personnellement, je n'aime pas les régimes! Je dois manger un pettit bol de céréales au déjeuner', une salade au dîner et un peu de poisson et de légumes au souper. = Personally, I don't like diets! I have to eat a small bowl of cereal for breakfast, a salad for lunch and a little fish and vegetables for dinner.
+Cést horrible parce que jái toujours faim! = It's horrible because I'm always hungry!
+Mais, heureusement, tous les mercredis soirs, ma femme va à son cours de danse aérobique. = But, fortunately, every Wednesday evening, my wife goes to her aerobics dance class.
+Comme elle nést pas à la maison, j'en profite pour commander une grande pizza tout garnie. = Since she's not at home, I take advantage of it to order a large pizza with everything on it.
+Cést tellement bon! = It's so good!
+Nous avons ri quelques secondes et je lui ai demandé. = We laughed for a few seconds and I asked him.
+Et porquoi commandez-vous une grande pizza au fromage et aux anchois le samedi soir? = And why do you order a large pizza with cheese and anchovies on Saturday evening?
+M.Legros m'a répondu: = Mr. Legros replied to me:
+là, vous m'apprenez quelque chose parce que je ne suis pas ici le samdi. = there, you're teaching me something because I'm not here on Saturday.
+Je joue toujours aux quilles ce soir-là. = I always play bowling that night.
+
+Questions
+quel temps est mis le texte = How long is the text
+
+1. Quel âge avait le narrateur quand il travaillait dans un restaurant? = How old was the narrator when he worked in a restaurant?
+
+- Le narrateur avait 16 ans quand il travaillait dans un restaurant = The narrator was 16 years old when he worked in a restaurant
+
+2. Où allait-il pendant la journée? = Where did he go during the day?
+
+- He went to university during the day = Il allait à l'université pendant la journée
+
+3. Selon le narrateur, quand on est livreur, il faut être... = According to the narrator, when you are a delivery driver, you have to be...
+   Il faut être discret quand on est livreur = You have to be discreet when you are a delivery driver
+4. Combien de fois par semaine le narrateur livrait-il de la pizza chez M. et Mme Legros? = How many times a week did the narrator deliver pizza to Mr. and Mrs. Legros?
+   Il livrait de la pizza chez M. et Mme Legros deux fois par semaine = He delivered pizza to Mr. and Mrs. Legros twice a week
+   fois = times
+5. Pourquoi M. Legros a-t-il toujours faim? = Why is Mr. Legros always hungry?
+   Beacause he is on a diet = Parce qu'il est au régime
+6. Que mange-t-il au déjeuner? = What does he eat for breakfast?
+   Il mange un petit bol de céréales au déjeuner = He eats a small bowl of cereal for breakfast
+7. où va Mme Legros tous les mercredis soirs? = Where does Mrs. Legros go every Wednesday evening?
+   Elle va à son cours de danse aérobique = She goes to her aerobics dance class
+8. Quelle sorte de pizza commande M. Legros? = What kind of pizza does Mr. Legros order?
+   Il commande une grande pizza tout garnie = He orders a large pizza with everything on it
+9. Que fait M. Legros tous les samedis soirs? = What does Mr. Legros do every Saturday evening?
+   Il joue aux quilles tous les samedis soirs = He plays bowling every Saturday evening
+10. Selon vous, qui commande la pizza au fromage et aux anchois? = According to you, who orders the cheese and anchovy pizza?
+    Mme Legros commande la pizza au fromage et aux anchois = Mrs. Legros orders the cheese and anchovy pizza
+
+In english it means = En anglais, cela signifie
+When do you use que vs quoi = Quand utilisez-vous que est qund utilisez-vous Quelle
+When asking questions = Quand on pose des questions
+que = that
+quelle = what
+There is a pizzaria in Montreal that sells 6 cheese pizza = Il y a une pizzaria à Montréal qui vend une pizza aux 6 fromages
+I forgot the name of the store = J'ai oublié le nom du magasin
+but its near McGill University = mais c'est près de l'Université McGill
+I can google it = Je peux le googler
+avoir une bonne basse
+savoir son alphabet = know your alphabet
+I am agnostic but culturally I am muslim = Je suis agnostique mais culturellement je suis musulman
+less = moins
+
+### Comparison = Comaparatif
+
+[]
+
+#### Les comparatifs de qualité = Quality comparatives
+
+Plus + adjective qualificatif + que = More + adjective + than
+examples
+La chat blanc est PLUS beau que le chat noir = The white cat is MORE beautiful than the black cat
+Le chat noir est MOINS beau que le chat blanc = The black cat is LESS beautiful than the white cat
+Aujourd'hui, il fait PLUS chaud qu'hier = Today, it is WARMER than yesterday
+
+PLUS-MOINS-AUSSI + ADJECTIF + QUE = MORE-LESS-EQUAL + ADJECTIVE + THAN
+Examples
+Il est AUSSI intelligent que son frère = He is AS intelligent as his brother
+
+#### Les comparatifs de quantité = Quantity comparatives
+
+Il y a PLUS DE pluie à Vancouver que à Ottawa = There is MORE rain in Vancouver than in Ottawa
+PLUS + DE + QUE + NOM = MORE + THAN
+MOINS + DE + QUE + NOM = LESS + THAN
+AUTANT + DE + QUE + NOM = AS MUCH + AS
+il y a moins de bananes que de pommes = there are fewer bananas than apples
+
+Les Comparatifs
+
+En Juillet, les jour sont plus longues les nuits = In July, the days are longer than the nights
+En Juillet, les nuits sont plus courtes que les jours = In July, the nights are shorter than the days
+Le train est plus rapide que l'autobus = The train is faster than the bus
+Les guépards sont plus rapides que les lions = Cheetahs are faster than lions
+Le chat est moins grand que le chien = The cat is smaller than the dog
+La souris est moins grande que le chat = The mouse is smaller than the cat
+La grammmaire francaise est moins difficile que la grammaire anglaise = French grammar is less difficult than English grammar
+Une tonne de plomb est plus lourde qu'une tonne de plumes = A ton of lead is heavier than a ton of feathers
+Cette fille est plus belle que ca garcon = This girl is prettier than that boy
+Cette église est plus vieille que cet édifice = This church is older than this building
+Cette route est moins dangereuse que ce chemin = This road is less dangerous than this path
+dispendieux = expensive
+Les articles de Walmart sont moins dispendieux que ceux de Sears = Walmart items are less expensive than Sears items
+
+Les superlatifs
+
+Le/la/les + plus/moins + adjectif + de = The most/least + adjective
+
+La Chine cést le pays le plus peuplé du monde = China is the most populous country in the world
+Le désert'cést l'endroit le plus chaud de la planète = The desert is the driest place on the planet
+(payé) Bill gâtes est la personne la plus payée au monde = Bill Gates is the highest paid person in the world
+(riche) Les éthiopiens sont les moins riches du monde = Ethiopians are the least rich in the world
+(important) Toronto cést la ville la plus importante du Canada = Toronto is the most important city in Canada
+(polluant) La bicyclette c'est le moyen de transport le moins polluant = The bicycle is the least polluting means of transport
+
+Bangladesh is one of the rainiest countries in the world = Le Bangladesh est l'un des pays les plus pluvieux du monde
+During the monsoon season, sometimes it rains for days without stopping = Pendant la saison des moussons, il arrive parfois qu'il pleuve pendant des jours sans s'arrêter
+
+Moi reponse
+Tous les été ma famille et moi partons dans le sud de la france.
+Nous avons l'habitude de résérver une villa proche de la mer .
+Entirement équipee incluant **\_, un bonne canape
+de placard regule et pour le linge salle. Il ya une machine à laver et une machine a secher
+cette tres pratique tous est forni et cést tres functionale
+La espaieuse terrasse est face à la mer est la plage
+Cette villa est disponible tous les heure est nous aimons beacoup
+Ces tres choutte, a ce vous ette interessé, vous pouvez verifier ce le cite internet
+Est vous aurais \_\_** pour lui de villa partout dans france
+
+Correct answer
+Tous les étés, ma famille et moi partons dans le sud de la France.
+Nous avons l'habitude de réserver une villa proche de la mer,
+entièrement incluant: un congélateur, un beau canapé, des placards et pour le ligne sale,
+il y a une machine à laver et une machine à sécher aussi, c'est très pratique.
+Tout est fourni et c'est très fonctionnel.
+La spacieuse terrasse fait face à la mer et à la plage.
+Cette villa est disponible tout les ans et nous l'aimons beaucoup.
+C'est très chouette et si vous êtes intéressé, vous pouvez vérifier sur le site internet
+et vous aurez les renseignements pour louer des villas partout en France.
+
+Translatiom
+
+Every summer, my family and I go to the south of France.
+We usually rent a villa near the sea, fully equipped including:
+a freezer, a nice sofa, cupboards and for the laundry room,
+there is a washing machine and a dryer too, it's very practical.
+Everything is provided and it's very functional.
+The spacious terrace faces the sea and the beach.
+This villa is available every year and we love it very much.
+It's very nice and if you are interested, you can check on the website
+and you will have the information to rent villas all over France.
+
+It started well but then it became harder = Cela a bien commencé mais ensuite cela est devenu plus difficile
+The beginning was easy = Le début était facile
+But then it got harder = Mais ensuite cela est devenu plus difficile
+I started well = J'ai bien commencé
+But I made mistakes a lot of spelling mistakes in the last few sentences = Mais j'ai fait des erreurs, beaucoup de fautes d'orthographe dans les dernières phrases
+
+cést tres choutte = it's very nice = This is a French expression that means "it's very nice"
+
+I want to watch = Je veux regarder
+But I would like to watch it with french subtitles = Mais j'aimerais le regarder avec des sous-titres français
+But I can't find any website that has it = Mais je ne trouve pas de site web qui l'a
+
+Partez-vous en vacances tous les ans ou temps en temps? = Do you go on vacation every year or from time to time?
+
+par rapport à votre question comme je dis = in response to your question as I say
+donc = so
+
+## 11 Février 2025 (Mardi)
+
+la Chine - China
+le Brésil - Brazil
+le Québec - Quebec
+la Caroline du Nord - North Carolina
+l'Afrique du Sud - South Africa
+la France - France
+
+1. Où peut=on voir une mine de diamants? = Where can you see a diamond mine?
+   Vous pouvez voir une mine de diamants en Afrique du Sud = You can see a diamond mine in South Africa
+
+2. Où peut-on visiter des vignobles renommés? = Where can you visit famous vineyards?
+   Vous pouvez visiter des vignobles renommés en France = You can visit famous vineyards in France
+
+3. Où peut-on voir une rizière? = Where can you see a rice field?
+   Tu peux voir une rizière en Chine = You can see a rice field in China
+
+4. Où peut-on voir une plantation de café? = Where can you see a coffee plantation?
+   Tu peux voir une plantation de café au Brésil = You can see a coffee plantation in Brazil
+
+5. Où peut-on`manger à la cabaane à sucre? = Where can you eat at the sugar shack?
+   Tu peux manger à la cabane à sucre au Québec = You can eat at the sugar shack in Quebec
+   Sugar shack sells maple products = La cabane à sucre vend des produits d'érable
+
+6. Où peut-on visiter une plantation de coton? = Where can you visit a cotton plantation?
+   Tu peux visiter une plantation de coton en Caroline du Nord = You can visit a cotton plantation in North Carolina
+
+What is the meaning of the word "vignoble"? = Quelle est la signification du mot "vignoble"?
+How do you pronounce the word "vignoble"? = Comment prononcez-vous le mot "vignoble"?
+
+Touvez quatre autre lieux d'éxploitation, de culture de fabrication qu'on peut voir ou visiter, end présicant dans quelles régions du monde ils sont situés = Find four other places of exploitation, culture or manufacturing that you can see or visit, specifying in which regions of the world they are located
+
+1. Où peut-on voir une plantation de thé? = Where can you see a tea plantation?
+   Tu peux voir une plantation de thé en Inde = You can see a tea plantation in India
+
+2. Où peut-on visiter une plantation de bananes? = Where can you visit a banana plantation?
+   Tu peux visiter une plantation de bananes en Équateur = You can visit a banana plantation in Ecuador
+
+3. Où peut-on voir une plantation de tabac? = Where can you see a tobacco plantation?
+   Tu peux voir une plantation de tabac à Cuba = You can see a tobacco plantation in Cuba
+   The best tobacco in the world is grown in Cuba = Le meilleur tabac du monde est cultivé à Cuba
+   I have a bookshelf on my left = J'ai une étagère à livres à ma gauche
+   So its shadow falls on me = Donc son ombre tombe sur moi
+   shadow -> ombre
+   falls -> tombe
+
+4. Où peut-on visiter une plantation de cacao? = Where can you visit a cocoa plantation?
+   Tu peux visiter une plantation de cacao en Côte d'Ivoire = You can visit a cocoa plantation in Ivory Coast
+
+5. Où peut-on voir une plantation de blé? = Where can you see a wheat plantation?
+   Nous pouvons voir une plantation de blé en Ukraine = We can see a wheat plantation in Ukraine
+
+   Petrol is extracted in the middle east = Le pétrole est extrait au Moyen-Orient
+   les plantations de thé sont en sri lanka = Tea plantations are in Sri Lanka
+   The best coffee in the world is grown in Colombia = Le meilleur café du monde est cultivé en Colombie
+   The best chocolate in the world is made in Switzerland = Le meilleur chocolat du monde est fabriqué en Suisse
+   But the cocoa is grown in Ivory Coast = Mais le cacao est cultivé en Côte d'Ivoire
+   vous pouvez trouver des plantations de bananes en equateur = You can find banana plantations in Ecuador
+   My hometown of chittagong is well known for its beef and high rates of heart disease = Ma ville natale de Chittagong est bien connue pour son boeuf et ses taux élevés de maladies cardiaques
+
+La pomme verte est meilleure que la pomme rouge = The green apple is better than the red apple
+La pomme rouge est moins bonne que la pomme verte = The red apple is less good than the green apple
+Plus-moins-aussi + adjectif + que = More-less-equal + adjective + than
+Savoureux(se) = tasty
+
+### Exercice Produits d'ici et d'ailleurs = Exercise Products from here and elsewhere
+
+En équipes, comparez les produits des différentes pays. = In teams, compare the products of different countries.
+Utilisez les adjectifs fournis en faisant les accords nécessaires et en vous inspirant des exemples. = Use the adjectives provided by making the necessary agreements and drawing inspiration from the examples.
+
+Example
+Le sirop d'érable québécois est meilleur que le sirop d'érable américain = Quebec maple syrup is better than American maple syrup
+Le vin français est plus savoureux que le vin californien = French wine is tastier than Californian wine
+
+1. Les fraises, du Québrc, californiennes, frais/ fraîches = Quebec strawberries, Californian strawberries, fresh
+   Les fraises québécoises sont plus fraîches que les fraises californiennes = Quebec strawberries are fresher than Californian strawberries
+
+2. Le voitures, japonaises, allemandes, puissant(e) = Japanese cars, German cars, powerful
+   Les voitures japonaises sont moins puissantes que les voitures allemandes = Japanese cars are less powerful than German cars
+
+3. Les restaurants, montréalais, new-yorkais, chic(s) = Montreal restaurants, New York restaurants, chic
+   Les restaurants Montréalais sont moins chics que les restaurants New-Yorkais = Montreal restaurants are less chic than New York restaurants
+
+4. Les olives, grecques, espagnoles, cher/chère = Greek olives, Spanish olives, expensive
+   Les olives grecques sont moins chères que les olives espagnoles = Greek olives are less expensive than Spanish olives
+
+5. Le fromage, suisse, hollandais, gras/grasse = Swiss Dutch cheese, fatty
+   Le fromage suisse est moins gras que le fromage hollandais = Swiss cheese is less fatty than Dutch cheese
+
+6. Le chocolat, belge, allemand, crémeux/crémeuse = Belgian chocolate, German chocolate, creamy
+   Le chocolat belge est plus crémeux que le chocolat allemand = Belgian chocolate is creamier than German chocolate
+
+7. Les tomates, québécoises, italiennes, beau/belle ou beaux/belles = Quebec tomatoes, Italian tomatoes, beautiful
+   Les tomates italiennes sont plus belles que les tomates québécoises = Quebec tomatoes are more beautiful than Italian tomatoes
+
+8. Le vin français, hongrois, savoureux(se) = French wine, Hungarian wine, tasty
+   Le vin hongrois est moins savoureux que le vin français = Hungarian wine is less tasty than French wine
+
+9. Le thé, anglais, indien, doux/douce = English tea, Indian tea, sweet
+   Le thé anglais est plus doux que le thé indien = English tea is sweeter than Indian tea
+
+10. Les pommes, du Québec, de la Nouvelle-Angleterre, petit/petite = Quebec apples, New England apples, small
+    Les pommes de la Nouvelle-Angleterre sont plus petites que les pommes du Québec = New England apples are smaller than Quebec apples
+
+11. Les tapis, persans, turcs, coloré(e) = Persian carpets, Turkish carpets, colorful
+    Les tapis persans sont plus colorés que les tapis turcs = Persian carpets are more colorful than Turkish carpets
+
+12. Les cigares cubains, allemands, gros/grosse = Cuban cigars, German cigars, big
+    Les cigares cubains sont plus gros que les cigares allemands = Cuban cigars are bigger than German cigars
+
+13. Le saumon, canadien, américain, bon/bonne ou meilleurs/meilleures = Canadian salmon, American salmon, good or better
+    Le saumon canadien est meilleur que le saumon américain = Canadian salmon is better than American salmon
+
+14. La soie, chinoise, japonaise, résistant(e) = Chinese silk, Japanese silk, resistant
+    La soie chinoise est plus résistante que la soie japonaise = Chinese silk is more resistant than Japanese silk
+
+E1. Les cigares, cubains, allemands, gros
+Les cigares cubains sont meilleurs que les cigares allemands = Cuban cigars are better than German cigars
+
+#### Comparison: Infériorité, Supériorité, Égalité = Comparison: Inferiority, Superiority, Equality
+
+1. Elivis Presley est un chanteur aussi talentueux que Michael Jackson = Elvis Presley is a singer as talented as Michael Jackson
+   Its equal = C'est égal
+   Its superior = C'est supérieur
+
+2. Cette élève a moins mais elles sont = This student has less but they ar
+   étroisment ilées =
+
+3. Cette élève a plus de chance que sa camarade, e
+
+4. Il nýa pas des bouchons sur les voies ferrées = There are no traffic jams on the railway tracks
+   bouchons = traffic jams
+
+5. Il fait noin froid que l'hiver dernier, nous faisons des économies de chauffage = It's not as cold as last winter, we're saving on heating
+
+6. Cet enfant apprend mieux à la maison qu'à l'école = This child learns better at home than at school
+
+7. Nous avons autant d'argent que nois amis = We have as much money as our friends
+
+8. Ce employé a moins de travail que son collègue = This employee has less work than his colleague
+
+9. La blessure du piéton est plus grave que celle de l'automobiliste = The pedestrian's injury is more serious than the motorist's5.
+
+Complétez ave un comparatif de supériorité (+), d'infériorité (-) ou d'égalité (=) et faites des transformations si nécessaire = Complete with a comparative of superiority (+), inferiority (-) or equality (=) and make transformations if necessary
+
+1. (-) Un ouvrier gagne argent un ingénieur
+   - Un ouvrier gagne moins d'argent qu'un ingénieur = A worker earns less money than an engineer
+2. (=) Les Français ne mangent pas pâtes les Italiens
+   = Les Français ne mangent pas autant de pâtes que les Italiens = The French do not eat as much pasta as the Italians
+3. (+) Les gens vivent longtemps et (+) (bien) avant
+   Les gens vivent plus longtemps et plus mieux qu'avant = People live longer and better than before
+4. (=) Pierre lit moi, mais ma mémoire est (+) (bonne) la sienne
+   Pierre lit autant que moi, mais ma mémoire est aussi meilleure que la sienne = Pierre reads as much as me, but my memory is as good as
+5. (-) Il ya eu accidents le week-end dernier.
+   Il y a eu moins d'accidents que le week-end dernier = There were fewer accidents last weekend
+
+Quiz
+
+Elle a achéte plus de vêtements que sa soeur = She bought more clothes than her sister
+
+La tour de Eiffel est plus grande que la statue de la liberté = The Eiffel Tower is taller than the Statue of Liberty
+
+viuex = old
+La statue de la liberté est plus vieille que la tour Eiffel = The Statue of Liberty is older than the Eiffel Tower
+
+Nous avons mangé autant de crèpes. = We ate as many pancakes.
+
+Cést un tableau de Dégas. Il est un bon peintre. Il peint mieux que ma petite soeur = It's a painting by Degas. He is a good painter. He paints better than my little sister
+
+baigneuse = bather
+
+sert la nourriture = serves food
+
+In my opinion = À mon avis
+it is the best city in the country = c'est la meilleure ville du pays
+
+Exercise
+Le Médicines douces et les médicines traditionnelles = Soft medicines and traditional medicines
+Critères de comparaison = Comparison criteria
+
+naturel = natural
+Sens de la responsabilité les gens = Sense of responsibility people
+Importance qu'un accorde à la personne = Importance that one gives to the person
+Rapditité des résultats = Speed of results
+
+1. Les médicines douces sont plus naturelles que les médicines traditionnelles = Soft medicines are more natural than traditional medicines
+2. Les médicines traditionnelles sont plus rapides que les médicines douces = Traditional medicines are faster than soft medicines
+
+Ailments modifient génétiquement = Genetically modified foods
+Ailments biologiques = Organic foods
+Goût = Taste
+
+Montreal et Quebec
+
+Critères de comparaison = Comparison criteria
+Réseau d'autoroutes = Highway network
+Population = Population
+Bureaux du gouvernement = Government offices
+Sites d'intérêt touristique = Tourist attractions
+
+1. Montreal a un meilleur réseau d'autoroutes que Quebec = Montreal has a better highway network than Quebec
+2. Quebec a une plus petite population que Montreal = Quebec has a smaller population than Montreal
+3. Quebec a plus de bureaux du gouvernement que Montreal = Quebec has more government offices than Montreal
+4. Montreal a plus de sites d'intérêt touristique que Quebec = Montreal has more tourist attractions than Quebec
+
+Is Quebec short for Quebec City? = Quebec est-il l'abréviation de la ville de Québec?
+
+Liberté des passagers = Passenger freedom
+
+paysage = landscape
+youtube videos = vidéos youtube
+
+## 12 Février 2025 (Mercredi)
+
+[EX](Alimentation)
+in my fridge, there is rice, yougurt, chicken, fish, cabbage, green beans, cucumbers, tomatoes, dummplings, eggs and ice cream = dans mon frigo, il y a du riz, du yaourt, du poulet, du poisson, du chou, des haricots verts, des concombres, des tomates, des dumplings chinois, des oeufs et de la crème glacée
+
+dans ma salade préférée, il y a des tomates, des concombres, des oignons, des poivrons, des olives, du fromage feta, de l'huile d'olive, du vinaigre balsamique, du sel et du poivre = in my favorite salad, there are tomatoes, cucumbers, onions, peppers, olives, feta cheese, olive oil, balsamic vinegar, salt and pepper
+
+Qu'est-ce qu'il y a dans votre sandwich préféré? = What's in your favorite sandwich?
+in my favorite sandwich, there is bread, beef, cheese, roasted peppers, onions, tomatoes, chipotle sauce and mayonnaise = Dans mon sandwich préféré, il y a du pain, du boeuf, du fromage, des poivrons rôtis, des oignons, des tomates, de la sauce chipotle et de la mayonnaise
+beef steak = bifteck
+Quels sont vos fruits et vos légumes préférés? = What are your favorite fruits and vegetables?
+
+mes fruits préférés sont les fraises, les bananes, les pommes, les oranges, les raisins et les mangues = my favorite fruits are strawberries, bananas, apples, oranges, grapes and mangoes
+Kiwis = Kiwis
+
+[EX 7](Alimentation)
+
+des poires = pears
+du raisin = grapes
+du veau = veal
+du chou-fleur = cauliflower
+des bleuets = blueberries
+des échalotes = shallots
+
+1. Pour consommer des produits laitiers, qu'est quíl faut boire ou manger? = To consume dairy products, what should you drink or eat?
+
+Il faut manger du yogourt, du fromage, et Il faut boire du lait
+
+légumes
+
+Il faut manger des échalotes, des épinards, du chou-fleur, de l'aubergine, des champignons et il faut boire du jus de tomate
+
+Fruits
+
+i don't have a question = je n'ai pas de question
+
+Il faut manger plus de légumes que de vaindes = You should eat more vegetables than meat
+
+Pour être en santé, quést-ce qu'il ne faut pas faire? = To be healthy, what should you not do?
+il ne pas boire trop d'alcool = you should not drink too much alcohol
+(être pessimiste) = Il ne faut pas être pessimiste
+(travailler top fort) = Il ne faut pas travailler trop fort= you should not work too hard
+
+Avez-vous d'autres recommandations?
+
+Il ne faut pas manger trop de sucre = You should not eat too much sugar
+Il ne faut pas fumer = You should not smoke
+il faut jouer dehors chaque jour = you should play outside every day
+exercise = faire de l'exercice
+il faut faire de l'exercice chaque jour = you should exercise every day
+regulièrement = regularly
+
+In the exercise it said "moin de" for number 7 = Dans l'exercice, il a dit "moin de" pour le numéro 7
+
+#### Compariez votre pays d'origine avec le Canada.
+
+Bangladesh et Canada
+
+Critères de comparaison = Comparison criteria
+Population = Population
+Superficie = Area
+Capitale = Capital
+Langue officielle = Official language
+Monnaie = Currency
+Climat = Climate
+Gastronomie = Gastronomy
+Sites touristiques = Tourist sites
+Public transportation = Transports en commun
+Bangladesh and Canada are very different countries = Le Bangladesh et le Canada sont des pays très différents
+
+1. Le Bangladesh a une plus grande population que le Canada = Bangladesh has a larger population than Canada
+2. Le Canada a une plus grande superficie que le Bangladesh = Canada has a larger area than Bangladesh
+3. La capitale du Bangladesh est Dacca et la capitale du Canada est Ottawa = The capital of Bangladesh is Dhaka and the capital of Canada is Ottawa
+4. La langue officielle du Bangladesh est le bengali et la langue officielle du Canada est l'anglais et le français = The official language of Bangladesh is Bengali and the official language of Canada is English and French
+5. La monnaie du Bangladesh est le taka et la monnaie du Canada est le dollar canadien = The currency of Bangladesh is the taka and the currency of Canada is the Canadian dollar
+6. Le climat du Bangladesh est tropical et le climat du Canada est tempéré = The climate of Bangladesh is tropical and the climate of Canada is temperate
+7. Its colder in Canada than in Bangladesh = Il fait plus froid au Canada qu'au Bangladesh
+   So its colder in Canada than in Bangladesh = Donc il fait plus froid au Canada qu'au Bangladesh
+8. But it's rains a lot more in Bangladesh than in Canada = Mais il pleut beaucoup plus au Bangladesh qu'au Canada
+9. La gastronomie du Bangladesh est épicée et la gastronomie du Canada est variée = The gastronomy of Bangladesh is spicy and the gastronomy of Canada is varied
+10. Les sites touristiques du Bangladesh sont les Sundarbans et les sites touristiques du Canada sont les chutes du Niagara = The tourist sites of Bangladesh are the Sundarbans and the tourist sites of Canada are Niagara Falls
+11. Les transports en commun du Bangladesh sont les bus et les rickshaws et les transports en commun du Canada sont les bus et les métros = The public transportation of Bangladesh is buses and rickshaws and the public transportation of Canada is buses and subways
+12. Therefore, Canada has a better public transportation system than Bangladesh = Par conséquent, le Canada a un meilleur système de transport en commun que le Bangladesh
+13. Bangladesh has more acgricultural economy than Canada = Le Bangladesh a une économie plus agricole que le Canada
+14. While Canada has more natural resources than Bangladesh = Alors que le Canada a plus de ressources naturelles que le Bangladesh
+15. Bangladesh has more textile industry than Canada = Le Bangladesh a plus d'industrie textile que le Canada
+16. While Canada has more advanced manufacturing industry than Bangladesh = Alors que le Canada a plus d'industrie manufacturière avancée que le Bangladesh
+
+[Ex Sickness]
+
+Rhume = Cold
+Grippe = Flu
+
+nez qui coule et éternuements = runny nose and sneezing
+
+fièvre = fever
+
+Douleurs légères = Mild pain
+Douleurs fréquentes = Frequent pain
+Pendant = During
+la grippe est plus grave que le rhume = the flu is more serious than the cold
+La grippe est plus contagieuse que le rhume = The flu is more contagious than the cold
+La grippe dure plus longtemps que le rhume = The flu lasts longer than the cold
+La grippe est plus douloureuse que le rhume = The flu is more painful than the cold
+La grippe est plus mauvaise que le rhume = The flu is worse than the cold
+
+C'est quoi = What is it/ What's the
+cloué au lit = bedridden
+
+Quebecois expressions
+
+Je ne suis pas dans mon assiette = I'm not feeling well
+Je suis à plat = I'm exhausted
+Je suis cloué au lit = I'm bedridden
+J'ai un chat dans la gorge = I have a frog in my throat = je suis enroué = I'm hoarse
+J'ai du mal à respirer = I'm having trouble breathing
+Je be peux pas respirer normalement = I can't breathe normally
+J'ai un mal de bloc = I have a headache
+J'ai mal au coeur = I have a stomach ache
+Je me sens faible = I feel weak
+
+## 13 Février 2025 (Jeudi)
+
+Tout le monde aime les centres commerciaux. En été comme en hiver, les gens se bousculent dans ces
+endroits fantastiques remplis de boutiques variées et d'animations diverses. En effet, même si vous ne
+souhaitez pas acheter quelque chose, il est toujours intéressant de passer du temps dans les centres
+commerciaux. = Everyone loves shopping malls. In summer as in winter, people flock to these fantastic places filled with a variety of shops and various activities. Indeed, even if you don't want to buy anything, it's always interesting to spend time in shopping malls.
+
+Le centre commercial est l'endroit idéal pour passer un bon moment avec sa famille, ses amis ou ses
+collègues de travail. Les gens y vont notamment pour déguster un bon hamburger assis près de la
+fontaine ou tout en regardant un spectacle de danse. = The shopping mall is the ideal place to have a good time with family, friends or colleagues. People go there in particular to enjoy a good hamburger sitting near the fountain or while watching a dance show.
+
+Côté magasins, on peut trouver de tout dans un centre commercial : hypermarchés pour faire ses
+courses, boutiques de vêtements et de sport, librairies, etc. Vous ne risquerez pas de vous ennuyer
+dans un lieu aussi animé. = On the store side, you can find everything in a shopping mall: hypermarkets for shopping, clothing and sports shops, bookstores, etc. You won't get bored in such a lively place.
+
+### Translations
+
+Everyone loves shopping malls. In summer as in winter, people flock to these fantastic places filled with a variety of shops and various activities.
+Indeed, even if you don't want to buy anything, it's always interesting to spend time in shopping malls.
+
+The shopping mall is the ideal place to have a good time with family, friends or colleagues. People go there in particular to enjoy a good hamburger sitting near the fountain or while watching a dance show. On the store side, you can find everything in a shopping mall: hypermarkets for shopping, clothing and sports shops, bookstores, etc. You won't get bored in such a lively place.
+
+D'après le texte, à quel moment les gens
+aiment aller dans les centres
+commerciaux ? = According to the text, when do people like to go to shopping malls?
+
+-
+- Toute l'année
+  Que trouve-t-on dans un centre
+  commercial ? = What can be found in a shopping mall?
+- Des magasins et des animations = Shops and entertainment
+  Pourquoi faut-il y aller avec ses proches ? = Why should you go there with your loved ones?
+- Pour s'amuser et passer du bon temps ensemble
+  Quel type de magasin ne trouve-t-on pas
+  dans un centre commercial ? = What type of store is not found in a shopping mall?
+- un magasin de voitures = a car dealership
+  Comment sont les centres commerciaux ? = What are shopping malls like?
+- Animés = Animated
+
+se bosculer = to jostle
+I understand = Je comprends
+notanment = in particular = particulièrement
+déguster = to taste
+assis près de la fontaine = sitting near the fountain
+on tout en regardant = or while watching
+Vous ne risquerez pas = You won't risk
+de vous ennuyer = getting bored
+étape par étape = step by step
+dan un lieu aussi animé = in such a lively place
+
+What is the meaning of the word "déguster"? = Quelle est la signification du mot "déguster"?
+How do you pronounce the word "déguster"? = Comment prononcez-vous le mot "déguster"?
+No I rather stay home = Non, je préfère rester à la maison
+I prefer shopping online = Je préfère faire du shopping en ligne
+There is too many people = Il y a trop de monde
+But sometimes its good to go = Mais parfois c'est bien d'y aller
+Also now with the political situation = Aussi maintenant avec la situation politique
+I am trying to shop more locally = J'essaie de faire du shopping plus localement
+I studied at McGill University = J'ai étudié à l'Université McGill
+and I worked there for 4 years = et j'y ai travaillé pendant 4 ans
+
+EX Travail et famille
+
+plus important = more important
+moins important = less important
+ca passe avant = it comes first
+ca passe après = it comes after
+
+Les sorties, pour Mario, cést plus important que pour Lucie = Outings, for Mario, are more important than for Lucie
+Les sorties, pour Lucie, ca passe après le travail = Outings, for Lucie, come after work
+Equal = Les sorties, pour Mario et Lucie, sont aussi importantes = Outings, for Mario and Lucie, are equally important
+Les bénévoles, pour Mario, ca passe avant le travail = Volunteers, for Mario, come before work
+
+what is bénevolat? = Qu'est-ce que le bénévolat?
+cours de perfectionnement = training course
+les sorties = outings
+les tâches ménagères = household chores
+
+Priorité = Priority
+Parfois Sacrifier = Sometimes Sacrifice
+Souvent Sacrifier = Often Sacrifice
+In n a pas le temps = We don't have time
+
+Le conjoint = The spouse
+For me whats important is work = Pour moi ce qui est important c'est le travail
+
+B. D'après vous, quelles valeurs sont plus importantes dans la vie? = In your opinion, which values are more important in life?
+Discutez-en en équipe. = Discuss it as a team.
+Servez-vous des structures de l'encadré = Use the structures in the box.
+
+- l'amour = love
+- l'amitié = friendship
+- l'argent = money
+- le travail = work
+- la réussite professionnelle = professional success
+- la famille = family
+- la vie spirituelle = spiritual life
+- la santé = health
+
+## 14 Février 2025 (Vendredi)
+
+Amants, tourtereaux, amoureux, fiancés ou simplement amis, enfants, parents et grand-parents, tout la planète ou presque vibre d'amour chaque année à date fixe... le 14 février. = Lovers, lovebirds, lovers, fiancés or simply friends, children, parents and grandparents, the whole planet or almost vibrates with love every year on a fixed date... February 14th.
+Des Pays-Bas à la Russie, en passant par la Chine, le Portugal, le Liban ou le Pakistan, on profite de cette journée bien spéciale pour se dire mille fois "je t'aime", ou encore "Miluji te" (tchéque), "Taim iíngra leat" (irlandais), "Dangsinul saranghee yp" (coréen), ou si vous préférez "Aloha wau ia oi" (hawaïen). = From the Netherlands to Russia, passing through China, Portugal, Lebanon or Pakistan, we take advantage of this very special day to say a thousand times "I love you", or "Miluji te" (Czech), "Taim iíngra leat" (Irish), "Dangsinul saranghee yp" (Korean), or if you prefer "Aloha wau ia oi" (Hawaiian).
+
+Si pour certains la Saint Valentin n'est qu'un mégafête commerciale où chocolats, fleurs et dessous prennent le dessus, pour d'autres, elle demeure une occasion obligée de s'arrêter et se dire ces mots doux qu'on ne se dit jamais assez... = If for some Valentine's Day is just a mega commercial party where chocolates, flowers and underwear take over, for others, it remains a mandatory opportunity to stop and say these sweet words that we never say enough...
+
+La Sait-Valentin, une affaire de coeur Fleurs, chocolat, souper des plus romantiques, tout existe, ou presque, pour charmer la dulcinée le 14 février Car la Saint-Valentin, c'est aussi la fête des commerçants, qui brassent, bon an mal an, des très bonnes affaires en cette période tranquille de l'année. = Valentine's Day, a matter of the heart Flowers, chocolate, a most romantic dinner, everything exists, or almost, to charm the sweetheart on February 14th. Because Valentine's Day is also the feast of merchants, who make, year after year, very good deals in this quiet period of the year.
+
+La grande fête de l’amour est en fait le premier exemple de fêtes traditionnelles transformées par la culture de la consommation. Peu soulignée avant 1840 aux États-Unis, la Saint-Valentin s’est vue littéralement réinventée au milieu du 19e siècle par les marchands de cartes et de livres américains. = The great feast of love is in fact the first example of traditional festivals transformed by the culture of consumption. Little emphasized before 1840 in the United States, Valentine's Day was literally reinvented in the mid-19th century by American card and book merchants.
+
+En quelques décennies, les cartes de vœux commerciales ont envahi le marché. Puis ont suivi les livres de poèmes d’amour, et enfin le cadeau « moderne » : la fameuse boîte de chocolats! Le « marketing de l’Amour » s’est ensuite dirigé vers tout type de relation affective. Autrefois journée exclusive pour les amoureux et les fiancés, la Saint-Valentin est maintenant devenue une occasion pour souligner notre amour envers nos proches, de même que l’amitié : frères et sœurs, père et mère, oncles et tantes, neveux et nièces, grands-parents ou amis; tous sont valentins! = In a few decades, commercial greeting cards invaded the market. Then came the books of love poems, and finally the "modern" gift: the famous box of chocolates! The "Love Marketing" then turned to all types of emotional relationships. Once an exclusive day for lovers and fiancés, Valentine's Day has now become an opportunity to express our love for our loved ones, as well as friendship: brothers and sisters, father and mother, uncles and aunts, nephews and nieces, grandparents or friends; all are
+
+Combien ça coûte, la Saint-Valentin? Dans de grandes villes internationales, il a été calculé quel serait le coût d’une soirée de Saint-Valentin – hôtel, resto et petit bijou inclus. La meilleure aubaine? Montréal, où il ne vous en coûtera (!) que 375 $. Inviter votre douce (ou votre doux!) à New York ou à Tokyo vous vaudrait plutôt la jolie facture de 865 $ et 1145 $. = How much does Valentine's Day cost? In major international cities, it has been calculated what the cost of a Valentine's Day evening would be - hotel, restaurant and small jewel included. The best deal? Montreal, where it will only cost you $375. Inviting your sweetheart (or your sweetheart!) to New York or Tokyo would rather cost you the pretty bill of $865 and $1145.
+
+Comprenant une bouteille de vin, un dîner, une chambre d’hôtel, un film, un bijou et un parfum milieu de gamme ou comparable. = Including a bottle of wine, dinner, a hotel room, a movie, a mid-range or comparable jewel and perfume.
+
+Des paroles d’enfants.... = Words of children....
+La Saint-Valentin, pour moi, c’est... = Valentine's Day, for me, it's....
+« On fête l’amour qu’on a et on donne notre amour à tous les autres. On se réunit. » = "We celebrate the love we have and we give our love to everyone else. We get together."
+
+- Alice, 7 ans
+
+« C’est quand on donne des cartes avec des cœurs et qu’on dit “Je t’aime”. » = "It's when we give cards with hearts and say "I love you"."
+
+- Marguerite, 4 ans
+
+« C’est la fête des amis et des amoureux. On se fait des douceurs, on rend des services, on donne des cadeaux, des baisers et des câlins. »
+
+- Julien, 7 ans
+
+« C’est quand on fait des gâteaux au chocolat avec maman. C’est la fête de l’amour. » = "It's when we make chocolate cakes with mom. It's the feast of love."
+
+- Florence, 5 ans
+
+« C’est la fête que j’aime beaucoup parce que je peux échanger des cartes avec mes ami(e)s. » = "It's the party I like a lot because I can exchange cards with my friends."
+
+- Élisa, 10 ans
+
+Les apprenants sont invités à répondre :
+a) La Saint-Valentin, pour moi, c’est.... = Valentine's Day, for me, it's....
+b) Le cadeau idéal pour ma bien-aimée/mon bien-aimé serait... = The ideal gift for my beloved would be...
+c) J’aimerais célébrer la Saint-Valentin à...., avec..., en... = I would like to celebrate Valentine's Day in..., with..., in...
+d) Célébrez-vous la Saint-Valentin dans votre pays ( ou fête similaire)? = Do you celebrate Valentine's Day in your country (or similar celebration)?
+e) Que pensez-vous et que représente pour vous de cette fête? = What do you think and what does this celebration represent
+
+### Les métiers
+
+Les métiers (A2)
+Je m'appelle Camille et quand j'étais enfant, j'avais des rêves plein la tête. Je voulais être professeur et enseigner les mathématiques. Puis, je voulais devenir docteur pour soigner les malades. Pour moi, les médecins et les infirmières sont des héros sans costume. = My name is Camille and when I was a child, I had dreams in my head. I wanted to be a teacher and teach mathematics. Then, I wanted to become a doctor to treat the sick. For me, doctors and nurses are heroes without a costume.
+
+Mon ami Thomas rêvait d'être cuisinier. C'est parce qu'il n'aimait pas les plats de la cantine. Il pensait qu'un chef pouvait manger des pizzas et des frites tous les jours. = My friend Thomas dreamed of being a cook. It's because he didn't like the cafeteria food. He thought a chef could eat pizza and fries every day.
+
+Puis, plus grand, je découvrais les métiers de policier et d'avocat dans un film. Je me disais alors que jevoulais aussi combattre pour la justice. Je voulais poursuivre les criminels et défendre les gentils. Mais le monde ne fonctionne pas toujours ainsi. = Then, as I grew older, I discovered the professions of policeman and lawyer in a film. I then thought that I also wanted to fight for justice. I wanted to pursue criminals and defend the good. But the world doesn't always work that way.
+
+Adolescent, je voulais devenir pompier. Mes parents m'encourageaient à devenir sapeur-pompier volontaire pour voir si cette carrière était réellement pour moi. J'étais donc lycéen et pompier à la fois. J'étais fier ! = As a teenager, I wanted to become a firefighter. My parents encouraged me to become a volunteer firefighter to see if this career was really for me. So I was a high school student and a firefighter at the same time. I was proud!
+
+Mais ma plus grande passion, c'est l'art. Et aujourd'hui, je suis artiste. Je peins des tableaux dans mon studio. = But my greatest passion is art. And today, I am an artist. I paint pictures in my studio.
+
+Mon ami Thomas, lui, est dentiste. Pourtant, quand on était petits, il détestait aller chez le dentiste. Il pleurait à chaque fois. = My friend Thomas, on the other hand, is a dentist. Yet, when we were little, he hated going to the dentist. He cried every time.
+
+### Exercice Habitudes
+
+[Questions + ex.pdf]
+
+En équipe de deux,
+
+too many hours = trop d'heures
+
+Allez-vous au théatre? Combien de fois par mois? = Do you go to the theater? How many times a month?
+
+à l'étranger = abroad
+I havent gone abroad in a while = Je ne suis pas allé à l'étranger depuis un moment
+Lisez vous le journal? = Do you read the new
+I read the news online = Je lis les nouvelles en ligne
+
+Rarely = Rarement
+faites vous vos courses pendant la semaine? = Do you do your shopping during the week?
+
+cpmbien de fois par mois = how many times a month
+
+I use the internet all day = J'utilise l'internet toute la journée.
+I use it too much = Je l'utilise trop
+All day = Toute la journée
+I should use it less = Je devrais l'utiliser moins
+But it's hard not to = Mais c'est difficile de ne pas le faire
+
+Is theatre the same as cinema? = Le théâtre est-il la même chose que le cinéma?
+It's been a long time since I went to the theatre = Cela fait longtemps que je ne suis pas allé au théâtre
+But last time I went on a halloween = Mais la dernière fois que j'y suis allé c'était à Halloween
+I saw The Rocky Horror Picture Show = J'ai vu The Rocky Horror Picture Show
+
+It's been a long time since I went abroad = Cela fait longtemps que je ne suis pas allé à l'étranger
+
+Lisez vous des mangazines sportifs? lesquels? = Do you read sports magazines? which ones?
+Non, je ne lis pas de magazines sportifs = No, I don't read sports magazines
+But I watch sports on TV = Mais je regarde les sports à la télévision
+same for me = pareil pour moi
+Its the same for me = C'est pareil pour moi
+
+Lire des romans = Reading novels
+Est-ce que vous lisez des romans? = Do you read novels?
+Oui, je lis des romans = Yes, I read novels
+Combien de fois par mois? = How many times a month?
+A few books a month = Quelques livres par mois
+No exact number = Pas de nombre exact
+
+Faire du sport = Doing sports
+Est-ce que vous faites du sport? = Do you play sports?
+Yes I swim weekly and play football sometimes = Oui, je nage chaque semaine et je joue au football parfois
+Combien d'hueres par semaine? = How many hours a week?
+what do you read = Qu'est-ce que vous lisez
+
+once a year = une fois par an
+
+faire de courses = to go shopping
+Est-ce que vous faites des courses? = Do you go shopping?
+Oui je fais des courses = Yes I go shopping
+a few times a week = quelques fois par semaine
+When I need something = Quand j'ai besoin de quelque chose
+
+Partir en vacances = Going on vacation
+
+Aller à la bibliothèque = Going to the library
+Est-ce que vous allez à la bibliothèque? = Do you go to the library?
+Combien de fois par mois? = How many times a month?
+Oui, je vais à la bibliothèque = Yes, I go to the library
+I have a library card = J'ai une carte de bibliothèque
+I go few times a month = Je vais quelques fois par mois
+I borrow a few books = J'emprunte quelques livres
+
+What is Bouqiner? = Qu'est-ce que Bouqiner?
+Bouqiner = to read books
+Oui je lis des livres = Yes I read books
+I try to read a few books a year = J'essaie de lire quelques livres par an
+
+It snowed a lot = Il a beaucoup neigé
+
+Sunday = Dimanche
+On sunday there will be 40 cm of snow = Dimanche il y aura 40 cm de neige
+
+faites-vous vos courses pendant la semaine? = Do you do your shopping during the week?
+Oui, je fais mes courses pendant la semaine = Yes, I do my shopping during the week
+I go shopping when I need something = Je fais du shopping quand j'ai besoin de quelque chose
+I am lucky because I live right across the street from a grocery store = J'ai de la chance car j'habite juste en face d'un supermarché
+
+pratiqué = practiced
+I don't usually have guests = Je n'ai pas souvent des invités
+2 fois = twice
+4 fois = four times
+It's about = C'est environ
+It's about a universe with aliens = C'est environ un univers avec des extraterrestres
+It's the same here = C'est pareil ici
+When do you use the word bouqiner? = Quand utilisez-vous le mot bouqiner?
+
+habitez puet-être= maybe live
+puet-être = maybe
+Sinon je vois mardi = Otherwise I see you on Tuesday
