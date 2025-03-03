@@ -15,6 +15,44 @@
 
 <!-- tocstop -->
 
+## Introduction
+
+> This section needs to be updated and double checked
+
+French has about 18 tenses/moods.
+The most used tenses are:
+
+1. Simple tense
+   - Présent
+   - Imperfect (Imparfait)
+   - Future (Futur simple)
+   - Conditional
+   - Subjunctive
+   - Imperative
+2. Compound tense
+   - Present perfect (Passé composé)
+   - Pluperfect
+   - Future perfect
+   - Past Conditional
+
+### The Past
+
+2 Tenses are most commonly used to talk about the past:
+
+1. Passé Composé (Present Perfect) See section [Passé Composé](#passe-compose)
+   - Names Past actions that occurred.
+   - Hier nous sommes allés au cinéma = Yesterday we went to the cinema
+
+### The future
+
+### The conditional
+
+### The Subjective
+
+### The imperative
+
+### Compound tenses
+
 ## Présent (Simple Present)
 
 > [Link](https://francais.lingolia.com/en/grammar/tenses/le-present)
@@ -309,3 +347,16 @@ The verb avoir is regular in the imperfect; only être has an irregular conjugat
     - Ex: Pendant quíl `regardait` la recette, Florence `préparait` la pâte. = While he was looking at the recipe, Florence was preparing the dough.
 5.  To emphasize the duration of an action
     - Ex: Ils `cuisinaient` le gâteau puis `mangeaient` une part au dessert. = They cooked the cake and then ate a piece for dessert.
+
+## Future Immediate
+
+Aller conjugué au présent = je vais...
+
+- infinitif
+
+Je vais manger = I am going to eat
+Tu vas manger = You are going to eat
+Il va manger = He is going to eat
+Nous allons manger = We are going to eat
+Vous allez manger = You are going to eat
+Ils vont manger = They are going to eat

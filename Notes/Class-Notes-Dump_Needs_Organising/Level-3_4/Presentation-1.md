@@ -392,10 +392,12 @@ I feel I made progress = Je sens que j'ai progressé. (Tense = Présent)
 4. Il faisait partie de l'Inde britannique jusqu'en 1947. = It was part of British India until 1947. (Tense = Imparfait)
    - faisait = was doing
    - once again why not est
-5. Then it was part of pakistan until 1971 = Donc, il faisait partie du Pakistan jusqu'en 1971. (Tense = Imparfait)
+5. Ensuite, il faisait partie du Pakistan jusqu'en 1971. (Tense = Imparfait)
+   - So, it was part of Pakistan until 1971.
    - faisait = was doing
    - until = jusqu'à
    - 1971 = 1971
+   - Then
 6. En 1947, l'Inde a été divisée en deux pays, l'Inde et le Pakistan. = In 1947, India was divided into two countries, India and Pakistan. (Tense = Passé Composé)
 7. Le Pakistan était composé de deux parties, l'ouest et l'est. = Pakistan was made up of two parts, the west and the east. (Tense = Imparfait)
 8. Les deux côtés avaient beaucoup de différences (Tense = Présent)
@@ -427,6 +429,7 @@ I feel I made progress = Je sens que j'ai progressé. (Tense = Présent)
   - jeune = young
 - La densité de population est très élevée = The population density is very high. (Tense = Présent)
 - C'est l'un des plus élevés au monde. = It is one of the highest in the world. (Tense = Présent)
+- La superficie du Bangladesh est de 148 460 kilomètres carrés. (Tense = Présent)
 - La majorité de la population est ethniquement bengali. = The majority of the population is ethnically Bengali. (Tense = Présent)
 - Mais il y a aussi de nombreuses communautés autochtones. = But there are also many indigenous communities. (Tense = Présent)
 - Par exemple, les Chakma, Marma, Garo, et beaucoup d'autres. (Tense = Présent) = For example, the Chakma, Marma, Garo, and many others =
@@ -448,8 +451,18 @@ I feel I made progress = Je sens que j'ai progressé. (Tense = Présent)
    - It is also the main port of the country.
 7. La langue officielle du Bangladesh est le bengali. (Tense = Présent)
    - The official language of Bangladesh is Bengali.
+8. Mais il y a aussi de nombreuses autres langues parlées par les communautés autochtones
+
+- But there are also many other languages spoken by indigenous communities
+
 8. La monnaie du Bangladesh est le taka. (Tense = Présent)
    - The currency of Bangladesh is the taka.
+9. Flag of Bangladesh = Drapeau du Bangladesh
+10. Green Background = Fond vert
+    - symbolizes the lush green landscape of the country = symbolise le paysage vert luxuriant du pays
+    - paysage = landscape
+    - Red Circle = Cercle rouge
+    - represents the martyrs of the liberation war = représente les martyrs de la guerre de libération
 
 ### Slide 5 - Geographie
 
@@ -502,7 +515,9 @@ I feel I made progress = Je sens que j'ai progressé. (Tense = Présent)
 - et de nombreuses autres espèces de flore et de faune. (Tense = Présent)
   - and many other species of flora and fauna.
 - Il a une grande biodiversité. (Tense = Présent)
-  and many other species of flora and fauna
+  - It has a great biodiversity
+- Vous pouvez réserver une croisière en bateau pour voir la faune. (Tense = Présent)
+  - You can book a boat cruise to see the wildlife
 - C'est également un site du patrimoine mondial de l'UNESCO. (Tense = Présent)
   - It is also a UNESCO World Heritage Site
 
@@ -530,6 +545,8 @@ I feel I made progress = Je sens que j'ai progressé. (Tense = Présent)
   - connue = known
   - jardins de thé = tea gardens
 
+- Also home to many indigenous communities = Également la maison de nombreuses communautés autochtones. (Tense = Présent)
+
 ### Slide 10 - Geographie - Rajshahi
 
 - La région nord de Rajsahi est connue pour ses jardins de fruits, en particulier les mangues, les litchis et les jacquier. (Tense = Présent)
@@ -537,6 +554,8 @@ I feel I made progress = Je sens que j'ai progressé. (Tense = Présent)
 - I had to google it = J'ai dû le googler
 
 ### Slide 11 - Climat et Saisons
+
+- Now lets talk about the climate and seasons of Bangladesh = Maintenant, parlons du climat et des saisons du Bangladesh. (Tense = Présent)
 
 - Officiellement, le Bangladesh a six saisons. = Officially, Bangladesh has six seasons. (Tense = Présent)
 - Été, Mousson, Automne, Fin de l'automne, Hiver, Printemps = Summer, Monsoon, Autumn, Late Autumn, Winter, Spring (Tense = Présent)
@@ -596,12 +615,16 @@ I feel I made progress = Je sens que j'ai progressé. (Tense = Présent)
     - During monsoons there are boat races in the villages called Nouka Baich
   - À la fin de l'automne, il y a Shakrain, un festival de cerf-volant
     - In late autumn, there is Shakrain, a kite flying festival
+    - popular in old dhaka, my mom's hometown = populaire dans le vieux Dhaka, la ville natale de ma mère
+    - also where I spent a lot of my childhood = aussi où j'ai passé une grande partie de mon enfance
   - En hiver, il y a Pitha Utshob, un festival de gâteaux traditionnels
     - In winter, there is Pitha Utshob, a festival of traditional cakes
   - En printemps, il y a le Pohela Falgun.
     - In spring, there is Pohela Falgun.
   - Tout le monde porte des couleurs vives comme le jaune, le rouge et l'orange
     - Everyone wears bright colors like yellow, red, and orange
+  - La musique, la danse et la nourriture sont une partie importante de ces festivals
+    - Music, dance, and food are an important part of these festivals
 
 | English                                     | French                                              |
 | ------------------------------------------- | --------------------------------------------------- |
@@ -617,7 +640,25 @@ I feel I made progress = Je sens que j'ai progressé. (Tense = Présent)
 | Boat Race in the Monsoon                    | Course de bateaux pendant la mousson                |
 | Kite Flying Festival                        | Festival de cerf-volant                             |
 
-### Slide 15 - Cuisine et Gastronomie
+### Slide 15 - Culture et Festivals
+
+- La tenue culturelle/vêtements traditionnels pour les femmes est le Sari et le Salwar
+  - tenue = attire
+- Pour les hommes, c'est le Panjabi et le Lungi
+  - Le panjabi est souvent appelé Kurta dans d'autres parties de l'Asie du Sud
+  - Le lungi est une longue jupe pour les hommes = Lungi is a long skirt for men
+    - jupe = skirt
+- Chaque communauté autochtone a sa propre tenue traditionnelle/vêtements traditionnels
+  - propre = own
+- Rickshaws et autorickshaws sont un mode de transport commun et populaire
+- Le cricket et le football sont les sports les plus populaires
+- Un sport local appelé Ha-du-du est également très populaire et est le sport national du Bangladesh
+  - A local sport called Ha-du-du is also very popular and is the national sport of Bangladesh
+  - In other countries its called Kabaddi = Dans d'autres pays, on l'appelle Kabaddi
+- Our womens teams is better at football then the mens team
+  - Notre équipe féminine est meilleure au football que l'équipe masculine
+
+### Slide 16 - Cuisine et Gastronomie
 
 - Parlons maintenant de la cuisine du Bangladesh. = Let's talk about the cuisine of Bangladesh now. (Tense = Présent)
 - The cuisine of Bangladesh is very delicious = La cuisine du Bangladesh est très délicieuse
@@ -657,7 +698,7 @@ There is Kacchi Biryani = Il y a du Kacchi Biryani
    - It is served cold and is very refreshing = Il est servi froid et est très rafraîchissant
    - It is my favorite drink = C'est ma boisson préférée
 
-### Slide 16 - Economie
+### Slide 17 - Economie
 
 - Parlons maintenant de l'économie du Bangladesh. = Let's talk about the economy of Bangladesh now. (Tense = Présent)
 
@@ -686,7 +727,7 @@ Hilsa Fish is a local specialty = Le poisson Hilsa est une spécialité locale
 Textile Industry = Industrie textile
 Shipbreaking Industry = Industrie de démantèlement de navires
 
-### Site 17 to 19 Sites of Interest = Sites d'intérêt
+### Site 18 to 20 Sites of Interest = Sites d'intérêt
 
 - Enfin, regardons quelques-uns des monuments historiques et sites d'intérêt au Bangladesh
   - Finally let's look at some of the historical monuments and sites of interest in Bangladesh
@@ -720,3 +761,59 @@ Church orignially built by the Portuguese community of Chittagong in the 15th Ce
 Lalbagh Fort - Constructed in 1678 = Fort Lalbagh - Construit en 1678
 60 Dome Mosque - Constructed in the 15th Century = Mosquée aux 60 dômes - Construite au 15ème siècle
 Anderkilla Shahi Jame Mosque - Constructed in 1667 = Mosquée Anderkilla Shahi Jame - Construite en 1667
+
+They loss all their money on hotels accomadation = Ils ont perdu tout leur argent sur les hébergements d'hôtels
+
+Is it safe to travel to Bangladesh = Est-il sûr de voyager au Bangladesh
+Yes, it is mostly safe for tourists = Oui, c'est généralement sûr pour les touristes
+People are nice and welcoming = Les gens sont gentils et accueillants
+But it also depends on where you go = Mais cela dépend aussi de l'endroit où vous allez
+and where you stay = et où vous restez
+I would not go to remote places withour proper guidance = Je ne me rendrais pas dans des endroits reculés sans un bon guide
+But the main cities and tourist spots are safe = Mais les grandes villes et les sites touristiques sont sûrs
+I would not go to remote places after dark = Je ne me rendrais pas dans des endroits reculés après la tombée de la nuit
+
+Education system has both English and Bengali versions = Le système éducatif a des versions anglaises et bengalies
+It is based on the British system = Il est basé sur le système britannique
+because it was a British colony = parce que c'était une colonie britannique
+There are growing number of schools teaching arabaic = Il y a un nombre croissant d'écoles enseignant l'arabe
+Because a lot of people go to the middle east for work = Parce que beaucoup de gens vont au Moyen-Orient pour travailler
+which is relatively new = ce qui est relativement nouveau
+There are also many madrasas = Il y a aussi de nombreuses madrasas
+which are religious schools = qui sont des écoles religieuses
+Some of which can lead to extremism = Certaines d'entre elles peuvent mener à l'extrémisme
+Overall the system is not very good = Dans l'ensemble, le système n'est pas très bon
+
+Education is very privatised = L'éducation est très privatisée
+It's a shame we do not have a good public education system for all = C'est dommage que nous n'ayons pas un bon système d'éducation publique pour tous
+
+Lots of things compressed in a small country = Beaucoup de choses compressées dans un petit pays
+
+Is saffron expensive in Iran = Le safran est-il cher en Iran
+
+Do you have to learn all 50000 characters in Chinese in school = Qu'est-ce que tu dois apprendre les 50000 caractères chinois à l'école?
+That sounds very difficult = Cela semble très difficile?
+Thank you for the presentaion = Merci pour la présentation
+
+It depends on the moon = Cela dépend de la lune
+It's not been determined yet = Ce n'est pas encore déterminé
+
+The a sound is often replaced with an o sound = Le son a est souvent remplacé par un son o
+
+I would say south asia is comparable to europe = Je dirais que l'Asie du Sud est comparable à l'Europe
+In terms of diversity = En termes de diversité
+While a lot of the cultures are similar in the region = Bien que beaucoup de cultures soient similaires dans la région
+There are also many differences = Il y a aussi de nombreuses différences
+While the food is similar = Bien que la nourriture soit similaire
+But if you compare they are actually quite different = Mais si vous comparez, ils sont en fait assez différents
+For example Biryani in different regionts can taste very different = Par exemple, le biryani dans différentes régions peut avoir un goût très différent
+Even things which are similar can be quite different = Même des choses qui sont similaires peuvent être très différentes
+I forgot the name of the ... = J'ai oublié le nom de ...
+
+What is your favorite band and tv show = Quel est ton groupe préféré et ton émission de télévision préférée
+Britain has a lot of great artists and tvs shows = La Grande-Bretagne a beaucoup d'artistes et d'émissions de télévision formidables
+selon = according to
+
+Ex: Ton avion sera en retard de trois de
+
+Ex: Ton avion sera en retard de trois de trois heures mais, situ achetais un billet avec Air France, ton avion se seriat pas en retard = You

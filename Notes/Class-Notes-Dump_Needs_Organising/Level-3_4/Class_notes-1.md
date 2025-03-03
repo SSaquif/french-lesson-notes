@@ -2051,3 +2051,1007 @@ When do you use the word bouqiner? = Quand utilisez-vous le mot bouqiner?
 habitez puet-être= maybe live
 puet-être = maybe
 Sinon je vois mardi = Otherwise I see you on Tuesday
+
+## 18 Février 2025 (Mardi)
+
+1. Est-ce qu'il y a un chien dans le restaurant? = Is there a dog in the restaurant?
+   Non, il y a un chien entre la deux voitures = No, there is a dog between the two cars
+
+1. Quést quíl y a derrière la porte? = What's behind the door?
+   Il y a un chat derrière la porte = There is a cat behind the door
+1. Est-ce qu'il y a un policier sur l'arbre? = Is there a policeman on the tree?
+   Non, il y a un oiseau sur l'arbre = No, there is a bird on the tree
+1. Oùe est-ce quíl ya un autobus? = Where is there a bus?
+   Il y a un autobus devant la maison = There is a bus in front of the house
+   Il n'y a pas d'autobus
+   Est-ce qu'il y a un téléphone dans la rue? = Is there a phone in the street?
+   Oui, il y a un téléphone dans la rue = Yes, there is a phone in the street
+   Qu'est-ce qu'il y a entre les maisons? = What's between the houses?
+
+about what = à propos de quoi
+
+quel ton métier? = what is your job?
+I am a software engineer = Je suis ingénieur logiciel
+But right now I am not working = Mais en ce moment je ne travaille pas
+I used work in Montreal = Je travaillais à Montréal
+
+Do you like the canadaian winter or the weather in sri lanka = Aimez-vous l'hiver canadien ou le temps au Sri Lanka?
+
+What do do for fun = Qu'est-ce que tu fais pour t'amuser?
+I like to watch movies = J'aime regarder des films
+I like to swim and run = J'aime nager et courir
+I like to play video games = J'aime jouer à des jeux vidéo
+
+How are you liking you french classes = Comment trouvez-vous vos cours de français?
+trouvez = find
+
+aliments = food
+I like all kinds of food = J'aime toutes sortes de nourriture
+
+I dont have any pets right now = Je n'ai pas d'animaux de compagnie en ce moment
+But I was dog sittinf for my friend until last december = Mais je gardais le chien de mon ami jusqu'en décembre dernier
+
+I don't mind the winter too much = L'hiver ne me dérange pas trop
+
+I am learning french because I always wanted to learn it. = J'apprends le français parce que j'ai toujours voulu l'apprendre
+And someday I might move back to Quebec = Et un jour je pourrais retourner au Québec
+
+sometimes with my friends = parfois avec mes amis
+
+I work around the house = Je travaille autour de la maison
+I am working on some side projects = Je travaille sur quelques projets secondaires
+And studying for some software certifications = Et étudier pour certaines certifications logicielles
+
+ventès de maison = house sales
+but I am not good at it = mais je ne suis pas bon
+quel est ton domaine de travail? = what is your field of work?
+
+I try to practice french every day = J'essaie de pratiquer le français tous les jours
+but I dont have a lot of french speaking friends = mais je n'ai pas beaucoup d'amis qui parlent français
+I live with two roommates = Je vis avec deux colocataires
+I was a student but I graduated
+When I was a kid = Quand j'étais enfant
+My favorite color was red = Ma couleur préférée était le rouge
+I studied at McGill University = J'ai étudié à l'Université McGill
+everyone speaks english in Montreal = tout le monde parle anglais à Montréal
+
+## 19 Février 2025 (Mercredi)
+
+Mise en situation = Setting the scene
+tempête = storm
+apercevez = catch sight of
+une île = an island
+water bottle = bouteille d'eau
+lighter = briquet
+
+Mise en situation
+sur un bateau
+coule
+Une tempête
+au loin
+
+apercevez
+une île
+200 mètres
+nager
+apporter avec vous
+5 objets
+survivre
+
+Imperméabel
+imperméable
+
+Situation:
+
+- Vous êtes sur un bateau quand vous vous retrouvez pris dans une tempête. = You are on a boat when you find yourself caught in a storm.
+- Votre bateau commencer à couler. = Your boat starts to sink.
+- Heureusement, vous apercevez une petite île à environ 200 mètres de votre bateau. = Luckily, you catch sight of a small island about 200 meters from your boat.
+- Vous avez le temps de prendre quelques objets avec et de nager jusqu'à l'île. = You have time to grab a few items and swim to the island.
+
+Voici les objets qui sont sur votre bateau: = Here are the items that are on your boat:
+
+1. Un fusil avec 5 balles = A gun with 5 bullets
+2. Un roman = A novel
+3. Une boîte d'allumettes = A box of matches
+4. Une scie = A saw
+5. Une canne à pêche = A fishing rod
+6. Une corde = A rope
+7. Une Pelle = A shovel
+8. Une lampe de poche = A flashlight
+9. Une carte = A map
+10. Une bouteille d'eau = A water bottle
+
+It depends on the island = Cela dépend de l'île
+I would take = Je prendrais
+But it only has 5 bullets = Mais il n'a que 5 balles
+I think I would take the water bottle, box of matches, fishing rod, saw, and the gun with =
+= Je pense que je prendrais la bouteille d'eau, la boîte d'allumettes, la canne à pêche, la scie et le fusil avec
+To make a shelter = Pour construire un abri
+To catch fish = Pour attraper du poisson
+To cut wood = Pour couper du bois
+To protect myself = Pour me protéger
+To signal for help = Pour demander de l'aide
+To make a fire = Pour faire un feu
+To stay hydrated = Pour rester hydraté
+To read = Pour lire
+To dig = Pour creuser
+To see in the dark = Pour voir dans le noir
+To find my way = Pour trouver mon chemin
+To defend myself = Pour me défendre
+To hunt = Pour chasser
+To build a raft = Pour construire un radeau
+To collect water = Pour collecter de l'eau
+To repair the boat = Pour réparer le bateau
+to make a raft = pour faire un radeau
+I would start a fire and keep it alive = Je commence un feu et le garde en vie
+If we take matches and saw we dont need flashlight = Si nous prenons des allumettes et une scie, nous n'avons pas besoin de lampe de poche
+a
+à ajouter = to add
+
+I wear a mask = Je porte un masque
+
+## 20 Février 2025 (Jeudi)
+
+I will let you know = Je vous ferai savoir
+I will tell you = Je vous dirai
+
+I went for a run = Je suis allé courir
+I usually go for a run = Je vais généralement courir
+But it's been too cold recently = Mais il a fait trop froid récemment
+But I think next week it's going to be warmer = Mais je pense que la semaine prochaine il fera plus chaud
+
+I have always wanted to see the Amazon rainforest = J'ai toujours voulu voir la forêt amazonienne
+
+- toujour = always
+- voulu = wanted
+- voir = to see
+- la forêt amazonienne = the Amazon rainforest
+  Are there and good tourist spots in your country? = Y a-t-il de bons endroits touristiques dans votre pays?
+  Is ist safe to travel there? = Est-il sûr de voyager là-bas?
+  Can you travel there in Bolivia? = Pouvez-vous voyager là-bas en Bolivie?
+  Are there tours to the Amazon rainforest? = Y a-t-il des visites de la forêt amazonienne?
+  Very nice animation = Très belle animation
+  I liked the animation = J'ai aimé l'animation
+  I had the sam question as hanna = J'avais la même question qu'Hanna
+  I am organising my notes = J'organise mes notes
+  I am taking this oppurtunity to organize my notes = Je profite de cette occasion pour organiser mes notes
+  I will find my way home = Je trouverai mon chemin pour rentrer chez moi
+  chemin = way
+  The ancients gods have a lot of similarities = Les anciens dieux ont beaucoup de similitudes
+  I am not sure = Je ne suis pas sûr
+
+### Voyages
+
+[Voayges.pdf](../../../Resources/Level-3_4/2025-02-18-Voyages.pdf)
+Il y a des personnes qui disent que voyager est un luxe = There are people who say that traveling is a luxury
+disent = say
+luxe = luxury
+Elles vous diront = They will tell you
+Diront = Will say
+de nos jours = nowadays
+Il es possible de voyager sans se ruiner = It is possible to travel without breaking the bank
+sans se ruiner = without breaking the bank
+ruiner = ruin
+is it an expression? = est-ce une expression?
+What is the meaning of the word "ruiner"? = Quelle est la signification du mot "ruiner"?
+It does not feel like a complete sentence = Cela ne semble pas être une phrase complète
+Ruin what? = Ruiner quoi?
+We are talking about the importance of traveling = Nous parlons de l'importance de voyager
+How traveliing is good
+And that nowadays it is possible to travel without breaking the bank = Et qu'aujourd'hui il est possible de voyager sans se ruiner
+They are offering how to travel on a budget = Ils proposent comment voyager avec un budget
+
+d'épargner = to save
+dépenser = to spend
+
+Dans le premier paragraphe, il ya cinq verbes qui sont conjugués au conditionnel présent. Nommez ces verbes à l'infinitif = In the first paragraph, there are five verbs that are conjugated in the present conditional. Name these verbs in the infinitive.
+
+| present conditional | infinitive |
+| ------------------- | ---------- |
+| devrais             | devoir     |
+| pourrais            | pouvoir    |
+| serais              | être       |
+| apprendrais         | apprendre  |
+| reposerais          | reposer    |
+
+Quel verbe signifie qu'une personne perd tout son argent? = What verb means that a person loses all their money?
+Ruiner = Ruin
+
+## 21 Février 2025 (Vendredi)
+
+### Adjectives
+
+#### Exercice 2
+
+[Adjectives.pdf](../../../Resources/Level-3_4/2025-02-18-Adjectifs%202.pdf)
+
+| Mots    | Masculin | Féminin  |
+| ------- | -------- | -------- |
+| beau    | bel      | belle    |
+| nouveau | nouvel   | nouvelle |
+| vieux   | vieil    | vieille  |
+
+Les adjectifs beau, noveau et vieux qui se placent tous avant, ont ne autre forme au masculin singulier : `bel, nouvel, vieil`. Cette forme est employé devant un nom débutant par une voyelle ou h muet. = The adjectives `beau, nouveau and vieux` which all come before, have another form in the singular masculine: `bel, nouvel, vieil`. This form is used before a noun beginning with a vowel or a silent h.
+
+(nouveau) un _ état = a new state = un nouvel état
+(nouveau) un _ journal = a new newspaper = un nouveau journal
+(nouveau) un _ village = a new village = un nouveau village
+(nouveau) une _ vile = a new city = une nouvelle ville
+
+what is étoile and orgue et écharpe = Qu'est-ce que étoile et orgue et écharpe
+étoile = star
+orgue = organ
+
+### Pot pourri
+
+[Adjectives.pdf](../../../Resources/Level-3_4/2025-02-18-Adjectifs.pdf)
+
+Pot-pourri = potpourri
+Meaning = Mélange de choses diverses = Mixture of various things'
+Pot-pourri qui signifie mélange de choses diverses = Potpourri which means a mixture of various things
+Le expression est utilisée en Anglais aussi = The expression is used in English too
+
+A l'aide des adjectifs de la colonne du millieu et de celle de droite, décrivez les éléments de la colonne de gauche = Using the adjectives from the middle column and the right column, describe the elements of the left column
+
+| Mots              | Adjectif 1        | Meaning      | Adjectif 2                | Meaning     |
+| ----------------- | ----------------- | ------------ | ------------------------- | ----------- |
+| le ciel           | rouge             | red          | sec,seche                 | dry         |
+| La farine         | blanc, blanche    | white        | transparent, transparente | transparent |
+| le soleil         | gris, grise       | gray         | sombre                    | dark        |
+| le lait           | noir, noire       | black        | clair, claire             | light       |
+| Le chocolat       | orange\*          | orange       | long, longue              | long        |
+| Le café           | jaune             | yellow       | mou, molle                | soft        |
+| Le nuages (m)     | vert, verte       | green        | bon, bonne                | good        |
+| Le pingouin       | brun, brune       | brown        | dur, dure                 | hard        |
+| Le pomme          | violet, violette  | purple       | chaud, chaude             | hot         |
+| Le perroquet      | bleu, bleue       | blue         | froid, froide             | cold        |
+| le tigre          | doré, dorée       | golden       | dangereux, dangereuse     | dangerous   |
+| Les papillons (m) | argenté, argentée | silver       | joli, jolie               | pretty      |
+| L'eau             | Multicolore       | Multicolored | sucré, sucrée             | sweet       |
+| Les marguerites   |                   |              | Doux, douce               | Soft        |
+| La Lune           |                   |              |                           |             |
+
+- adjectif invariable = invariable adjective
+
+Le tigre est dangereux = The tiger is dangerous
+Le tigre est doré et noir = The tiger is golden and black
+Le tigre est multicolore et joli = The tiger is multicolored and pretty
+meet up with friends = rencontrer des amis
+
+## 24 Fevrier 2025 (lundi)
+
+I missed my alarm = J'ai raté mon réveil
+I woke up late = Je me suis réveillé en
+When I lived in Montreal = Quand j'habitais à Montréal
+I used to bike to work in the summer = Je faisais du vélo pour aller au travail en été
+Se deplace en bicyclette est une activité = Biking is an activity
+Faire de la bicyclette est une activité = Biking is an activity
+Cela ne courê pas cher de voyager en bicyclette = It doesn't cost much to travel by bike
+In Montreal you can rent a BIXI = À Montréal, vous pouvez louer un BIXI
+I used to rent BIXIs = Je louais des BIXIs
+In Ottawa I dont have a bike = À Ottawa, je n'ai pas de vélo
+I might buy one in the summer = J'en achèterai peut-être un en été
+I have not decided yet = Je n'ai pas encore décidé
+Why doesn't it end with an e = Pourquoi cela ne se termine-t-il pas par un e
+
+What is plancheur? = Qu'est-ce que plancheur?
+
+Dans l'encadré figure une série d'adjectifs. qui décrivent différents métiers. Trouvez trois adjectifs par métier, en vous inspirant de ci-dessous. = The box contains a series of adjectives. that describe different professions. Find three adjectives per profession, inspired by below.
+
+fatigant = tiring
+stressant = stressful
+intéressant = interesting
+dangereux = dangerous
+difficile = difficult
+ennuyant = boring
+exigeant = demanding
+créatif = creative
+relaxant = relaxing
+facile = easy
+passionnant = exciting
+amusant = fun
+déprimant = depressing
+valorisant = rewarding
+
+plangeur = divers = C'est un peu dangereux = It's a bit dangerous
+psychologue = psychologist =
+
+- C'est un peu stressant = It's a bit stressful
+- C'est beaucoup intéressant = It's very interesting
+- C'est un peu fatigant = It's a bit tiring
+
+juge = judge =
+
+- C'est beaucoup exigeant = It's very demanding
+- C'est un peu stressant = It's a bit stressful
+- C'est beaucoup intéressant = It's very interesting
+
+serveur = waiter
+
+- C'est un peu fatigant = It's a bit tiring
+- C'est un peu stressant = It's a bit stressful
+- C'est un peu ennuyant = It's a bit boring
+
+policière = police officer
+
+- C'est un peu dangereux = It's a bit dangerous
+- C'est beaucoup exigeant = It's very demanding
+- C'est un peu stressant = It's a bit stressful
+
+agent de bord = flight attendant =
+
+- C'est un peu fatigant = It's a bit tiring
+- C'est un peu stressant = It's a bit stressful
+- C'est un peu ennuyant = It's a bit boring
+
+mannquin = model
+
+- C'est un peu passionnant = It's a bit exciting
+- C'est beaucoup amusan = It's a lot of fun
+- C'est beaucoup créatif = It's very creative
+
+photographe = photographer
+
+- C'est beaucoup créatif = It's very creative
+- C'est tres valorisant = It's very rewarding
+- C'est beaucoup amusant = It's a lot of fun
+
+moniteur de ski = ski instructor
+
+- C'est beaucoup amusant = It's a lot of fun
+- C'est un peu dangereux = It's a bit dangerous
+- C'est un peu fatigant = It's a bit tiring
+
+chanteur = singer
+
+- C'est très valorisant = It's very rewarding
+- C'est beaucoup amusant = It's a lot of fun
+- C'est un peu fatigant = It's a bit tiring
+
+ingénieur logiciel = software engineer
+
+- C'est beaucoup intéressant = It's very interesting
+- C'est beaucoup créatif = It's very creative
+- C'est un peu fatigant = It's a bit tiring
+- C'est un peu stressant = It's a bit stressful
+- C'est un peu amusant = It's a bit fun
+- It's a lot of typing on the computer = C'est beaucoup de frappe sur l'ordinateur
+- It can be = Cela peut être
+- It can be a bit boring = Cela peut être un peu ennuyant
+- It can be a creative job = Cela peut être un travail créatif
+- It cab be both interesting and boring = Cela peut être à la fois intéressant et ennuyant
+- I am also looking for a new job = Je cherche aussi un nouvel emploi
+- I am taking a break = Je fais une pause
+- it should be = cela devrait être
+- i have canadaian degree = j'ai un diplôme canadien
+- I also have canadian experience = J'ai aussi de l'expérience canadienne
+
+Trouvez le féminin des métiers'ci-dessous. = Find the feminine of the professions below.
+
+| Lui = He      | Elle = She     |
+| ------------- | -------------- |
+| psychologue   | psychologue    |
+| agent de bord | agente de bord |
+| mannequin     | mannequin      |
+| serveur       | serveuse       |
+| policier      | policière      |
+| professeur    | professeure    |
+| écrivain      | écrivaine      |
+| mécanicien    | mécanicienne   |
+| décorateur    | décoratrice    |
+| juge          | juge           |
+
+Un peu, beaucoup, pas assez, pas du tout = A little, a lot, not enough, not at all
+
+Complétez le tableau ci-dessous. Pour chaque adjectif au masculin, mettez-le au féminin singulier, au masculin pluriel et au féminin pluriel. Inspirez-vous de l'exemple. = Complete the table below. For each adjective in the masculine, put it in the singular feminine, in the plural masculine and in the plural feminine. Take inspiration from the example.
+
+Adjectifs = Adjectives
+
+| Masculin    | Féminin      | Masculin Pluriel | Féminin Pluriel | Meaning     |
+| ----------- | ------------ | ---------------- | --------------- | ----------- |
+| droit       | droite       | droits           | droites         | right       |
+| sympathique | sympathique  | sympathiques     | sympathiques    | nice        |
+| beau        | belle        | beaux            | belles          | beautiful   |
+| ennuyant    | ennuyante    | ennuyants        | ennuyantes      | boring      |
+| exigeant    | exigeante    | exigeants        | exigeantes      | demanding   |
+| gentil      | gentille     | gentils          | gentilles       | kind        |
+| bon         | bonne        | bons             | bonnes          | good        |
+| intéressant | intéressante | intéressants     | intéressantes   | interesting |
+| facile      | facile       | faciles          | faciles         | easy        |
+| tranquille  | tranquille   | tranquilles      | tranquilles     | quiet       |
+| bruyant     | bruyante     | bruyants         | bruyantes       | noisy       |
+| mauvais     | mauvaise     | mauvais          | mauvaises       | bad         |
+| performant  | performante  | performants      | performantes    | efficient   |
+| chouette    | chouette     | chouettes        | chouettes       | cool/nice   |
+| sympa       | sympa        | sympas           | sympas          | cool/nice   |
+| laid        | laide        | laids            | laides          | ugly        |
+| froid       | froide       | froids           | froides         | cold        |
+| fort        | forte        | forts            | fortes          | strong      |
+| désagréable | désagréable  | désagréables     | désagréables    | unpleasant  |
+| moche       | moche        | moches           | moches          | ugly        |
+| mignon      | mignonne     | mignons          | mignonnes       | cute        |
+| intelligent | intelligente | intelligents     | intelligentes   | intelligent |
+| mince       | mince        | minces           | minces          | thin/skinny |
+| pauvre      | pauvre       | pauvres          | pauvres         | poor (pity) |
+
+Whe do you use the word "mignon"? = Quand utilisez-vous le mot "mignon"?
+owl = chouette
+The french really likes owls = Les français aiment vraiment les chouettes
+It seems the french really likes owls = Il semble que les français aiment vraiment les chouettes
+Mondays my energy is low = Les lundis mon énergie est basse
+But after class I will go for a run = Mais après les cours je vais courir
+It's a warm winter day today = C'est une journée d'hiver chaude aujourd'hui
+I don't want to waste it = Je ne veux pas la gaspiller
+sympa = nice
+I need a few more minutes = J'ai besoin de quelques minutes de plus
+
+Il est beau, grand et mince = He is handsome, tall and thin
+Rst-ce qu il est vieux? = Is he old?
+Non, il est jeune et très dynamique = No, he is young and very dynamic
+De quelle couleur sont ses cheveux? = What color is his hair?
+Ils sont chatains roux. Et toi, comment est ton mari? = They are reddish brown. And you, what is your husband like?
+Mon mari Robert? Et bien, il n'est pas jeune. Ses cheveux sont gris et rarement coiffés. Il est petit et très maigre. Il a une moustache et une barbe poivre et sel. Il porte de lunettes rondes. Le parfait intellectuel, tu vois. = My husband Robert? Well, he is not young. His hair is gray and rarely combed. He is short and very thin. He has a salt and pepper mustache and beard. He wears round glasses. The perfect intellectual, you see.
+
+un petit ruisseau caché, délicieux et ombragé = a small hidden, delicious and shaded stream
+une petite source cachée, délicieuse et ombragée = a small hidden, delicious and shaded source
+
+It's pour old women = C'est une pauvre vieille femme
+
+## 25 Février 2025 (Mardi)
+
+### Adjecitfs
+
+Projets de rénovation = Renovation projects
+
+En équipes, décrivez chacune de pièces avant et après la rénovation. = In teams, describe each of the rooms before and after the renovation.
+Utilisez, entre autres, les adjectifs, les verbes et les verbes et le mots de vocabulaire que vous toruveraz au bas de lage page 3 = Use, among other things, the adjectives, verbs and verbs and the vocabulary words that you will find at the bottom of page 3.
+
+Avant = Before
+Après = After
+
+la façade de la maison = the front of the house
+
+- In the kitchen = Dans la cuisine
+- Before the renovation = Avant la rénovation
+- There was a lot of damage = Il y avait beaucoup de dégâts
+- The cuboards and the window were broken = Les placards et la fenêtre étaient cassés
+- They have now been replaced = Ils ont maintenant été remplacés
+- New curtains were also bought = De nouveaux rideaux ont également été achetés
+
+- The stove was defected = La cuisinière était défectueuse
+- It has been replaced = Elle a été remplacée
+
+- We repaired the water leaks = Nous avons réparé les fuites d'eau
+
+- The fridge was old = Le réfrigérateur était vieux
+- A new fridge has been installed = Un nouveau réfrigérateur a été installé
+- before the walls were damaged = avant les murs étaient endommagés
+- the walls were painted = les murs ont été peints
+- We repainted the walls = Nous avons repeint les murs
+- a new beautiful kitchen island was installed = un nouvel îlot de cuisine magnifique a été
+- We installed a new beautiful kitchen island = Nous avons installé un nouvel îlot de cuisine magnifique
+- We added a new fence and put some bushes in the front = Nous avons ajouté une nouvelle clôture et mis des buissons à l'avant
+- We added some plants to the house as well = Nous avons ajouté des plantes à la maison également
+- the pipes were broken = les tuyaux étaient cassés
+- I fixed the water leaks = J'ai réparé les fuites d'eau
+- Now it looks very cosy = Maintenant, cela a l'air très confortable
+- Cooking here is a pleasure = Cuisiner ici est un plaisir
+- gas leak = fuite de gaz
+
+- I repaired the roof = J'ai réparé le toit
+
+- Before the renovation = Avant la rénovation
+- the bedroom was old = la chambre était vieille
+
+- We threw out the old pictures = Nous avons jeté les vieilles photos
+- We repainted the walls = Nous avons repeint les murs
+
+- We installed new curtains = Nous avons installé de nouveaux rideaux
+- We bought a new rug = Nous avons acheté un nouveau tapis
+- We changed the old lamps = Nous avons changé les vieilles lampes
+- We bought a beautiful new armoire = Nous avons acheté une belle nouvelle armoire
+- we added a new ajouté = Nous avons ajouté un nouveau
+- façade = front
+- the front was badly damaged = le devant était gravement endommagé
+- we also added some new plants = nous avons également ajouté de nouvelles plantes
+
+bushes = buissons
+
+ajouter = to add
+grille pain = toaster
+
+installé
+brisé = broken
+plancher = floor
+pomme de douche = shower head
+rideaux = curtains
+robinet = faucet
+carrelage = tiling
+endomamagé = damaged
+verb été = been conjugation of être
+verb a été = has been conjugation of avoir
+carrelage = tiling
+
+waterfalls = chutes d'eau
+The name comes from the rideau waterfall = Le nom vient de la chute de rideau
+rideau river = rivière rideau
+rideau canal = canal rideau
+
+adjectif ordinal = ordinal adjective
+selon =
+
+placez le adjecitfs avant ou après le nom = place the adjectives before or after the noun
+I confused myself = Je me suis confondu
+
+beau/voyage = beau voyage = beautiful trip
+seizième/siècle = seizième siècle = sixteenth century
+jaune/manteau = manteau jaune = yellow coat
+bon/repas = bon repas = good meal
+quatrième/fois = quatrième fois = fourth time
+pratique/sac = sac pratique = practical bag
+effrayantes/histoires = histoires effrayantes = scary stories
+stressant/métier = métier stressant = stressful job
+rouge/robe = robe rouge = red dress
+encourageants/progrès = progrès encourageants = encouraging progress
+
+### Trois adjectifs qualificatifs particuliers Beau, Nouveau, Vieux = Three particular qualifying adjectives Beautiful, New, Old
+
+dans chaque cas, placez le masculin apporprié = in each case place the appropriate masculine
+
+- appartement/nouveau= nouvel appartement = new apartment
+- beau/été = bel été = beautiful summer
+- vieux/arbre = vieil arbre = old tree
+- beau/automne = bel automne = beautiful autumn
+- nouveau/emploi = nouvel emploi = new job
+- vieux/fauteuil = vieil fauteuil = old armchair
+- nouveau/disque = nouveau disque = new record
+- vieux/avion = vieil avion = old plane
+- beau/printemps = beau printemps = beautiful spring
+- nouveau/poste = nouvel poste = new position
+- vieux/ordinateur = vieil ordinateur = old computer
+- nouveau/produit = nouveau produit = new product
+- vieux/ami = vieil ami = old friend
+- nouveau/associé = nouvel associé = new partner
+- beau/effort = bel effort = beautiful effort
+
+deviner = to guess
+Je devine = I guess
+Je devine que tu es fatigué = I guess you are tired
+They like mathematiques = Ils aiment les mathématiques
+
+My guess, it's Patrick = Mon devinette, c'est Patrick
+souriant = smiling
+femme au foyer = housewife
+foncé = dark
+plus claire = lighter
+aime les nourritures = likes food
+Adjectives to describe people = Adjectifs pour décrire les gens
+Hard to see in the video = Difficile à voir dans la vidéo
+
+- beau = handsome
+- belle = beautiful
+- intelligent = intelligent
+- intelligente = intelligent
+- gentil = kind
+- gentille = kind
+- drôle = funny
+
+mangez= eat
+buvez= drink
+
+## 26 Février 2025 (Mercredi)
+
+la voiture ou l'autobus = car or bus
+
+le vin ou la bière = wine or beer
+
+Je prefère la bière = I prefer beer
+Je buvez de la bière = I drink beer
+I do like a rosé wine = J'aime bien un vin rosé
+but i dont drink alcohol very often = mais je ne bois pas d'alcool très souvent
+I only drink in social occasions = Je ne bois que dans les occasions sociales
+I don't drink at home = Je ne bois pas à la maison
+so i dont have much of a preference = donc je n'ai pas beaucoup de préférence
+I used drink more during my university days = Je buvais plus pendant mes jours d'université
+now i just prefer water = maintenant je préfère juste l'eau
+
+La chaleur ou le froid = Heat or cold
+je préfère la chaleur = I prefer heat
+parce que c'est plus confortable = because it's more comfortable
+et
+it's easier to stay outside and do activities = il est plus facile de rester dehors et de faire des activités
+But I dont mind the cold = Mais le froid ne me dérange pas
+
+des gants ou des mitaines = gloves or mittens
+je préfère des gants = I prefer gloves
+parce que je trouve ça plus pratique = because I find it more practical
+je les trouve plus pratiques = I find them more practical
+it's easier to use my phone = il est plus facile d'utiliser mon téléphone
+when I wear gloves = quand je porte des gants
+
+la mer ou un lac = the sea or a lake
+ce ne pa ci important = it's not that important
+i like both = j'aime les deux
+i just love going to the beach = j'adore juste aller à la plage
+but in canada we have more lakes = mais au Canada nous avons plus de lacs
+so i prefer visiting lakes = donc je préfère visiter les lacs
+because it's easier to find a lake near by = parce qu'il est plus facile de trouver un lac à proximité
+I have never been to the west coast = Je ne suis jamais allé sur la côte ouest
+but I have been to the east coast = mais je suis allé sur la côte est
+I have been to the atlantic ocean = Je suis allé à l'océan Atlantique
+when I visited
+
+le golf ou le soccer = golf or soccer
+Je préfère le soccer = I prefer soccer
+parce que je suis plus actif = because I am more active
+it's mote active and fun = c'est plus actif et amusant
+et je trouve ça plus amusant que le golf = and I find it more fun than golf
+I love playing an watching soccer = J'adore jouer et regarder le soccer
+golf is very boring to watch = le golf est très ennuyeux à regarder
+
+it reminds me of my... = cela me rappelle mon...
+
+les grand formats ou les petits formats = large formats or small formats
+
+Aucun des deux = None of the two
+Parler de tout et de rien = Talk about everything and nothing
+
+Il fait un temps épouvantable = The weather is terrible
+orage = storm
+témpête = storm
+Which is more intense = Lequel est le plus intense, un orage ou une tempête?
+Je pense qu'une tempête est plus intense
+
+### Quel temps fait-il?
+
+En Bangladesh, il neige jamais. (Tense = Présent)
+
+- It never snows in Bangladesh
+  offically there is six seasons = officiellement il y a six saisons
+  En Banladesh, il y a six saisons. (Tense = Présent)
+- In Bangladesh, there are six seasons
+  été, mousson, automne, fin de l'automne, hiver, printemps = summer, monsoon, autumn, late autumn, winter, spring
+  In the summer, it is very hot = En été, il fait très chaud
+  il fait une chaleur terrible = it is terribly hot
+
+In monsoon, it rains a lot = En mousson, il pleut beaucoup
+Il y a une tempête = There is a storm
+There are regular storms = Il y a des tempêtes régulières
+
+il fait un temps marveilleux = the weather is wonderful
+
+In the winter, it is not as cold as in Canada = En hiver, il ne fait pas aussi froid qu'au Canada
+It never snows in Bangladesh = Il neige jamais au Bangladesh
+never = jamais
+vous donner = to give you
+
+Dictée:
+
+Pluie ou soleil = Rain or sun
+brouillard = fog
+Optimiste = Optimistic
+Dehors= Outside
+me tremper = get wet
+Journée glaciale = Freezing day
+arc-en-ciel = rainbow
+
+Pluie ou solieil
+
+Ce matin,
+quand je me suis le réveillé,
+il y a avait un `mes pay` brouillard
+je maintenant mon optimisme
+et je suis sorti deux hors
+avec mon n'arpenable est mon parapluie
+pour ne pas me tremper
+deux hors, les enfansts amusaient
+ce été \_\_\_
+la meteo avait annoncé une journée glaciale et un certain
+mes tout a coup, lociel s'est dégagé et un arc-en-ciel est apparu
+
+Ce matin quand je me suis levée, = This morning when I got up
+il y avait un épais brouillard. = there was a thick fog
+J'ai maintenu mon optimisme = I maintained my optimism
+et je suis sortie dehors = and I went outside
+avenc mon imperméable et mon parapluie = with my raincoat and my umbrella
+pour ne pas me tremper = so as not to get wet
+Dehors, les enfants s'amusaient = Outside, the children were having fun
+c'était sensationnel pour eux. = it was sensational for them
+La météo avait annoncé une journée glaciale = The weather forecast had announced a freezing day
+et incertaine mais tout à coup = and uncertain but suddenly
+le ciel s'est dégagé = the sky cleared
+et un arc-en-ciel est apparu = and a rainbow appeared
+
+épais = thick
+maintenu = maintained
+impérméable = raincoat
+trempé = soaked
+dégagé = cleared
+apparu = appeared
+
+I confused maintenu and maintenant = J'ai confondu maintenu et maintenant
+
+maintenu = maintained
+now = maintenant
+avanture = adventure
+mésaventure = misadventure
+
+Racontez une mésaventure ou vous n'aviez pas prévu la meteo = Tell a misadventure where you did not plan the weather
+
+### Ex 2 and 3
+
+le soleil = il y a du soleil = it is sunny
+le vent = il y a du vent = it is windy
+la pluie = il y a de la pluie = it is raining
+la neige = il y a de la neige = it is snowing
+les nuages = il y a des nuages = it is cloudy
+l'orage = il y a de l'orage = it is stormy
+les éclairs = il y a des éclairs = there is lightning
+
+Exemples:
+Aujourd'hui, il `fait` un temps superbe = Today, the weather is superb
+Hier, `il a fait` un temps superbe = Yesterday, the weather was superb
+Demain, il `va faire` un temps superbe = Tomorrow, the weather will be superb
+
+1. Aujourd'hui, il pleut = Today, it is raining
+   - Hier, il a plu = Yesterday, it rained
+   - Demain, il va pleuvoir = Tomorrow, it will rain
+2. Aujourd'hui, il neige = Today, it is snowing
+   - Hier, il a neigé = Yesterday, it snowed
+   - Demain, il va neiger = Tomorrow, it will snow
+3. Aujourd'hui, il fait beau = Today, it is beautiful
+   - Hier, il a fait beau = Yesterday, it was beautiful
+   - Demain, il va faire beau = Tomorrow, it will be beautiful
+4. Aujourd'hui, il fait mauvais temps = Today, the weather is bad
+   - Hier, il a fait mauvais temps = Yesterday, the weather was bad
+   - Demain, il va faire mauvais temps = Tomorrow, the weather will be bad
+5. Aujourd'hui, il y a une tempte de neige = Today, there is a snowstorm
+   - Hier, il y a eu une tempête de neige = Yesterday, there was a snowstorm
+   - Demain, il y aura une tempête de neige = Tomorrow, there will be a snowstorm
+   - a = had from verb = avoir
+   - eu = had from verb = avoir
+   - aura = will have from verb = avoir
+   - I am not very confident about my answer for 5 = Je ne suis pas très confiant de ma réponse pour 5
+6. Aujourd'hui, il fait dix degrés = Today, it is ten degrees
+   - Hier, il a fait dix degrés = Yesterday, it was ten degrees
+   - Demain, il va faire dix degrés = Tomorrow, it will be ten degrees
+7. Aujourd'hui, il fait froid = Today, it is cold
+   - Hier, il a fait froid = Yesterday, it was cold
+   - Demain, il va faire froid = Tomorrow, it will be cold
+8. Aujourd'hui, il fait un temps merveilleux = Today, the weather is wonderful
+   - Hier, il a fait un temps merveilleux = Yesterday, the weather was wonderful
+   - Demain, il va faire un temps merveilleux = Tomorrow, the weather will be wonderful
+
+Can you please scroll down = Pouvez-vous faire défiler vers le bas, s'il vous plaît
+scroll down = faire défiler vers le bas
+vers le bas = down
+down = bas
+go down = descendre
+
+## 27 Février 2025 (Jeudi)
+
+Laquelle = Which one?
+parfois = sometimes
+
+passé composé
+a-t-il venté? = did it blow
+
+présent
+vente t-il? = is it blowing
+
+futur immédiat
+va t-il venté? = will it blow
+
+Touvez les questions correspondantes = Find the corresponding questions
+
+Exemple: tu/avoir chaud/présent = tu as chaud? = Are you hot?
+a. vous/avoir chaud/présent = vous avez chaud? = Are you hot?
+b. elle/avoir chaud/présent = elle a chaud? = Is she hot?
+c. ils/avoir froid/passé composé = ils ont froid? = Are they cold?
+d. tu/avoir froid/passé composé = tu as froid? = Are you cold?
+e. nous/avoir froid/futur immédiat = allons nous avoir froid? = Are we going to be cold?
+f. il/avoir froid/futur immédiat = va t-il avoir froid? = Is he going to be cold?
+
+allons verb = going to
+conjugation of aller = to go
+
+Completez le dialogue à l'aide des énconcés suivants = Complete the dialogue using the following statements
+
+- il ne fait pas trop chaud = it's not too hot
+- il pleut = it's raining
+- Be temps, mauvais temps = rain or shine
+- il fait un temps splendide = it's a splendid weather
+- il y a eu un gros orage = there was a big storm
+- Cést un temps idéal = it's an ideal weather
+
+Ex 2
+Quel temps fait-il là-bas? = What is the weather like there?
+Il fait un temps splendide. C'est un temps idéal pour se baigner = It's a splendid weather. It's an ideal time to swim
+Est-ce qu'il fait chaud? = Is it hot?
+Oui, mais il ne fait pas trop chaud. On est juste bien. À Montréal, quel temps fait-il? = Yes, but it's not too hot. We are just fine. In Montreal, what is the weather like?
+Il pleut. La nuit dernière, il y a eu un gros orage. Dismois, est-ce que tu reviens mardi procahin comme prévu? = It's raining. Last night, there was a big storm. Are you coming back next Tuesday as planned?
+Oui, oui. Beau temps, mauvais temps, je serai là = Yes, yes. Rain or shine, I will be there
+
+Diane et Louis sont à la maison. = Diane and Louis are at home.
+Diane demande: "Louis, as tu écouté le bulletin de météo à la radio?" = Diane asks: "Louis, did you listen to the weather report on the radio?"
+Louis: Oui. = Louis: Yes.
+Diane: Qu'est-ce qu'on annonce? = Diane: What are they announcing?
+Louis: On annonce du beau temps pour demain matin, mais on dit que le temps va se couvrir dans l'après-midi et qu'il y a soixante-dix pour cent de probabilités d'averses. = They announce good weather for tomorrow morning, but they say that the weather will cloud over in the afternoon and that there is a seventy percent chance of showers.
+Diane: Ce n'est pas fantastique comme météo. Je pense que je vais faire mon jogging demain matin. = That's not fantastic weather. I think I'll go jogging tomorrow morning.
+Louis: Oui, c'est préférable. Si tu fais ton joggin dans l'après-midi, tu risques d'être trempée jusqu'aux os. = Yes, that's preferable. If you go jogging in the afternoon, you risk being soaked to the bone.
+
+Jena-Marc arrive au bureau et itl parle avec Éloïse, la secrétaire. = Jean-Marc arrives at the office and speaks with Éloïse, the secretary.
+
+Jean-Marc: Quel temps horrible! Les routes sont bloquées partout. = Jean-Marc: What horrible weather! The roads are blocked everywhere.
+Éloïse: Oui, c'est toute une tempête de neige! Ça má pris une heure et dernie pour venir au bureau. = Éloïse: Yes, it's quite a snowstorm! It took me an hour and a half to get to the office.
+Jean-Marc: Où as-tu garé ta voiture? = Jean-Marc: Where did you park your car?
+Éloïse: Jái du garer ma voiture à six rues d'ici. En plus, le trottoir ne sont pas déneigés. = Éloïse: I had to park my car six blocks from here. In addition, the sidewalks are not cleared of snow.
+Jean-Marc: C'est'incroyable! À la radio, on dit quíl est tombé vingt-cinq centimètres de neige. = Jean-Marc: That's incredible! On the radio, they say that twenty-five centimeters of snow fell.
+Éloïse: Oui, et ce n'est pas fini. On annonce encore cinq centimètres de neige aujourd'hui. = Éloïse: Yes, and it's not over. They are announcing another five centimeters of snow today.
+Jean-Marc: Paul n'est pas encore arrivé au bureau. Il est peut-être bloqué dans la circulation. = Jean-Marc: Paul hasn't arrived at the office yet. He may be stuck in traffic.
+Éloïse: Non. Il a appelé pour dire qu'il sera retard. Il doit pelleter la neige dans son entreé. Je pense que la journeé va être très tranquille au bureau. =
+
+## 28 Février 2025
+
+Because I wanted to fly jet planes = Parce que je voulais piloter des avions à réaction
+
+I have been lazy this week = J'ai été paresseux cette semaine
+
+When I was younger I wanted to be a pilot = Quand j'étais plus jeune, je voulais être pilote
+I never wanted to be a doctor = Je n'ai jamais voulu être médecin
+because my dad is one = parce que mon père en est un
+and the work hours are awful = et les heures de travail sont affreuses
+
+rajoute terminaison = add ending
+
+future simple
+
+a. tu allais = you were going
+b. je travaillerai = I will work
+c. des autobus seront = buses will be, il recommencera = he will start again
+d. je serai = I will be
+e. les magasins seront = the stores will be, nous ferons = we will do
+f. Nos amis venront = Our friends will come
+g. je ferai = I will do
+h. vous pourrez = you will be able to
+i. tu prendras = you will take, je l'afficherai = I will post it
+j. j'aurai = I will have, qu'elle feroit = she will do
+k. nous (aviser) = nous aviserons = we will advise
+l. il (se souvenir) = il se souviendra = he will remember
+m. Je (s'occuper) = Je m'occuperai = I will take care of
+n. nous (s'installer) = nous nous installerons = we will settle
+moi (commencer) = je commencerai = I will start
+miche let moi
+
+Écrire au future proche
+
+Elle (démenager) = Elle va déménager = She is going to move
+je (envoyer) = je vais envoyer = I am going to send
+
+aller conjugation
+je vais
+tu vas
+il va
+nous allons
+vous allez
+ils vont
+
+Mettez les verbes au futur simple = Put the verbs in the future simple
+
+qu'il (neiger) = qu'il neigera = it will snow
+nous (ramasser) = nous ramasserons = we will pick up
+il ne (venter) = il ne ventera pas = it will not be windy
+je (faire) = je ferai = I will do
+il (pleuvoir) = il pleuvra = it will rain
+il (faire beau) = il fera beau = it will be nice
+le temps (s'éclaircir) = le temps s'éclaircira = the weather will clear up
+le temps (s'ennuager) = le temps s'ennuagera = the weather will cloud over
+nous (aller) = nous irons = we will go
+nous (prendre des bains de soleil) = nous prendrons des bains de soleil = we will sunbathe
+il (être trempé jusqu'aux os) = il sera trempé jusqu'aux
+il ne (grêler) = il ne grêlera pas = it will not hail
+
+semaine prochaine = next week
+cette semaine = this week
+semaine dernière = last week
+le ciel ce couvre = the sky is clouding over
+je reviendrai = I will come back
+On sortira dès qu'il ne pleuvra plus = We will go out as soon as it stops raining
+La nui va tomber d'une minute à l'autre = Night will fall any minute
+maintenant en fait = now actually
+le temps est
+
+averses de neiges = snow showers
+
+averse = shower
+demain la température va monter = tomorrow the temperature will rise
+il va faire froid = it will be cold
+il va faire chaud = it will be hot
+demain nous serons = tomorrow we will be
+il va pleuvoir = it will rain
+il va neiger = it will snow
+ciel variable = variable sky
+ciel va se couvrir = sky will cover
+quelqué flocons = some snowflakes
+
+In the after noon the weather will be cold =
+the temperaute will be -8 degrees =
+mais il fera comme -13 degrés
+Dans Soir la température va descendre a -17 degrés
+
+tommorrow night the temperature will drop to -17 degrees =
+demain soir la température va descendre à -17 degrés
+it wil be windy = il y aura du vent
+thw wind will be 20 km/h = le vent sera de 20 km/h
+
+Dans l'après-midi, il fera froid
+la température sera de -8 degrés
+but it will feel like -13 degrees =
+
+congé de mars = march break
+
+## 3 Mars 2025 (Mardi)
+
+wallet = portefeuille
+money bag = sac d'argent
+your purse will be stolen = votre sac à main sera volé
+stolen = volé
+eat a croissant it wont be stolen = mangez un croissant il ne sera pas volé
+but if you put it in your jacket pocket = mais si vous le mettez dans la poche de votre veste
+
+so vous metteziez dans la poche de votre veste = so you put it in your jacket pocket
+
+votre sac seraz volé mais si vous
+Tu seras
+it won't be stolen = il ne sera pas volé
+
+mettez = put, conditional présent of mettre with vous = mettiez
+vous mettiez = you put
+
+you will get a flat tire = vous aurez un pneu à plat
+if you rent a car = si vous louez une voiture
+vous louiez = you rent, conditional présent of louer with vous = louiez
+flat tire = pneu à plat
+tire = pneu
+flat = plat
+you will not get it = vous ne l'aurez pas
+imparfait = imperfect
+
+si tu demandais = if you asked
+si vous demandiez = if you asked
+it will not be stolen = il ne sera pas volé
+si + imparfait
+si vous louiez = if you rented
+
+si vous mettiez = if you put
+
+conditional présent
+it wont be stolen = il ne serait pas volé
+
+utilisez futur simple = use future simple
+
+vos efforts porteront des fruits des portes s'ouvriront = your efforts will bear fruit, doors will open
+De bons aspects planétaires (être) = De bons aspects planétaires seront = Good planetary aspects will be
+présent et ils (faciliter) = présents et ils faciliteront = present and they will facilitate
+un passage à une nouvelle vie = a passage to a new life
+
+but it's not about conjugation = mais ce n'est pas une question de conjugaison
+
+astrologie = astrology
+horoscope = horoscope
+signe astrologique = astrological sign
+verseau = aquarius
+poissons = pisces
+bélier = aries
+taureau = taurus
+gémeaux = gemini
+cancer = cancer
+lion = lion
+vierge = virgo
+balance = libra
+scorpion = scorpion
+sagittaire = sagittarius
+capricorne = capricorn
+
+My birthday is in = Mon anniversaire est en
+She is going to the United States = Elle va aux États-Unis
