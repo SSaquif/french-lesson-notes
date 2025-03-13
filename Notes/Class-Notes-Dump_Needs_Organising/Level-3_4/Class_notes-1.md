@@ -3055,3 +3055,382 @@ capricorne = capricorn
 
 My birthday is in = Mon anniversaire est en
 She is going to the United States = Elle va aux États-Unis
+
+## 4 Mars 2025 (Mercredi)
+
+any recipe
+
+2 slices of bread = 2 tranches de pain
+chesse of your choice = fromage de votre choix
+butter = beurre
+butter the bread = beurrer le pain
+put the cheese = mettre le fromage
+put the other slice of bread = mettre l'autre tranche de pain
+grill it in a pan = griller dans une poêle
+
+it's the easier version of croque monsieur = c'est la version la plus facile du croque monsieur
+
+fried rice = riz frit
+cooked rice = riz cuit
+vegetables of your choice = légumes de votre choix
+eggs = oeufs
+soy sauce = sauce soja
+chop your vegetables = hacher vos légumes
+
+quickly scramble your eggs = brouiller rapidement vos oeufs
+
+I haven't gone back in a long time = Je ne suis pas retourné depuis longtemps
+
+I don't eat out a lot = Je ne mange pas souvent à l'extérieur
+Sometimes I like going to brunch = Parfois j'aime aller bruncher
+For brunch I prefer ordering = Pour le brunch, je préfère commander
+I like to order = J'aime commander
+My usual order = Ma commande habituelle
+Eggs Benedict = Oeufs Bénédictine
+I like to order eggs benedict = J'aime commander des oeufs bénédictine
+How to make eggs benedict = Comment faire des oeufs bénédictine
+You need poached eggs = Vous avez besoin d'oeufs pochés
+on top of an english muffin = sur un muffin anglais
+with smoked salmon = avec du saumon fumé
+and finished with hollandaise sauce = et fini avec de la sauce hollandaise
+I also like to order some mimosa = J'aime aussi commander un mimosa
+I drink on rare occasions = Je bois à de rares occasions
+I don't drink often = Je ne bois pas souvent
+But i enjoy a nice cocktail = Mais j'apprécie un bon cocktail
+
+apportent non seulement = bring not only
+apportent = bring
+seulement = only
+des graisses (lipides) = fats (lipids)
+
+i had a coworker = j'avais un collègue
+from France = de France
+Who knew his cheeses very well = Qui connaissait très bien ses fromages
+so they would adivse me = donc ils me conseilleraient
+Exmaples of cheese = Exemples de fromage
+
+- Swiss cheese = fromage suisse
+- Cheddar cheese = fromage cheddar
+- Brie cheese = fromage brie
+- Blue cheese = fromage bleu
+- Goat cheese = fromage de chèvre
+- Feta cheese = fromage feta
+
+maîtrisent = master
+
+sortez les couteaux = take out the knives
+
+to cut the cheese = pour couper le fromage
+
+apportent = bring
+suivent = follow
+dnas les heures qui suivent une élévation du taux de graisse dans le sang = in the hours following an elevation in blood fat levels
+
+This morning all the news is about the US tariffs = Ce matin, toutes les nouvelles concernent les tarifs américains
+
+I did not sleep well = Je n'ai pas bien dormi
+last night = la nuit dernière
+I had a nightmare = J'ai fait un cauchemar
+I forgot = J'ai oublié
+A loud noise woke me up = Un bruit fort m'a réveillé
+fromage à pâte dure = hard cheese
+I like feta cheese = J'aime le fromage feta
+but I am not sure if it's hard or soft = mais je ne suis pas sûr si c'est dur ou mou
+
+For a while = Pendant un moment
+I was drinking a lot of orange juice = Je buvais beaucoup de jus d'orange
+but I stopped = mais j'ai arrêté
+because it's not good for my teeth = parce que ce n'est pas bon pour mes dents
+alimentation = diet
+
+avec le coeur = with the heart
+
+il fait que = it makes that
+il fait que je = it makes me
+il fait que je me = it makes me
+il fait que je me sens = it makes me feel
+il fait que je me sens bien = it makes me feel good
+il fait que tu te sens bien = it makes you feel good
+il fait que vous vous sentez bien = it makes you feel good
+il fait que nous nous sentons bien = it makes us feel good
+il fait que ils se sentent bien = it makes them feel good
+il fait que il se sent bien = it makes him feel good
+il fait que elle se sent bien = it makes her feel good
+
+il faut que je trouve = I have to find
+il faut que tu trouves = you have to find
+il faut que vous trouviez = you have to find
+il faut que nous trouvions = we have to find
+il faut que ils trouvent = they have to find
+il faut que il trouve = he has to find
+il faut que elle trouve = she has to find
+
+je dois que je trouve = I have to find
+tu dois que tu trouves = you have to find
+vous devez que vous trouviez = you have to find
+nous devons que nous trouvions = we have to find  
+ils doivent que ils trouvent = they have to find
+il doit que il trouve = he has to find
+elle doit que elle trouve = she has to find
+
+cinjuguez les verbers au subjonctif présent = conjugate the verbs in the present subjunctive
+
+1. recontrer = to meet = `que je rencontre`, que tu rencontres, qu'il rencontre, que nous rencontrions, que vous rencontriez, qu'ils rencontrent
+
+2. discuter = to discuss = que je discute, que tu discutes, qu'il discute, `que nous discutions`, que vous discutiez, qu'ils discutent
+
+3. finir = to finish = que je finisse, que tu finisses, `qu'il finisse`, que nous finissions, que vous finissiez, qu'ils finissent
+
+4. partir = to leave = que je parte, que tu partes, qu'il parte, que nous partions, que vous partiez, qu'ils partent, `qu'elle parte`
+
+5. aller = to go = `que j'aille`, que tu ailles, qu'il aille, que nous allions, que vous alliez, qu'ils aillent
+
+6. être = to be = que je sois, `que tu sois`, qu'il soit, que nous soyons, que vous soyez, qu'ils soient
+
+7. avoir = to have = que j'aie, que tu aies, qu'il ait, que nous ayons, `que vous ayez`, qu'ils aient
+
+8. faire = to do = que je fasse, que tu fasses, `qu'il fasse`, que nous fassions, que vous fassiez, qu'ils fassent
+
+9. savoir = to know = `que je sache`, que tu saches, qu'il sache, que nous sachions, que vous sachiez, qu'ils sachent
+
+10. écrire = to write = que j'écrive, `que tu écrives`, qu'il écrive, que nous écrivions, que vous écriviez, qu'ils écrivent
+
+Ex 15
+
+1. Il faut que je vous (parler) parle = I have to talk to you
+2. Il faut que nous (être) soyons = we have to be
+3. Il ne fait pas que vous (être) soyez = you are not
+4. Il faut qye je (partir) parte = I have to leave
+5. Il faut que nous (envoyer) envoyions = we have to send
+6. Il faurait que tout le monde (être) soit = everyone has to be
+7. Il faudrait qu'il (revenir) revienne = he has to come back
+8. Il a fallu que j'(aller) aille = I had to go
+9. Il a fallu qu'il (travailler) travaille = he had to work
+10. Il va falloir que nous (se recontrer) nous rencontrions = we will have to meet
+11. Il va falloir que tu (faire) fasses = you will have to do
+12. Il va falloir que nous (être) soyons = we will have to be
+
+## 6 Mars 2025 (Vendredi)
+
+je fois me battre pour gagner = I must fight to win
+il faut que je me batte pour gagner = I must fight to win
+
+| Devoir + Infinitif                  | Il faut que + Subjonctif présent                                        |
+| ----------------------------------- | ----------------------------------------------------------------------- |
+| Tu dois faire confiance aux gens    | Il faut que tu fasses confiance aux gens = You must trust people        |
+| Ils doivent changer leurs habitudes | Il faut qu'ils changent leurs habitudes = They must change their habits |
+| Nous devons partir avant la nuit    | Il faut que nous partions avant la nuit = We must leave before night    |
+| Je fois me battre pour gagner       | Il faut que je me batte pour gagner = I must fight to win               |
+
+Alors je sui oblige de faire ce travail = So I have to do this work
+Oui, il faut absolument que tu le fasses = Yes, you absolutely have to do it
+
+Alors ils doivent avoir une carte d'étudiant = So they must have a student card
+Oui, il faut absolument qu'ils l'aient = Yes, they absolutely must have it
+
+Alors, je dois emplir ce formulaire = So I have to fill out this form
+Oui, il faut absolument que tu le remplisses = Yes, you absolutely have to fill it out
+
+alors je dois faire attention à ce dossier-là = so I have to pay attention to that file
+Oui, il faut absolument que tu y fasses attention = Yes, you absolutely have to pay attention to it
+
+alors on va ya tout seuls = so we are going there alone
+Oui, il faut absolument qu'on y aille tout seuls = Yes, we absolutely have to go there alone
+
+alors je dois absolutement etre la avant 11 heures = so I absolutely have to be there before 11 o'clock
+Oui, il faut absolument que tu y sois avant 11 heures = Yes, you absolutely have to be there before 11 o'clock
+sois = be, subjonctif présent of être with tu
+
+Alors, on reprend cette sc`ene = so we take this scene again
+Oui, il faut absolument qu'on la reprenne = Yes, we absolutely have to take it again
+reprenne = take, subjonctif présent of reprendre with on
+reprendre = to take again
+
+alors on fait une reservation pour dimanche = so we make a reservation for Sunday
+Oui, il faut absolument qu'on en fasse une pour dimanche = Yes, we absolutely have to make one for Sunday
+
+Marco et Valérie imagient leur futur bébé = Marco and Valérie imagine their future baby
+Comment sera-t-il? = What will he be like?
+À qui ressemblera-t-il? = Who will he look like?
+
+soit = be, subjonctif présent of être with il
+
+je voudrais qu'il soit en bonne santé = I would like him to be healthy
+J'aimerais qu'il soit intelligent comme sa mère = I would like him to be intelligent like his mother
+J'aime qu'il ait les yeux bleus comme son père = I like him to have blue eyes like his father
+Je voudrais qu'il fasse du sport = I would like him to play sports
+Je voudrais qu'il apprenne à jouer du piano = I would like him to learn to play the piano
+Je voudrais qu'il ait un bon caractère = I would like him to have a good character
+Je souhaiterais qu'il soit heureux = I would like him to be happy
+Je souhaiterais qu'il soit un bon élève = I would like him to be a good student
+J'aimerais mieux qu'il soit un bon ami = I would rather he be a good friend
+J'aimerais mieux qu'il soit
+Je ne voudrais pas qu'il soit malheureux = I would not like him to be unhappy
+Je ne voudrais pas qu'il soit un mauvais personnage = I would not like him to be a bad character
+
+vouloir
+
+que je veuille
+que tu veuilles
+qu'il veuille
+que nous voulions
+que vous vouliez
+qu'ils veuillent
+
+pouvoir
+
+que je puisse
+que tu puisses
+qu'il puisse
+que nous puissions
+que vous puissiez
+qu'ils puissent
+
+savoir
+que je sache
+que tu saches
+qu'il sache
+que nous sachions
+que vous sachiez
+qu'ils sachent
+
+aller
+que j'aille
+que tu ailles
+qu'il aille
+que nous allions
+que vous alliez
+qu'ils aillent
+
+savoir = to know
+
+que je sache = that I know
+que tu saches = that you know
+qu'il sache = that he knows
+que nous sachions = that we know
+que vous sachiez = that you know
+qu'ils sachent = that they know
+
+que j'aille = as I go = verb aller with je
+que je sorte = as I go out = verb sortir with je
+que je les trie = as I sort them = verb trier with je
+que j'essaie = as I try = verb essayer with je
+qu'il ne me faille en changer = that I don't have to change it = verb falloir with il
+que je m'áchète un novueau casque = that I buy myself a new helmet = verb acheter with je
+
+que je réfléchisse = that I think = verb réfléchir with je
+que je parte en avion = that I leave by plane = verb partir with je
+que je me rende = that I go = verb rendre with je
+que j'écrive = that I write = verb écrire with je
+que je réserve = that I reserve = verb réserver with je
+que je leur dise = that I tell them = verb dire with je
+que je souhaite = that I wish = verb souhaiter with je
+qu'elle ait une exposition = that she has an exhibition = verb avoir with elle
+que je puisse m'installer = that I can settle = verb pouvoir with je
+que je sois bronzée = that I am tanned = verb être with je
+que mes amis sachent = that my friends know = verb savoir with mes amis
+que je suis allée = that I went = verb aller with je
+
+que je loue = that I rent = verb louer with je
+que je souscrive = that I subscribe = verb souscrire with je
+que je paie = that I pay = verb payer with je
+que je prenne = that I take = verb prendre with je
+que je fasse = that I do = verb faire with je
+que cela en vaille = that it is worth it = verb valoir with cela
+que j'obtienne = that I get = verb obtenir with je
+que je devienne = that I become = verb devenir with je
+
+qu'il fasse = that he does = verb faire with il
+qu'il pleuve = that it rains = verb pleuvoir with il
+que je le vueille = that I want it = verb vouloir with je
+
+1. que je souscrive vient du verbe = that I subscribe comes from the verb
+   souscrire = to subscribe
+
+2. on dit il se peut que j'aille = we say it may be that I go
+
+3. La personne qui parle dans le texte est = The person speaking in the text is
+   b. Prépare de vacances = b. Preparing for vacation
+
+4. Absolument dans le texte signifie = Absolutely in the text means
+   tout de suite = right away
+   Obligatoirement = necessarily
+
+5. une combinasion de ski protège = a ski suit combination
+   la tête = the head
+   les pieds = the feet
+   les corps = the body
+
+6. Une tentative infructueuse est une tentative = An unsuccessful attempt is an attempt
+   qui a réussi = that succeeded
+   qui a échoué = that failed
+   répétée = repeated
+   ratée = missed = correct unsuccessful
+
+fructueux = fruitful
+infructueux = unsuccessful
+
+7. L'auteur est = The author is
+   Un skieur débutant = A beginner skier
+   Un skieur confirmé = A confirmed skier
+
+que de étoilles et que je devienne un véritable champion = 8. Dans ce texte, les étoiles sont = In this text, the stars are
+Un niveau de ski = A level of skiing
+
+9. Pour slier sécurité
+   Un casque = A helmet
+
+Il est important pour moi que je sois en sécurité = It is important for me to be safe
+rarely = rarement
+I have only done it a few times = Je ne l'ai fait que quelques fois
+
+je vole comme un oiseau = I fly like a bird
+je sui toujours au milleau de Paris = I am always in the middle of Paris
+Eiffel Tower = Tour Eiffel
+jái deux yeux nái pas de paupières = I have two eyes and no eyelids
+bras = arms
+
+je vaus je viens je sors je retourne mais sans quitter m maison = I go I come out I go back but without leaving my house
+qui sui je = who am I
+je suis une turtle = tortue
+pieds er de jambe = feet and leg
+j'ai seulment deux aiguilles = I only have two needles
+clock = horloge
+je suis un animal qui porte mes petit enfants dans ma poche = I am an animal that carries my little children in my pocket
+je suis jaune dedans et blanc dessus = I am yellow inside and white on top
+
+Conjugez les verbes à l'imparfait = Conjugate the verbs in the imperfect
+
+regardez = regardais, regardais, regardait, regardions, regardiez, regardaient
+
+finir = 2nd person singular = finissais
+finir = 2nd person plural = finissiez
+
+faire = 2nd person singular = faisais
+
+lire = 2nd person singular = lis
+
+Formulez de phrases en utilisant le verbe être ou avoir
+à l'imparfait'present = Formulate sentences using the verb to be or to have in the imperfect present
+
+Exemple Je te demande d'être raisonnable = I ask you to be reasonable
+Exemple: Sois raisonnable = Be reasonable
+
+Je nous demande d'être sérieux = I ask us to be serious
+Sois sérieux = Be serious
+
+Je te demande de ne pas être pessimiste = I ask you not to be pessimistic
+Ne sois pas pessimiste = Don't be pessimistic
+
+Formulez des phrases en utilisant l'imperatif présent = Formulate sentences using the present imperative
+
+je vous demande de ne pas aller voir ce film = I ask you not to go see this movie
+Ne va pas voir ce film = Don't go see this movie
+
+je vous demande de ne pas insister = I ask you not to insist
+Ne insistez pas = Don't insist
+
+je nous demande de faire de la pause-café = I ask us to take a coffee break
+
+Je fais de la pause-café = I take a coffee break
+We take a coffee break = Nous faisons de la pause-café
