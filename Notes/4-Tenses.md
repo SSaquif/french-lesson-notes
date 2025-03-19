@@ -22,7 +22,9 @@
 - [Passé Composé (Simple Past)](#passe-compose-simple-past)
   * [When to use `le passé composé`](#when-to-use-le-passe-compose)
   * [How to form Passé Composé: conjugated (present) avoir/être + past participle of the main verb](#how-to-form-passe-compose-conjugated-present-avoiretre--past-participle-of-the-main-verb)
-  * [Review of present tense of "avoir" and "etre"](#review-of-present-tense-of-avoir-and-etre)
+  * ["Avoir" or "Être"](#avoir-or-etre)
+  * [Negative Sentences](#negative-sentences)
+  * [Agreement of the participe passé](#agreement-of-the-participe-passe)
   * [Examples](#examples-2)
     + [Avoir](#avoir)
     + [Etre](#etre)
@@ -49,6 +51,9 @@
 - [Future Simple](#future-simple)
   * [When to use `le futur simple`](#when-to-use-le-futur-simple)
   * [How to form Futur Simple: Infinitif + ai, as, a, ons, ez, ont](#how-to-form-futur-simple-infinitif--ai-as-a-ons-ez-ont)
+    + [Conjugation of Regular Verbs](#conjugation-of-regular-verbs)
+    + [Conjugation of Common Irregular Verbs: avoir, être, aller, faire, pouvoir, savoir, venir, voir, vouloir](#conjugation-of-common-irregular-verbs-avoir-etre-aller-faire-pouvoir-savoir-venir-voir-vouloir)
+    + [Exceptions](#exceptions-1)
 - [Future Simple vs Futur Proche](#future-simple-vs-futur-proche)
 - [Le Subjonctif Présent](#le-subjonctif-present)
   * [When to use the Subjonctif Present?](#when-to-use-the-subjonctif-present)
@@ -84,6 +89,12 @@
 8. `Impératif`: The imperative mood is used to give orders or make requests. Ex: mange, finis, vends
 9. `Participe`: The participle is a verbal form that can be used as an adjective. Ex: mangeant, finissant, vendu
 10. `Gérondif`: The gerund is a verbal form that ends in -ant or -ant. Ex: en mangeant, en finissant, en vendant
+11. `Reflexive/Pronominal Verbs`: Are verbs where the subject and object are the same. The subject performs the action on itself.
+    - They are verbs that take a reflexive pronoun such as `me, te, se, nous, vous, se`.
+    - The reflexive pronoun comes before the verb and coresponds to the subject.
+    - Ex: `Je me lave` (I wash myself), `Tu te laves` (You wash yourself), `Il se lave` (He washes himself), `Nous nous lavons` (We wash ourselves), `Vous vous lavez` (You wash yourself), `Ils se lavent` (They wash themselves)
+12. `Direct Object/ Complement d'objet direct (COD)`: The direct object receives the action of the verb; Never introduced by a preposition and stands immediately after the verb.
+    - Ex: `Je mange une pomme` (I eat an apple), `Tu lis un livre` (You read a book), `Il regarde la télé` (He watches TV), `Nous écoutons de la musique` (We listen to music), `Vous prenez un café` (You drink coffee), `Ils regardent un film` (They watch a movie)
 
 ## Important Irregular Verbs: Avoir, Être, Aller, Faire
 
@@ -480,12 +491,23 @@ Some Important Irregular Verbs are `être`, `avoir`, `aller`, `faire`, `dire`, `
 Formed with the present tense of the auxiliary verb "avoir" or "etre" and the past participle of the main verb.
 
 - The past participle of regular verbs is formed by dropping the infinitive ending and adding the appropriate ending.
+  - For -er verbs, drop the -er and add -é.
+  - For -ir verbs, drop the -ir and add -i.
+  - For -re verbs, drop the -re and add -u.
 - The past participle of irregular verbs must be memorized.
 
-### Review of present tense of "avoir" and "etre"
+| Personne   | -er verbs (parler)    | -ir verbs (finir)    | -re verbs (vendre)    |
+| ---------- | --------------------- | -------------------- | --------------------- |
+| je         | -é (j'ai parlé)       | -i (j'ai fini)       | -u (j'ai vendu)       |
+| tu         | -é (tu as parlé)      | -i (tu as fini)      | -u (tu as vendu)      |
+| il/elle/on | -é (il a parlé)       | -i (il a fini)       | -u (il a vendu)       |
+| nous       | -é (nous avons parlé) | -i (nous avons fini) | -u (nous avons vendu) |
+| vous       | -é (vous avez parlé)  | -i (vous avez fini)  | -u (vous avez vendu)  |
+| ils/elles  | -é (ils ont parlé)    | -i (ils ont fini)    | -u (ils ont vendu)    |
 
-Avoir = To have (I have)
-Etre = To be (I am)
+### "Avoir" or "Être"
+
+[Rule of Thumb](https://francais.lingolia.com/en/grammar/verbs/avoir-etre)
 
 | Personne   | Avoir (to have) | Etre (to be) |
 | ---------- | --------------- | ------------ |
@@ -495,6 +517,80 @@ Etre = To be (I am)
 | nous       | nous avons      | nous sommes  |
 | vous       | vous avez       | vous êtes    |
 | ils/elles  | ont             | sont         |
+
+1. Most verbs use `avoir` as their auxiliary verb in the passé composé.
+2. However, `être` is used as the auxiliary verb in following cases:
+   - `Reflexive verbs`: The auxiliary verb is `être` when the verb is `reflexive`.
+   - With the following `verbs of movement`:
+     1. `naître/mourir` (to be born/to die)
+     2. `aller/venir` (to go/to come)
+     3. `monter/descendre` (to go up/to go down)
+     4. `arriver/partir` (to arrive/to leave)
+     5. `entrer/sortir` (to enter/to leave)
+     6. `apparaître (to` appear)
+     7. `rester (to` stay)
+     8. `retourner (to` return)
+     9. `tomber (to` fall)
+   - And their related forms such as:
+     1. `revenir` (to come back)
+     2. `rentrer` (to return)
+     3. `remonter` (to go back up)
+     4. `redescendre` (to go back down)
+     5. `repartir` (to leave again)
+3. But we use `avoir` when `descendre, (r)entrer, (re)monter, retourner and sortir` are followed by a `direct object`. In this case, the meaning of the verb often changes.
+   - Ex: À quelle heure `es-tu` sorti ce matin? = What time did you leave this morning?
+     - `But`: `As-tu` sorti les carottes du frigo hier soir? = Did you take the carrots out of the fridge last night?
+
+### Negative Sentences
+
+> To make a negative sentence in the passé composé, we use the `ne ... pas` structure around the auxiliary verb.
+
+- In negative sentences, the past participle comes after the second part of the negation `(pas, plus, jamais, etc.)`
+- For `reflexive verbs`, the reflexive pronoun comes after the first part of the negation `(ne)` and before the auxiliary verb `(avoir or être)`.
+  - Ex: Je ne `me` suis pas levé(e) = I didn't get up
+
+### Agreement of the participe passé
+
+For some verbs, the participe passé has to agree in gender and number with either the subject or the object of the sentence. This agreement is necessary in the following situations:
+
+1. When a verb takes être as an auxiliary, the participle agrees in gender and number with the subject.
+
+   - Example:
+     - Il est allé dans son bureau.
+     - Elle est allée dans son bureau.
+     - Ils sont allés dans leurs bureaux.
+     - Elles sont allées dans leurs bureaux.
+
+2. For verbs that take avoir in the passé composé, the participle only agrees in gender and number with a direct object that comes before the verb. This direct object can take three possible forms: a `personal pronoun` `(me, te, le, la, nous, vous, les)`, the `relative pronoun` `que`, or a noun placed before the verb (usually in questions and exclamations).
+
+   - Example:
+     - Il a rangé son bureau. → Il l'a rangé.
+     - Il a rangé sa chambre. → Il l'a rangée.
+     - Il a rangé ses dossiers. → Il les a rangés.
+     - Il a rangé ses cartes de visite. → Il les a rangées.
+
+3. In the case of reflexive verbs (which always take être as their auxiliary in the passé composé), the participle generally agrees with the subject.
+
+   - Example:
+     - Nous nous sommes levés très tôt.
+
+   The `exception` is when the direct object comes after the reflexive verb. In this case, the past participle does not agree.
+
+   - Example:
+     - Elle s’est lavé les mains.
+     - `But`: Elle s’est lavée.
+
+   `Remember`: the participe passé never agrees with an indirect object.
+
+   - Example:
+     - Marie et Laurent `se` sont téléphoné.
+     - `se` = indirect object
+
+   The participe passé does not agree with the subject of the following verbs: se téléphoner, se parler, se mentir, se plaire (complaire/déplaire), se sourire, se rire, se nuire, se succéder, se suffire, se ressembler, s’en vouloir. This is because the reflexive pronoun is an indirect object. It is used in the sense of “each other” for these verbs.
+
+4. Although it is reflexive, the past participle of the verb se rendre compte (to realise) does not agree with the subject of the sentence. This is because the word compte acts as a direct object (se rendre quoi? → compte).
+   - Example:
+     - Elle s’est rendu compte de son erreur.
 
 ### Examples
 
@@ -797,6 +893,67 @@ Formed with the present tense of the verb "aller" + the infinitif of the main ve
 
 1. We conjugate the future tense by adding the endings -ai, -as, -a, -ons, -ez and -ont to the infinitive of the verb.
 2. The final `-e of -re` verbs is dropped before adding the future endings.
+
+#### Conjugation of Regular Verbs
+
+| Personne  | ending | -er verbs (aimer) | -ir verbs (finir) | -re verbs (vendre) |
+| --------- | ------ | ----------------- | ----------------- | ------------------ |
+| je        | -ai    | j'aimerai         | je finirai        | je vendrai         |
+| tu        | -as    | tu aimeras        | tu finiras        | tu vendras         |
+| il/elle   | -a     | il aimera         | il finira         | il vendra          |
+| nous      | -ons   | nous aimerons     | nous finirons     | nous vendrons      |
+| vous      | -ez    | vous aimerez      | vous finirez      | vous vendrez       |
+| ils/elles | -ont   | ils aimeront      | ils finiront      | ils vendront       |
+
+#### Conjugation of Common Irregular Verbs: avoir, être, aller, faire, pouvoir, savoir, venir, voir, vouloir
+
+| Personne  | avoir (to have) | être (to be) | aller (to go) | faire (to do) |
+| --------- | --------------- | ------------ | ------------- | ------------- |
+| je        | j'aurai         | je serai     | j'irai        | je ferai      |
+| tu        | tu auras        | tu seras     | tu iras       | tu feras      |
+| il/elle   | il aura         | il sera      | il ira        | il fera       |
+| nous      | nous aurons     | nous serons  | nous irons    | nous ferons   |
+| vous      | vous aurez      | vous serez   | vous irez     | vous ferez    |
+| ils/elles | ils auront      | ils seront   | ils iront     | ils feront    |
+
+| Personne  | pouvoir (to be able to) | savoir (to know) | venir (to come) | voir (to see) | vouloir (to want) |
+| --------- | ----------------------- | ---------------- | --------------- | ------------- | ----------------- |
+| je        | je pourrai              | je saurai        | je viendrai     | je verrai     | je voudrai        |
+| tu        | tu pourras              | tu sauras        | tu viendras     | tu verras     | tu voudras        |
+| il/elle   | il pourra               | il saura         | il viendra      | il verra      | il voudra         |
+| nous      | nous pourrons           | nous saurons     | nous viendrons  | nous verrons  | nous voudrons     |
+| vous      | vous pourrez            | vous saurez      | vous viendrez   | vous verrez   | vous voudrez      |
+| ils/elles | ils pourront            | ils sauront      | ils viendront   | ils verront   | ils voudront      |
+
+#### Exceptions
+
+1. Add a grave accent to a short e in the stem of the verb.
+
+   - Examples:
+     - peser – je pèserai
+     - modeler – je modèlerai
+
+2. Many verbs ending in -eler/-eter double the final consonants.
+
+   - Example:
+     - jeter – je jetterai
+
+3. Some verbs lose the i of the ending -rir before adding the future ending.
+
+   - Examples:
+     -courir – je courrai
+     -mourir – je mourrai
+
+4. For verbs ending in -yer, the y becomes an i in the futur simple. For verbs ending in -ayer, both y and i are permitted. (Note: the following verbs don’t follow this pattern: envoyer → j’enverrai and renvoyer → je renverrai).
+
+   - Examples:
+     - employer – j’emploierai, tu emploieras, il emploiera, nous emploierons, vous emploierez, ils emploieront
+     - payer – je payerai/paierai
+
+5. Verbs ending in -oir are irregular in the futur simple, as are aller, envoyer, faire and venir. Check their conjugation in the list of irregular verbs.
+
+   - Example:
+     - pouvoir – je pourrai, tu pourras, il pourra, nous pourrons, vous pourrez, ils pourront
 
 ## Future Simple vs Futur Proche
 
